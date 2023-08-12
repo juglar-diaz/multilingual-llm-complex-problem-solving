@@ -1,0 +1,16 @@
+datasets==2.12.0
+openai==0.27.8
+tqdm==4.65.0
+ipykernel==6.23.1
+jupyter==1.0.0
+python-dotenv==1.0.0
+tenacity==8.2.2
+pandas==2.0.2
+pyarrow==12.0.0
+nltk==3.8.1
+google-cloud-translate==2.0.1
+sympy==1.12
+backoff==2.2.1
+gym==0.26.2
+shapely<2.0.0
+google-cloud-aiplatform==1.28.1
