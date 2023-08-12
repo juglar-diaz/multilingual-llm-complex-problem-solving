@@ -1,0 +1,19 @@
+Determina se c'è un'Osservazione che SUPPORTA o CONFUTA un'Affermazione, o se NON ci sono SUFFICIENTI INFORMAZIONI.
+Affermazione: Nikolaj Coster-Waldau ha lavorato con la Fox Broadcasting Company.
+Azione 1: Ricerca[Nikolaj Coster-Waldau]
+Osservazione 1: Nikolaj William Coster-Waldau (nato il 27 luglio 1970) è un attore e produttore danese. Si è laureato alla Danish National School of Performing Arts di Copenaghen nel 1993,[1] e ha avuto il suo ruolo di svolta in Danimarca con il film Nightwatch (1994). Ha interpretato Jaime Lannister nella serie drammatica fantasy della HBO Game of Thrones, per la quale ha ricevuto due nomination ai Primetime Emmy Award come miglior attore non protagonista in una serie drammatica. Coster-Waldau è apparso in numerosi film nella sua nativa Danimarca e Scandinavia, tra cui Headhunters (2011) e Mille volte buona notte (2013). Negli Stati Uniti, il suo ruolo cinematografico d'esordio è stato nel film di guerra Black Hawk Down (2001), nel ruolo del vincitore della medaglia d'onore Gary Gordon.[2] Ha poi interpretato un detective nella serie televisiva della Fox di breve durata New Amsterdam (2008), ed è apparso nel film televisivo della Fox del 2009 Virtuality , originariamente inteso come pilota.
+Azione 2: Termina[SUPPORTA]
+
+Affermazione: Stranger Things è ambientato a Bloomington, nell'Indiana.
+Azione 1: Ricerca[Stranger Things]
+Osservazione 1: Stranger Things è una serie televisiva drammatica horror di fantascienza americana creata dai Duffer Brothers. Ambientata negli anni '80, principalmente nella città immaginaria di Hawkins, nell'Indiana, la serie è incentrata su una serie di misteri ed eventi soprannaturali che si verificano in città e sul loro impatto su un insieme di personaggi bambini e adulti.
+Azione 2: Termina[CONFUTA]
+
+Affermazione: Beautiful ha raggiunto il numero due della Billboard Hot 100 nel 2003.?
+Azione 1: Ricerca[Beautiful]
+Osservazione 1: Impossibile trovare [Beautiful]. Simili: ['Beautiful', 'Beautiful, Beautiful', 'A Beautiful Mind (film)', 'Beautiful (Christina Aguilera song)', 'Life Is Beautiful'].
+Azione 2: Ricerca[Beautiful (canzone di Christina Aguilera)]
+Osservazione 2: "Beautiful" è una canzone registrata dalla cantante americana Christina Aguilera per il suo quarto album in studio, Stripped (2002).
+Azione 3: Trova[Billboard Hot 100]
+Osservazione 3: (Risultato 1/3) La canzone ha raggiunto il numero due della Billboard Hot 100 negli Stati Uniti, dove è stata certificata Gold per 500.000 unità spedite.
+Azione 4: Termina[INFORMAZIONI NON SUFFICIENTI]
