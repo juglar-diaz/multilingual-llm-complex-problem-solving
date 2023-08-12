@@ -1,0 +1,224 @@
+[
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "1 1 4 6",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "1 + 1 = 2 (rester: 2 4 6)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n",
+                    "4 / 1 = 4 (rester: 1 4 6)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n",
+                    "6 / 4 = 1.5 (impossible, car il faut rester avec des nombres entiers)\n",
+                    "1 * 1 = 1 (impossible, car il faut rester avec des nombres sup\u00e9rieurs \u00e0 1)\n"
+                ],
+                "values": [
+                    3.0,
+                    22.0,
+                    60.0,
+                    22.0,
+                    0.003,
+                    0.003
+                ],
+                "select_new_ys": [
+                    "4 / 1 = 4 (rester: 1 4 6)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "1 1 4 6",
+                "ys": [
+                    "4 / 1 = 4 (rester: 1 4 6)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n"
+                ],
+                "new_ys": [
+                    "4 / 1 = 4 (rester: 1 4 6)\n1 + 4 = 5 (rester: 5 6)\n",
+                    "4 / 1 = 4 (rester: 1 4 6)\n4 + 6 = 10 (rester: 1 10)\n",
+                    "4 / 1 = 4 (rester: 1 4 6)\n1 * 4 = 4 (rester: 4 6)\n",
+                    "4 / 1 = 4 (rester: 1 4 6)\n6 - 4 = 2 (rester: 1 2)\n",
+                    "4 / 1 = 4 (rester: 1 4 6)\n6 / 2 = 3 (rester: 1 3)\n",
+                    "4 / 1 = 4 (rester: 1 4 6)\n4 - 1 = 3 (rester: 3 6)\n",
+                    "4 / 1 = 4 (rester: 1 4 6)\n6 - 1 = 5 (rester: 4 5)\n",
+                    "4 / 1 = 4 (rester: 1 4 6)\n4 / 1 = 4 (rester: 4 6)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n1 + 3 = 4 (rester: 4 6)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n3 + 6 = 9 (rester: 1 9)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n1 * 3 = 3 (rester: 3 6)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n6 / 3 = 2 (rester: 1 2)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n3 * 6 = 18 (rester: 1 18)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n6 - 3 = 3 (rester: 1 3)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n6 / 2 = 3 (rester: 1 3)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n6 - 1 = 5 (rester: 3 5)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\nEntr\u00e9e: 9 12 3\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\nProchaines \u00e9tapes possibles:\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n9 + 12 = 21 (rester: 21 3)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n12 / 3 = 4 (rester: 9 4)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n3 + 9 = 12 (rester: 12 3)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n9 * 12 = 108 (rester: 108 3)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n12 - 3 = 9 (rester: 9 9)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n12 / 2 = 6 (rester: 6 3)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n9 * 3 = 27 (rester: 27 12)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n12 - 9 = 3 (rester: 3 3)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\nEntr\u00e9e: 5 5 5\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\nProchaines \u00e9tapes possibles:\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n5 + 5 = 10 (rester: 10 5)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n5 / 5 = 1 (rester: 1 5)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n5 * 5 = 25 (rester: 25 5)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n5 - 5 = 0 (rester: 0 5)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n5 / 1 = 5 (rester: 5 5)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n5 + 1 = 6 (rester: 6 6)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n6 * 5 = 30 (rester: 30 6)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n6 / 5 = 1.2 (rester: 1.2 6)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n6 - 5 = 1 (rester: 1 5)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n5 - 1 = 4 (rester: 1 4)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 * 5 = 5 (rester: 5 6)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n5 - 1 = 4 (rester: 4 6)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n5 / 1 = 5 (rester: 5 6)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n5 - 6 = -1 (rester: 1 5)\n"
+                ],
+                "values": [
+                    0.0,
+                    0.002,
+                    0.0,
+                    1.002,
+                    0.0,
+                    1.001,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.001,
+                    1.001,
+                    1.002,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.002,
+                    0.001,
+                    0.003,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0.0,
+                    0.002,
+                    1.002,
+                    0.003,
+                    0,
+                    0.0,
+                    1.001,
+                    1.001,
+                    0.001,
+                    0.001,
+                    20.0,
+                    20.0,
+                    0.0,
+                    0.0,
+                    1.001,
+                    2.001,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.001
+                ],
+                "select_new_ys": [
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n5 + 1 = 6 (rester: 6 6)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n12 - 3 = 9 (rester: 9 9)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "1 1 4 6",
+                "ys": [
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n5 + 1 = 6 (rester: 6 6)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n12 - 3 = 9 (rester: 9 9)\n"
+                ],
+                "new_ys": [
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 + 6 = 12 (rester: 12)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 / 6 = 1 (rester: 1)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 - 6 = 0 (rester: 0)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n5 + 1 = 6 (rester: 6 6)\n6 + 6 = 12 (rester: 12)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n5 + 1 = 6 (rester: 6 6)\n6 / 6 = 1 (rester: 1)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n5 + 1 = 6 (rester: 6 6)\n6 * 6 = 36 (rester: 36)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n5 + 1 = 6 (rester: 6 6)\n6 - 6 = 0 (rester: 0)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n12 - 3 = 9 (rester: 9 9)\n9 + 9 = 18 (rester: 18)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n12 - 3 = 9 (rester: 9 9)\n9 / 9 = 1 (rester: 1)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n12 - 3 = 9 (rester: 9 9)\n9 - 9 = 0 (rester: 0)\n",
+                    "4 - 1 = 3 (rester: 1 3 6)\n12 - 3 = 9 (rester: 9 9)\n9 * 9 = 81 (rester: 81)\n"
+                ],
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 + 6 = 12 (rester: 12)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 / 6 = 1 (rester: 1)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 - 6 = 0 (rester: 0)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "1 1 4 6",
+                "ys": [
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 + 6 = 12 (rester: 12)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 / 6 = 1 (rester: 1)\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 - 6 = 0 (rester: 0)\n"
+                ],
+                "new_ys": [
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 + 6 = 12 (rester: 12)\nIl n'y a pas de prochaines \u00e9tapes possibles car il n'y a qu'un seul nombre dans l'entr\u00e9e.\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 / 6 = 1 (rester: 1)\nImpossible de r\u00e9aliser une op\u00e9ration math\u00e9matique avec une seule entr\u00e9e. Veuillez entrer au moins deux nombres.\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 - 6 = 0 (rester: 0)\nL'entr\u00e9e \u00e9tant 0, il n'y a pas de prochaines \u00e9tapes possibles car il n'y a pas de chiffre \u00e0 utiliser dans les op\u00e9rations.\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 + 6 = 12 (rester: 12)\nIl n'y a pas de prochaines \u00e9tapes possibles car il n'y a qu'un seul nombre dans l'entr\u00e9e.\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 / 6 = 1 (rester: 1)\nImpossible de r\u00e9aliser une op\u00e9ration math\u00e9matique avec une seule entr\u00e9e. Veuillez entrer au moins deux nombres.\n",
+                    "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 - 6 = 0 (rester: 0)\nL'entr\u00e9e \u00e9tant 0, il n'y a pas de prochaines \u00e9tapes possibles car il n'y a pas de chiffre \u00e0 utiliser dans les op\u00e9rations.\n"
+                ]
+            }
+        ],
+        "idx": 0,
+        "ys": [
+            "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 + 6 = 12 (rester: 12)\nIl n'y a pas de prochaines \u00e9tapes possibles car il n'y a qu'un seul nombre dans l'entr\u00e9e.\n",
+            "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 / 6 = 1 (rester: 1)\nImpossible de r\u00e9aliser une op\u00e9ration math\u00e9matique avec une seule entr\u00e9e. Veuillez entrer au moins deux nombres.\n",
+            "6 - 1 = 5 (rester: 1 5 6)\n1 + 5 = 6 (rester: 6 6)\n6 - 6 = 0 (rester: 0)\nL'entr\u00e9e \u00e9tant 0, il n'y a pas de prochaines \u00e9tapes possibles car il n'y a pas de chiffre \u00e0 utiliser dans les op\u00e9rations.\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3671,
+            "prompt_tokens": 19587,
+            "cost": 0.0046516
+        }
+    }
+]

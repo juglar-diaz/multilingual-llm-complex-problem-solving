@@ -1,0 +1,3671 @@
+[
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "No es dif\u00edcil hacer una parada de manos si solo te paras sobre tus manos. Le pill\u00f3 desprevenido que el espacio oliera a bistec chamuscado. Cuando no le gustaba un chico que estaba tratando de ligar con ella, comenz\u00f3 a usar el lenguaje de se\u00f1as. Cada persona que te conoce tiene una percepci\u00f3n diferente de qui\u00e9n eres.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 0,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    9,
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "El halc\u00f3n no entend\u00eda por qu\u00e9 las ardillas terrestres no quer\u00edan ser sus amigas. Si no me gusta algo, me mantendr\u00e9 alejado de ello. La gente sigue dici\u00e9ndome \"naranja\", pero sigo prefiriendo \"rosa\". So\u00f1aba con dejar su bufete de abogados para abrir un lavado de perros port\u00e1til.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 1,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    7,
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Mi mayor alegr\u00eda es asar almendras mientras acecho a la presa. Te das cuenta de que no est\u00e1s solo mientras te sientas en tu habitaci\u00f3n y te masajeas las pantorrillas despu\u00e9s de un largo d\u00eda jugando tira y afloja con el abuelo Joe en el hospital. Las hormigas disfrutaron m\u00e1s de la barbacoa que de la familia. El halc\u00f3n no entend\u00eda por qu\u00e9 las ardillas terrestres no quer\u00edan ser sus amigas.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 2,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    9,
+                    7
+                ],
+                "r": 8.333333333333334
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Sin saberlo, hab\u00eda tomado el sonambulismo como un pasatiempo nocturno. El paso elevado pas\u00f3 por debajo de la carretera y en un mundo secreto. Descubri\u00f3 que su arte nunca progres\u00f3 cuando literalmente us\u00f3 su sudor y l\u00e1grimas. Siempre fue peligroso conducir con \u00e9l porque insist\u00eda en que los conos de seguridad eran una pista de slalom.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    " Plan:",
+                    " Plan:"
+                ],
+                "values": [
+                    0,
+                    0,
+                    3
+                ],
+                "select_new_ys": [
+                    " Plan:"
+                ]
+            }
+        ],
+        "idx": 3,
+        "ys": [
+            " Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Joe descubri\u00f3 que los conos de tr\u00e1fico son excelentes meg\u00e1fonos. Te das cuenta de que no est\u00e1s solo mientras te sientas en tu habitaci\u00f3n y te masajeas las pantorrillas despu\u00e9s de un largo d\u00eda jugando tira y afloja con el abuelo Joe en el hospital. Estaba empezando a preocuparme de que mi tortuga mascota pudiera saber lo que estaba pensando. Est\u00e1 en una banda de chicos que no tiene mucho sentido para una serpiente.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    1,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 4,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7,
+                    7
+                ],
+                "r": 7.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Le sorprendi\u00f3 que su inmensa pereza inspirara a otros. En lugar de una despedida de soltera. Te das cuenta de que no est\u00e1s solo cuando te sientas en tu habitaci\u00f3n y te masajeas las pantorrillas despu\u00e9s de un largo d\u00eda jugando tira y afloja con el abuelo Joe en el hospital. Si no me gusta algo, me mantendr\u00e9 alejado de ello.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    1,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 5,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Por alguna raz\u00f3n insondable, el equipo de respuesta no consider\u00f3 la falta de leche para mi cereal como una emergencia adecuada. Te das cuenta de que no est\u00e1s solo mientras te sientas en tu habitaci\u00f3n y te masajeas las pantorrillas despu\u00e9s de un largo d\u00eda jugando tira y afloja con el abuelo Joe en el hospital. Derram\u00f3 piedras en el calabozo de su mente. Soy un horno vivo.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 6,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Te das cuenta de que no est\u00e1s solo mientras te sientas en tu habitaci\u00f3n y te masajeas las pantorrillas despu\u00e9s de un largo d\u00eda jugando tira y afloja con el abuelo Joe en el hospital. Hoy llegu\u00e9 con un choque de mi auto a trav\u00e9s de la puerta del garaje. Ten\u00eda un amigo en la escuela secundaria llamado Rick Shaw, pero era bastante in\u00fatil como medio de transporte. Siempre fue peligroso conducir con \u00e9l porque insist\u00eda en que los conos de seguridad eran una pista de slalom.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 7,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Decidi\u00f3 fingir su desaparici\u00f3n para evitar la c\u00e1rcel. Era todo negocios cuando vest\u00eda su traje de payaso. Tenemos mucha lluvia en junio. El camino cubierto de nieve no fue de ayuda para salir del campo.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 8,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    6,
+                    8
+                ],
+                "r": 7.333333333333333
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "La cerca estaba confundida acerca de si se supon\u00eda que deb\u00eda mantener las cosas adentro o afuera. Entr\u00f3 silenciosamente al museo cuando comenz\u00f3 el Super Bowl. Cuando se enfrent\u00f3 a un tel\u00e9fono de disco, el adolescente qued\u00f3 perplejo. Descubri\u00f3 que la vida en una camioneta es dif\u00edcil con 2 gatos y un perro.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 9,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    7,
+                    8
+                ],
+                "r": 7.666666666666667
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "So\u00f1\u00f3 con comer manzanas verdes con gusanos. La nostalgia se volvi\u00f3 contagiosa en la caba\u00f1a de los j\u00f3venes campistas. No pod\u00eda entender por qu\u00e9 nadie m\u00e1s pod\u00eda ver que el cielo estaba lleno de algod\u00f3n de az\u00facar. No hab\u00eda helado en el congelador, ni ten\u00edan dinero para ir a la tienda.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 10,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Una gema brillante no es suficiente. Es mucho m\u00e1s dif\u00edcil jugar al tenis con una bola de bolos que jugar a los bolos con una pelota de tenis. Cuando se enfrent\u00f3 a un tel\u00e9fono de disco, el adolescente qued\u00f3 perplejo. Deber\u00eda haber habido un tiempo y un lugar, pero no lo era.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 11,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    9,
+                    8
+                ],
+                "r": 8.333333333333334
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "El loro azul pas\u00f3 junto a la mangosta que hac\u00eda autostop. Las hormigas disfrutaron m\u00e1s de la barbacoa que de la familia. El gran dan\u00e9s parec\u00eda m\u00e1s un caballo que un perro. Varias aves marinas son elegantes, pero nada es tan elegante como un pel\u00edcano planeando.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    2,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 12,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7,
+                    9,
+                    9
+                ],
+                "r": 8.333333333333334
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "El avisp\u00f3n asesino estaba decepcionado por las ideas preconcebidas que la gente ten\u00eda de \u00e9l. Se pregunt\u00f3 qu\u00e9 estar\u00edan diciendo sus ojos debajo de sus gafas de sol espejadas. El zorro del sombrero de copa susurr\u00f3 al o\u00eddo del conejo. Est\u00e1 en una banda de chicos que no tiene mucho sentido para una serpiente.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    1,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 13,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Probablemente haya suficiente vidrio en mi armario para construir un acuario submarino. Se decepcion\u00f3 cuando descubri\u00f3 que la playa era tan arenosa y el sol tan soleado. Se mir\u00f3 en el espejo y vio a otra persona. La repentina tormenta arrastr\u00f3 cocodrilos al oc\u00e9ano.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 14,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    7
+                ],
+                "r": 7.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Le pill\u00f3 desprevenido que el espacio oliera a bistec chamuscado. El m\u00fasico callejero esperaba que la gente que pasaba arrojara dinero, pero en su lugar arrojaron tomates, as\u00ed que cambi\u00f3 su sombrero por un exprimidor. Honestamente, no me import\u00f3 mucho la primera temporada, as\u00ed que no me molest\u00e9 con la segunda. Hoy llegu\u00e9 con un choque de mi auto a trav\u00e9s de la puerta del garaje.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 15,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7,
+                    8,
+                    9
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "No hab\u00eda helado en el congelador, ni ten\u00edan dinero para ir a la tienda. Las olas romp\u00edan en la orilla; fue una vista encantadora. Sab\u00eda que iba a ser un mal d\u00eda cuando vio pumas vagando por las calles. Es mucho m\u00e1s dif\u00edcil jugar al tenis con una bola de bolos que jugar a los bolos con una pelota de tenis.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 16,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7
+                ],
+                "r": 7.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Joe descubri\u00f3 que los conos de tr\u00e1fico son excelentes meg\u00e1fonos. Soy un horno vivo. La experiencia cercana a la muerte trajo nuevas ideas a la luz. Estaba empezando a preocuparme de que mi tortuga mascota pudiera saber lo que estaba pensando.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 17,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    10,
+                    9
+                ],
+                "r": 9.333333333333334
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Las advertencias escritas en los manuales de instrucciones no tienen valor ya que los conejos no saben leer. No est\u00e1s seguro de si confiar o no en \u00e9l, pero est\u00e1s muy agradecido de haber usado un cuello de tortuga. Te das cuenta de que no est\u00e1s solo mientras te sientas en tu habitaci\u00f3n y te masajeas las pantorrillas despu\u00e9s de un largo d\u00eda jugando tira y afloja con el abuelo Joe en el hospital. Las fresas deben ser el \u00fanico alimento que no combina bien con esta marca de pintura.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    " Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    0,
+                    3
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 18,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    9,
+                    10
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Las fresas deben ser el \u00fanico alimento que no combina bien con esta marca de pintura. Joe descubri\u00f3 que los conos de tr\u00e1fico son excelentes meg\u00e1fonos. Hay una raz\u00f3n por la que las rosas tienen espinas. Viajaba porque costaba lo mismo que la terapia y era mucho m\u00e1s agradable.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 19,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [],
+                "r": 0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Su cabello estaba alborotado mientras viajaba en el descapotable negro. Viajaba porque costaba lo mismo que la terapia y era mucho m\u00e1s agradable. Siempre es una buena idea buscar refugio de la mirada maligna del sol. Entreg\u00f3 el trabajo de investigaci\u00f3n el viernes; de lo contrario, no habr\u00eda aprobado la clase.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 20,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    7,
+                    7
+                ],
+                "r": 7.666666666666667
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Hoy llegu\u00e9 con un choque de mi auto a trav\u00e9s de la puerta del garaje. Nunca es reconfortante saber que tu destino depende de algo tan impredecible como el estallido de ma\u00edz. Se decepcion\u00f3 cuando descubri\u00f3 que la playa era tan arenosa y el sol tan soleado. Coraje y estupidez era todo lo que ten\u00eda.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 21,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    8
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Ten\u00eda algunas noticias incre\u00edbles para compartir, pero nadie con quien compartirlas. No pod\u00eda entender por qu\u00e9 nadie m\u00e1s pod\u00eda ver que el cielo estaba lleno de algod\u00f3n de az\u00facar. Cada persona que te conoce tiene una percepci\u00f3n diferente de qui\u00e9n eres. Decidi\u00f3 que hab\u00eda llegado el momento de ser m\u00e1s fuerte que cualquiera de las excusas que hab\u00eda usado hasta entonces.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 22,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    10,
+                    8
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "El loro azul pas\u00f3 junto a la mangosta que hac\u00eda autostop. Su plan para hacerse rico r\u00e1pidamente era cultivar una granja de cactus. Por alguna raz\u00f3n insondable, el equipo de respuesta no consider\u00f3 la falta de leche para mi cereal como una emergencia adecuada. Recog\u00eda basura en su tiempo libre para tirarla en el patio de su vecino.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 23,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    9
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Su cabello estaba alborotado mientras viajaba en el descapotable negro. Las hormigas disfrutaron m\u00e1s de la barbacoa que de la familia. La nostalgia se volvi\u00f3 contagiosa en la caba\u00f1a de los j\u00f3venes campistas. El m\u00fasico callejero esperaba que la gente que pasaba arrojara dinero, pero en su lugar arrojaron tomates, as\u00ed que cambi\u00f3 su sombrero por un exprimidor.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 24,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7,
+                    7,
+                    8
+                ],
+                "r": 7.333333333333333
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Soy un horno vivo. La experiencia cercana a la muerte trajo nuevas ideas a la luz. Le sorprendi\u00f3 que su inmensa pereza inspirara a otros. No hab\u00eda helado en el congelador, ni ten\u00edan dinero para ir a la tienda.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    1,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 25,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "No es dif\u00edcil hacer una parada de manos si solo te paras sobre tus manos. Prefiero ser un p\u00e1jaro que un pez. La nostalgia se volvi\u00f3 contagiosa en la caba\u00f1a de los j\u00f3venes campistas. Recog\u00eda basura en su tiempo libre para tirarla en el patio de su vecino.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    1,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 26,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    10
+                ],
+                "r": 9.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Derram\u00f3 piedras en el calabozo de su mente. No es dif\u00edcil hacer una parada de manos si solo te paras sobre tus manos. Nunca es reconfortante saber que tu destino depende de algo tan impredecible como el estallido de ma\u00edz. Est\u00e1 en una banda de chicos que no tiene mucho sentido para una serpiente.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 27,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7
+                ],
+                "r": 7.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Siempre fue peligroso conducir con \u00e9l porque insist\u00eda en que los conos de seguridad eran una pista de slalom. El calor recog\u00eda basura en su tiempo libre para tirarla en el patio de su vecino. La anaconda era la mayor mente criminal de esta parte del barrio.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    2,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 28,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    10
+                ],
+                "r": 10.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Soy un horno vivo. El libro est\u00e1 frente a la mesa. Entr\u00f3 al s\u00f3tano con la pel\u00edcula de terror de la noche anterior jugando en su cabeza. Entreg\u00f3 el trabajo de investigaci\u00f3n el viernes; de lo contrario, no habr\u00eda aprobado la clase.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 29,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    9
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Por alguna raz\u00f3n insondable, el equipo de respuesta no consider\u00f3 la falta de leche para mi cereal como una emergencia adecuada. Entreg\u00f3 el trabajo de investigaci\u00f3n el viernes; de lo contrario, no habr\u00eda aprobado la clase. Su cabello estaba alborotado mientras viajaba en el descapotable negro. Karen se dio cuenta de que la \u00fanica manera de entrar al cielo era haciendo trampa.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 30,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Siempre fue peligroso conducir con \u00e9l porque insist\u00eda en que los conos de seguridad eran una pista de slalom. Cubr\u00ed a mi amiga con aceite de beb\u00e9. Hoy llegu\u00e9 con un choque de mi auto a trav\u00e9s de la puerta del garaje. No pod\u00eda entender por qu\u00e9 nadie m\u00e1s pod\u00eda ver que el cielo estaba lleno de algod\u00f3n de az\u00facar.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    2,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 31,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7
+                ],
+                "r": 7.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "El libro est\u00e1 frente a la mesa. Deber\u00eda haber habido un tiempo y un lugar, pero no lo era. Prefiero ser un p\u00e1jaro que un pez. El loro azul pas\u00f3 junto a la mangosta que hac\u00eda autostop.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "**Plan:**",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    1,
+                    0
+                ],
+                "select_new_ys": [
+                    "**Plan:**"
+                ]
+            }
+        ],
+        "idx": 32,
+        "ys": [
+            "**Plan:**"
+        ],
+        "infos": [
+            {
+                "rs": [],
+                "r": 0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Karen se dio cuenta de que la \u00fanica manera de entrar al cielo era haciendo trampa. Dos asientos estaban vacantes. El hecho de que el agua sea roja no significa que no puedas beberla. Se pregunt\u00f3 qu\u00e9 estar\u00edan diciendo sus ojos debajo de sus gafas de sol espejadas.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 33,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Las fresas deben ser el \u00fanico alimento que no combina bien con esta marca de pintura. Le pill\u00f3 desprevenido que el espacio oliera a bistec chamuscado. El libro est\u00e1 frente a la mesa. Se decepcion\u00f3 cuando descubri\u00f3 que la playa era tan arenosa y el sol tan soleado.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 34,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Los miembros del equipo eran dif\u00edciles de diferenciar ya que todos llevaban el pelo recogido en una cola de caballo. Descubri\u00f3 que su arte nunca progres\u00f3 cuando literalmente us\u00f3 su sudor y l\u00e1grimas. No hab\u00eda helado en el congelador, ni ten\u00edan dinero para ir a la tienda. No est\u00e1s seguro de si confiar o no en \u00e9l, pero est\u00e1s muy agradecido de haber usado un cuello de tortuga.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    0,
+                    3
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 35,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [],
+                "r": 0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Los miembros del equipo eran dif\u00edciles de diferenciar ya que todos llevaban el pelo recogido en una cola de caballo. Fue la escasez lo que aliment\u00f3 su creatividad. Entreg\u00f3 el trabajo de investigaci\u00f3n el viernes; de lo contrario, no habr\u00eda aprobado la clase. El m\u00fasico callejero esperaba que la gente que pasaba arrojara dinero, pero en su lugar arrojaron tomates, as\u00ed que cambi\u00f3 su sombrero por un exprimidor.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    1,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 36,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Cada persona que te conoce tiene una percepci\u00f3n diferente de qui\u00e9n eres. Los miembros del equipo eran dif\u00edciles de diferenciar ya que todos llevaban el pelo recogido en una cola de caballo. El hecho de que el agua sea roja no significa que no puedas beberla. Tenemos mucha lluvia en junio.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 37,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7,
+                    8
+                ],
+                "r": 7.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Descubri\u00f3 que su arte nunca progres\u00f3 cuando literalmente us\u00f3 su sudor y l\u00e1grimas. Karen se dio cuenta de que la \u00fanica manera de entrar al cielo era haciendo trampa. El batido de t\u00e9 verde y aguacate result\u00f3 exactamente como se esperaba. Le pill\u00f3 desprevenido que el espacio oliera a bistec chamuscado.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 38,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Se mir\u00f3 en el espejo y vio a otra persona. Los miembros del equipo eran dif\u00edciles de diferenciar ya que todos llevaban el pelo recogido en una cola de caballo. Deber\u00eda haber habido un tiempo y un lugar, pero no lo era. El hecho de que el agua sea roja no significa que no puedas beberla.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 39,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    10,
+                    9,
+                    9
+                ],
+                "r": 9.333333333333334
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Finalmente entendi\u00f3 que el dolor era su amor sin lugar a donde ir. Las hormigas disfrutaron m\u00e1s de la barbacoa que de la familia. El camino cubierto de nieve no fue de ayuda para salir del campo. Nunca es reconfortante saber que tu destino depende de algo tan impredecible como el estallido de ma\u00edz.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 40,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [],
+                "r": 0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Viajaba porque costaba lo mismo que la terapia y era mucho m\u00e1s agradable. Decidi\u00f3 fingir su desaparici\u00f3n para evitar la c\u00e1rcel. El batido de t\u00e9 verde y aguacate result\u00f3 exactamente como se esperaba. Sab\u00eda que iba a ser un mal d\u00eda cuando vio pumas vagando por las calles.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 41,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    10,
+                    8
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "La repentina tormenta arrastr\u00f3 cocodrilos al oc\u00e9ano. Se pregunt\u00f3 qu\u00e9 estar\u00edan diciendo sus ojos debajo de sus gafas de sol espejadas. Si comer tortillas de tres huevos provoca un aumento de peso, los huevos de periquito son un buen sustituto. Sab\u00eda que iba a ser un mal d\u00eda cuando vio pumas vagando por las calles.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 42,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "El loro azul pas\u00f3 junto a la mangosta que hac\u00eda autostop. So\u00f1\u00f3 con comer manzanas verdes con gusanos. Era todo negocios cuando vest\u00eda su traje de payaso. El camino cubierto de nieve no fue de ayuda para salir del campo.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    2,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 43,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Solo sigue adelante y presiona ese bot\u00f3n. Karen se dio cuenta de que la \u00fanica manera de entrar al cielo era haciendo trampa. Mi mayor alegr\u00eda es asar almendras mientras acecho a la presa. Las olas romp\u00edan en la orilla; fue una vista encantadora.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 44,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [],
+                "r": 0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Gwen durmi\u00f3 mejor que nunca en su nueva cama de clavos. Aprendi\u00f3 la importante lecci\u00f3n de que un picnic en la playa en un d\u00eda ventoso es una mala idea. Le pill\u00f3 desprevenido que el espacio oliera a bistec chamuscado. Mi mayor alegr\u00eda es asar almendras mientras acecho a la presa.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 45,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    8,
+                    9
+                ],
+                "r": 8.666666666666666
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Joe descubri\u00f3 que los conos de tr\u00e1fico son excelentes meg\u00e1fonos. Las advertencias escritas en los manuales de instrucciones no tienen valor ya que los conejos no saben leer. Si no me gusta algo, me mantendr\u00e9 alejado de ello. Sol\u00eda confundirse entre soldados y hombros, pero como militar, ahora tiene la responsabilidad de los soldados.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 46,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7,
+                    9
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Aprendi\u00f3 la importante lecci\u00f3n de que un picnic en la playa en un d\u00eda ventoso es una mala idea. El gran dan\u00e9s parec\u00eda m\u00e1s un caballo que un perro. Las advertencias escritas en los manuales de instrucciones no tienen valor ya que los conejos no saben leer. Decidi\u00f3 que hab\u00eda llegado el momento de ser m\u00e1s fuerte que cualquiera de las excusas que hab\u00eda usado hasta entonces.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 47,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    8
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Mi mayor alegr\u00eda es asar almendras mientras acecho a la presa. Cuando se enfrent\u00f3 a un tel\u00e9fono de disco, el adolescente qued\u00f3 perplejo. Sin saberlo, hab\u00eda tomado el sonambulismo como un pasatiempo nocturno. La experiencia cercana a la muerte trajo nuevas ideas a la luz.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 48,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Mi secretaria es la \u00fanica persona que realmente entiende mi obsesi\u00f3n por coleccionar sellos. En lugar de una despedida de soltera, solo adelante y presiona ese bot\u00f3n. Las hormigas disfrutaron m\u00e1s de la barbacoa que de la familia.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 49,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    10
+                ],
+                "r": 10.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Le pill\u00f3 desprevenido que el espacio oliera a bistec chamuscado. El gran dan\u00e9s parec\u00eda m\u00e1s un caballo que un perro. Se decepcion\u00f3 cuando descubri\u00f3 que la playa era tan arenosa y el sol tan soleado. Deber\u00eda haber habido un tiempo y un lugar, pero no lo era.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    " Plan:"
+                ],
+                "values": [
+                    0,
+                    0,
+                    3
+                ],
+                "select_new_ys": [
+                    " Plan:"
+                ]
+            }
+        ],
+        "idx": 50,
+        "ys": [
+            " Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    9,
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Entreg\u00f3 el trabajo de investigaci\u00f3n el viernes; de lo contrario, no habr\u00eda aprobado la clase. Los tomates son excelentes armas cuando no hay globos de agua disponibles. Recog\u00eda basura en su tiempo libre para tirarla en el patio de su vecino. Le pill\u00f3 desprevenido que el espacio oliera a bistec chamuscado.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    1,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 51,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Sin saberlo, hab\u00eda tomado el sonambulismo como un pasatiempo nocturno. So\u00f1aba con dejar su bufete de abogados para abrir un lavado de perros port\u00e1til. Cuando se enfrent\u00f3 a un tel\u00e9fono de disco, el adolescente qued\u00f3 perplejo. Probablemente haya suficiente vidrio en mi armario para construir un acuario submarino.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    3,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 52,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    9,
+                    8
+                ],
+                "r": 8.333333333333334
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Est\u00e1 en una banda de chicos que no tiene mucho sentido para una serpiente. Estaba empezando a preocuparme de que mi tortuga mascota pudiera saber lo que estaba pensando. Te das cuenta de que no est\u00e1s solo mientras te sientas en tu habitaci\u00f3n y te masajeas las pantorrillas despu\u00e9s de un largo d\u00eda jugando tira y afloja con el abuelo Joe en el hospital. Recog\u00eda basura en su tiempo libre para tirarla en el patio de su vecino.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 53,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Una gema brillante no es suficiente. El batido de t\u00e9 verde y aguacate result\u00f3 exactamente como se esperaba. La experiencia cercana a la muerte trajo nuevas ideas a la luz. Hoy llegu\u00e9 con un choque de mi auto a trav\u00e9s de la puerta del garaje.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    1,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 54,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Su cabello estaba alborotado mientras viajaba en el descapotable negro. Su plan para hacerse rico r\u00e1pidamente era cultivar una granja de cactus. Entr\u00f3 silenciosamente al museo cuando comenz\u00f3 el Super Bowl. Se decepcion\u00f3 cuando descubri\u00f3 que la playa era tan arenosa y el sol tan soleado.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    3,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 55,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    7,
+                    7
+                ],
+                "r": 7.666666666666667
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Est\u00e1 en una banda de chicos que no tiene mucho sentido para una serpiente. Era todo negocios cuando vest\u00eda su traje de payaso. El halc\u00f3n no entend\u00eda por qu\u00e9 las ardillas terrestres no quer\u00edan ser sus amigas. Cuando se enfrent\u00f3 a un tel\u00e9fono de disco, el adolescente qued\u00f3 perplejo.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 56,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7,
+                    9,
+                    5
+                ],
+                "r": 7.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Fue la escasez lo que aliment\u00f3 su creatividad. Las fresas deben ser el \u00fanico alimento que no combina bien con esta marca de pintura. Era todo negocios cuando vest\u00eda su traje de payaso. El paso elevado pas\u00f3 por debajo de la carretera y en un mundo secreto.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 57,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    8
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Varias aves marinas son elegantes, pero nada es tan elegante como un pel\u00edcano planeando. Coraje y estupidez era todo lo que ten\u00eda. Hay una raz\u00f3n por la que las rosas tienen espinas. Le sorprendi\u00f3 que su inmensa pereza inspirara a otros.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    " Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    " Plan:"
+                ]
+            }
+        ],
+        "idx": 58,
+        "ys": [
+            " Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    8,
+                    9
+                ],
+                "r": 8.333333333333334
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "En lugar de una despedida de soltera, el gavil\u00e1n no entend\u00eda por qu\u00e9 las ardillas terrestres no quer\u00edan ser sus amigas. Mi secretaria es la \u00fanica persona que realmente entiende mi obsesi\u00f3n por coleccionar sellos. Fue la escasez lo que aliment\u00f3 su creatividad.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    " Plan:"
+                ],
+                "values": [
+                    0,
+                    0,
+                    3
+                ],
+                "select_new_ys": [
+                    " Plan:"
+                ]
+            }
+        ],
+        "idx": 59,
+        "ys": [
+            " Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    9
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Por 216\u00aa vez, dijo que dejar\u00eda de beber refrescos despu\u00e9s de esta \u00faltima Coca-Cola. Hoy llegu\u00e9 con un choque de mi auto a trav\u00e9s de la puerta del garaje. Fue la escasez lo que aliment\u00f3 su creatividad. Cuando no le gustaba un chico que estaba tratando de ligar con ella, comenz\u00f3 a usar el lenguaje de se\u00f1as.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 60,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7
+                ],
+                "r": 7.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Si comer tortillas de tres huevos provoca un aumento de peso, los huevos de periquito son un buen sustituto. Solo sigue adelante y presiona ese bot\u00f3n. Las advertencias escritas en los manuales de instrucciones no tienen valor ya que los conejos no saben leer. Cubr\u00ed a mi amiga con aceite de beb\u00e9.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 61,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    10
+                ],
+                "r": 9.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Una gema brillante no es suficiente. Gwen durmi\u00f3 mejor que nunca en su nueva cama de clavos. La experiencia cercana a la muerte trajo nuevas ideas a la luz. Finalmente entendi\u00f3 que el dolor era su amor sin lugar a donde ir.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    2,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 62,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    9
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Sin saberlo, hab\u00eda tomado el sonambulismo como un pasatiempo nocturno. La anaconda era la mayor mente criminal de esta parte del barrio. La repentina tormenta arrastr\u00f3 cocodrilos al oc\u00e9ano. Por alguna raz\u00f3n insondable, el equipo de respuesta no consider\u00f3 la falta de leche para mi cereal como una emergencia adecuada.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 63,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Entr\u00f3 al s\u00f3tano con la pel\u00edcula de terror de la noche anterior jugando en su cabeza. Deber\u00eda haber habido un tiempo y un lugar, pero no lo era. Le pill\u00f3 desprevenido que el espacio oliera a bistec chamuscado. Derram\u00f3 piedras en el calabozo de su mente.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    1,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 64,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    10,
+                    8
+                ],
+                "r": 8.666666666666666
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "No est\u00e1s seguro de si confiar o no en \u00e9l, pero est\u00e1s muy agradecido de haber usado un cuello de tortuga. El libro est\u00e1 frente a la mesa. Le pill\u00f3 desprevenido que el espacio oliera a bistec chamuscado. No es dif\u00edcil hacer una parada de manos si solo te paras sobre tus manos.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 65,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    9
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "No pod\u00eda entender por qu\u00e9 nadie m\u00e1s pod\u00eda ver que el cielo estaba lleno de algod\u00f3n de az\u00facar. La repentina tormenta arrastr\u00f3 cocodrilos al oc\u00e9ano. Varias aves marinas son elegantes, pero nada es tan elegante como un pel\u00edcano planeando. La nostalgia se volvi\u00f3 contagiosa en la caba\u00f1a de los j\u00f3venes campistas.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 66,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    8
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "La repentina tormenta arrastr\u00f3 cocodrilos al oc\u00e9ano. Las fresas deben ser el \u00fanico alimento que no combina bien con esta marca de pintura. Las hormigas disfrutaron m\u00e1s de la barbacoa que de la familia. Gwen durmi\u00f3 mejor que nunca en su nueva cama de clavos.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 67,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    8
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "El gran dan\u00e9s parec\u00eda m\u00e1s un caballo que un perro. La anaconda era la mayor mente criminal de esta parte del barrio. Coraje y estupidez era todo lo que ten\u00eda. Por 216\u00aa vez, dijo que dejar\u00eda de beber refrescos despu\u00e9s de esta \u00faltima Coca-Cola.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    1,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 68,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Honestamente, no me import\u00f3 mucho la primera temporada, as\u00ed que no me molest\u00e9 con la segunda. Mi mayor alegr\u00eda es asar almendras mientras acecho a la presa. Le pill\u00f3 desprevenido que el espacio oliera a bistec chamuscado. Los miembros del equipo eran dif\u00edciles de diferenciar ya que todos llevaban el pelo recogido en una cola de caballo.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 69,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    8,
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "So\u00f1aba con dejar su bufete de abogados para abrir un lavado de perros port\u00e1til. Soy un horno vivo. So\u00f1\u00f3 con comer manzanas verdes con gusanos. Nunca es reconfortante saber que tu destino depende de algo tan impredecible como el estallido de ma\u00edz.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 70,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7,
+                    8,
+                    8
+                ],
+                "r": 7.666666666666667
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Siempre fue peligroso conducir con \u00e9l porque insist\u00eda en que los conos de seguridad eran una pista de slalom. Gwen durmi\u00f3 mejor que nunca en su nueva cama de clavos. Derram\u00f3 piedras en el calabozo de su mente. Fue la escasez lo que aliment\u00f3 su creatividad.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    1,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 71,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [],
+                "r": 0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Derram\u00f3 piedras en el calabozo de su mente. Los tomates son excelentes armas cuando no hay globos de agua disponibles. Aprendi\u00f3 la importante lecci\u00f3n de que un picnic en la playa en un d\u00eda ventoso es una mala idea. Los miembros del equipo eran dif\u00edciles de diferenciar ya que todos llevaban el pelo recogido en una cola de caballo.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    " Plan:"
+                ],
+                "values": [
+                    0,
+                    1,
+                    2
+                ],
+                "select_new_ys": [
+                    " Plan:"
+                ]
+            }
+        ],
+        "idx": 72,
+        "ys": [
+            " Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7,
+                    8
+                ],
+                "r": 7.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Mi secretaria es la \u00fanica persona que realmente entiende mi obsesi\u00f3n por coleccionar sellos. Descubri\u00f3 que la vida en una camioneta es dif\u00edcil con 2 gatos y un perro. No es dif\u00edcil hacer una parada de manos si solo te paras sobre tus manos. El camino cubierto de nieve no fue de ayuda para salir del campo.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 73,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Su proceso de pensamiento estaba en tantos niveles que se dio a s\u00ed mismo una fobia a las alturas. Cuando se enfrent\u00f3 a un tel\u00e9fono de disco, el adolescente qued\u00f3 perplejo. La cerca estaba confundida acerca de si se supon\u00eda que deb\u00eda mantener las cosas adentro o afuera. Nunca puede haber demasiadas cerezas en un helado.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    3,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 74,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    8
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Se decepcion\u00f3 cuando descubri\u00f3 que la playa era tan arenosa y el sol tan soleado. Solo sigue adelante y presiona ese bot\u00f3n. Le pill\u00f3 desprevenido que el espacio oliera a bistec chamuscado. Varias aves marinas son elegantes, pero nada es tan elegante como un pel\u00edcano planeando.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 75,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    8
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Su proceso de pensamiento estaba en tantos niveles que se dio a s\u00ed mismo una fobia a las alturas. Ten\u00eda un amigo en la escuela secundaria llamado Rick Shaw, pero era bastante in\u00fatil como medio de transporte. Decidi\u00f3 que hab\u00eda llegado el momento de ser m\u00e1s fuerte que cualquiera de las excusas que hab\u00eda usado hasta entonces. La cerca estaba confundida acerca de si se supon\u00eda que deb\u00eda mantener las cosas adentro o afuera.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 76,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    6
+                ],
+                "r": 7.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Se decepcion\u00f3 cuando descubri\u00f3 que la playa era tan arenosa y el sol tan soleado. Decidi\u00f3 fingir su desaparici\u00f3n para evitar la c\u00e1rcel. Coraje y estupidez era todo lo que ten\u00eda. Cada persona que te conoce tiene una percepci\u00f3n diferente de qui\u00e9n eres.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 77,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [],
+                "r": 0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Las fresas deben ser el \u00fanico alimento que no combina bien con esta marca de pintura. No pod\u00eda entender por qu\u00e9 nadie m\u00e1s pod\u00eda ver que el cielo estaba lleno de algod\u00f3n de az\u00facar. El paso elevado pas\u00f3 por debajo de la carretera y en un mundo secreto. Siempre fue peligroso conducir con \u00e9l porque insist\u00eda en que los conos de seguridad eran una pista de slalom.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 78,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    8
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Se pregunt\u00f3 qu\u00e9 estar\u00edan diciendo sus ojos debajo de sus gafas de sol espejadas. No est\u00e1s seguro de si confiar o no en \u00e9l, pero est\u00e1s muy agradecido de haber usado un cuello de tortuga. Dos asientos estaban vacantes. Los tomates son excelentes armas cuando no hay globos de agua disponibles.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    1,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 79,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "La experiencia cercana a la muerte trajo nuevas ideas a la luz. Su proceso de pensamiento estaba en tantos niveles que se dio a s\u00ed mismo una fobia a las alturas. Prefiero ser un p\u00e1jaro que un pez. Su cabello estaba alborotado mientras viajaba en el descapotable negro.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 80,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [],
+                "r": 0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Las hormigas disfrutaron m\u00e1s de la barbacoa que de la familia. Las advertencias escritas en los manuales de instrucciones no tienen valor ya que los conejos no saben leer. En lugar de una despedida de soltera, no hab\u00eda helado en el congelador, ni ten\u00edan dinero para ir a la tienda.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    " Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 81,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [],
+                "r": 0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Descubri\u00f3 que su arte nunca progres\u00f3 cuando literalmente us\u00f3 su sudor y l\u00e1grimas. Finalmente entendi\u00f3 que el dolor era su amor sin lugar a donde ir. Le sorprendi\u00f3 que su inmensa pereza inspirara a otros. Las advertencias escritas en los manuales de instrucciones no tienen valor ya que los conejos no saben leer.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    2,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 82,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "El loro azul pas\u00f3 junto a la mangosta que hac\u00eda autostop. Joe descubri\u00f3 que los conos de tr\u00e1fico son excelentes meg\u00e1fonos. Los tomates son excelentes armas cuando no hay globos de agua disponibles. Cuando se enfrent\u00f3 a un tel\u00e9fono de disco, el adolescente qued\u00f3 perplejo.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 83,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7
+                ],
+                "r": 7.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Se decepcion\u00f3 cuando descubri\u00f3 que la playa era tan arenosa y el sol tan soleado. Dos asientos estaban vacantes. La nostalgia se volvi\u00f3 contagiosa en la caba\u00f1a de los j\u00f3venes campistas. El paso elevado pas\u00f3 por debajo de la carretera y en un mundo secreto.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    2,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 84,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    10
+                ],
+                "r": 9.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Ten\u00eda algunas noticias incre\u00edbles para compartir, pero nadie con quien compartirlas. Recog\u00eda basura en su tiempo libre para tirarla en el patio de su vecino. Nunca puede haber demasiadas cerezas en un helado. Los miembros del equipo eran dif\u00edciles de diferenciar ya que todos llevaban el pelo recogido en una cola de caballo.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    3,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 85,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Cuando no le gustaba un chico que estaba tratando de ligar con ella, comenz\u00f3 a usar el lenguaje de se\u00f1as. Entreg\u00f3 el trabajo de investigaci\u00f3n el viernes; de lo contrario, no habr\u00eda aprobado la clase. Si no me gusta algo, me mantendr\u00e9 alejado de ello. Varias aves marinas son elegantes, pero nada es tan elegante como un pel\u00edcano planeando.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 86,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    8
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Cubr\u00ed a mi amiga con aceite de beb\u00e9. Las advertencias escritas en los manuales de instrucciones no tienen valor ya que los conejos no saben leer. Hab\u00eda carb\u00f3n en su calcet\u00edn y estaba emocionado. Sin saberlo, hab\u00eda tomado el sonambulismo como un pasatiempo nocturno.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    1,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 87,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    7,
+                    8
+                ],
+                "r": 7.666666666666667
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Estaba empezando a preocuparme de que mi tortuga mascota pudiera saber lo que estaba pensando. Aprendi\u00f3 la importante lecci\u00f3n de que un picnic en la playa en un d\u00eda ventoso es una mala idea. Las peque\u00f1as boyas blancas marcaron la ubicaci\u00f3n de cientos de nasas de cangrejo. Era todo negocios cuando vest\u00eda su traje de payaso.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    1,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 88,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    9
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "El hecho de que el agua sea roja no significa que no puedas beberla. El libro est\u00e1 frente a la mesa. La experiencia cercana a la muerte trajo nuevas ideas a la luz. Se decepcion\u00f3 cuando descubri\u00f3 que la playa era tan arenosa y el sol tan soleado.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 89,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    7
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Si comer tortillas de tres huevos provoca un aumento de peso, los huevos de periquito son un buen sustituto. Se pregunt\u00f3 qu\u00e9 estar\u00edan diciendo sus ojos debajo de sus gafas de sol espejadas. Se mir\u00f3 en el espejo y vio a otra persona. No hab\u00eda helado en el congelador, ni ten\u00edan dinero para ir a la tienda.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    2,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 90,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7,
+                    8
+                ],
+                "r": 7.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "El halc\u00f3n no entend\u00eda por qu\u00e9 las ardillas terrestres no quer\u00edan ser sus amigas. Entreg\u00f3 el trabajo de investigaci\u00f3n el viernes; de lo contrario, no habr\u00eda aprobado la clase. El loro azul pas\u00f3 junto a la mangosta que hac\u00eda autostop. Mi mayor alegr\u00eda es asar almendras mientras acecho a la presa.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    1,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 91,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Joe descubri\u00f3 que los conos de tr\u00e1fico son excelentes meg\u00e1fonos. Honestamente, no me import\u00f3 mucho la primera temporada, as\u00ed que no me molest\u00e9 con la segunda. Te das cuenta de que no est\u00e1s solo mientras te sientas en tu habitaci\u00f3n y te masajeas las pantorrillas despu\u00e9s de un largo d\u00eda jugando tira y afloja con el abuelo Joe en el hospital. Prefiero ser un p\u00e1jaro que un pez.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 92,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    7
+                ],
+                "r": 7.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Una gema brillante no es suficiente. Honestamente, no me import\u00f3 mucho la primera temporada, as\u00ed que no me molest\u00e9 con la segunda. Decidi\u00f3 que hab\u00eda llegado el momento de ser m\u00e1s fuerte que cualquiera de las excusas que hab\u00eda usado hasta entonces. No pod\u00eda entender por qu\u00e9 nadie m\u00e1s pod\u00eda ver que el cielo estaba lleno de algod\u00f3n de az\u00facar.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    0,
+                    3
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 93,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    8
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Honestamente, no me import\u00f3 mucho la primera temporada, as\u00ed que no me molest\u00e9 con la segunda. Su cabello estaba alborotado mientras viajaba en el descapotable negro. Se pregunt\u00f3 qu\u00e9 estar\u00edan diciendo sus ojos debajo de sus gafas de sol espejadas. Si no me gusta algo, me mantendr\u00e9 alejado de ello.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 94,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8
+                ],
+                "r": 8.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Siempre fue peligroso conducir con \u00e9l porque insist\u00eda en que los conos de seguridad eran una pista de slalom. \u00c9l no es James Bond; su nombre es Roger Moore. Coraje y estupidez era todo lo que ten\u00eda. Est\u00e1 en una banda de chicos que no tiene mucho sentido para una serpiente.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    0,
+                    0,
+                    3
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 95,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Hoy llegu\u00e9 con un choque de mi auto a trav\u00e9s de la puerta del garaje. El m\u00fasico callejero esperaba que la gente que pasaba arrojara dinero, pero en su lugar arrojaron tomates, as\u00ed que cambi\u00f3 su sombrero por un exprimidor. Por alguna raz\u00f3n insondable, el equipo de respuesta no consider\u00f3 la falta de leche para mi cereal como una emergencia adecuada. Tenemos mucha lluvia en junio.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 96,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    9
+                ],
+                "r": 8.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Entreg\u00f3 el trabajo de investigaci\u00f3n el viernes; de lo contrario, no habr\u00eda aprobado la clase. Nunca es reconfortante saber que tu destino depende de algo tan impredecible como el estallido de ma\u00edz. El libro est\u00e1 frente a la mesa. Las olas romp\u00edan en la orilla; fue una vista encantadora.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    1,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 97,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    7
+                ],
+                "r": 7.5
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Estaba empezando a preocuparme de que mi tortuga mascota pudiera saber lo que estaba pensando. El hecho de que el agua sea roja no significa que no puedas beberla. No es dif\u00edcil hacer una parada de manos si solo te paras sobre tus manos. Viajaba porque costaba lo mismo que la terapia y era mucho m\u00e1s agradable.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    " Plan:"
+                ],
+                "values": [
+                    3,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 98,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    9,
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Soy un horno vivo. Hay una raz\u00f3n por la que las rosas tienen espinas. \u00c9l no es James Bond; su nombre es Roger Moore. Su cabello estaba alborotado mientras viajaba en el descapotable negro.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:",
+                    "Plan:",
+                    "Plan:"
+                ],
+                "values": [
+                    2,
+                    0,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:"
+                ]
+            }
+        ],
+        "idx": 99,
+        "ys": [
+            "Plan:"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    9,
+                    9
+                ],
+                "r": 9.0
+            }
+        ]
+    }
+]

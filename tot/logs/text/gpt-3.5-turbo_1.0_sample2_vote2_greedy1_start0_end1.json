@@ -1,0 +1,45 @@
+[
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Non \u00e8 difficile fare una verticale se stai solo sulle mani. Lo colse alla sprovvista il fatto che lo spazio puzzasse di bistecca scottata. Quando non le piaceva un ragazzo che cercava di rimorchiarla, ha iniziato a usare il linguaggio dei segni. Ogni persona che ti conosce ha una percezione diversa di chi sei.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Paragrafo 1:\nPiano: Introduzione al tema della percezione e dell'identit\u00e0 personale.\nPassaggio: Ogni persona che ti conosce ha una percezione diversa di chi sei.\n\nParagrafo 2:\nPiano: Aneddoto sulla scoperta di un odore sgradevole in uno spazio chiuso.\nPassaggio: Lo colse alla sprovvista il fatto che lo spazio puzzasse di bistecca scottata.\n\nParagrafo 3:\nPiano: Esperienza di una ragazza che rifiuta gli uomini in modo originale.\nPassaggio: Quando non le piaceva un ragazzo che cercava di rimorchiarla, ha iniziato a usare il linguaggio dei segni.\n\nParagrafo 4:\nPiano: Riflessione sulla facilit\u00e0 di compiere azioni straordinarie se ci si concentra sull'obiettivo.\nPassaggio: Non \u00e8 difficile fare una verticale se stai solo sulle mani.",
+                    "Paragrafo 1:\nPiano: Parler\u00f2 dell'importanza delle posizioni di equilibrio durante gli esercizi fisici.\nPassaggio: Non \u00e8 difficile fare una verticale se stai solo sulle mani.\n\nParagrafo 2:\nPiano: Racconter\u00f2 un momento in cui un'esperienza olfattiva ha sorpreso il protagonista.\nPassaggio: Lo colse alla sprovvista il fatto che lo spazio puzzasse di bistecca scottata.\n\nParagrafo 3:\nPiano: Descriver\u00f2 come la protagonista ha trovato un modo per difendersi dai ragazzi invadenti.\nPassaggio: Quando non le piaceva un ragazzo che cercava di rimorchiarla, ha iniziato a usare il linguaggio dei segni.\n\nParagrafo 4:\nPiano: Rifletter\u00f2 sulla soggettivit\u00e0 nella percezione degli altri su di noi.\nPassaggio: Ogni persona che ti conosce ha una percezione diversa di chi sei.\n \nNota dall'AI: bel lavoro nella creazione del piano e il rispetto del formato richiesto."
+                ],
+                "values": [
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "Paragrafo 1:\nPiano: Introduzione al tema della percezione e dell'identit\u00e0 personale.\nPassaggio: Ogni persona che ti conosce ha una percezione diversa di chi sei.\n\nParagrafo 2:\nPiano: Aneddoto sulla scoperta di un odore sgradevole in uno spazio chiuso.\nPassaggio: Lo colse alla sprovvista il fatto che lo spazio puzzasse di bistecca scottata.\n\nParagrafo 3:\nPiano: Esperienza di una ragazza che rifiuta gli uomini in modo originale.\nPassaggio: Quando non le piaceva un ragazzo che cercava di rimorchiarla, ha iniziato a usare il linguaggio dei segni.\n\nParagrafo 4:\nPiano: Riflessione sulla facilit\u00e0 di compiere azioni straordinarie se ci si concentra sull'obiettivo.\nPassaggio: Non \u00e8 difficile fare una verticale se stai solo sulle mani."
+                ]
+            }
+        ],
+        "idx": 0,
+        "ys": [
+            "Paragrafo 1:\nPiano: Introduzione al tema della percezione e dell'identit\u00e0 personale.\nPassaggio: Ogni persona che ti conosce ha una percezione diversa di chi sei.\n\nParagrafo 2:\nPiano: Aneddoto sulla scoperta di un odore sgradevole in uno spazio chiuso.\nPassaggio: Lo colse alla sprovvista il fatto che lo spazio puzzasse di bistecca scottata.\n\nParagrafo 3:\nPiano: Esperienza di una ragazza che rifiuta gli uomini in modo originale.\nPassaggio: Quando non le piaceva un ragazzo che cercava di rimorchiarla, ha iniziato a usare il linguaggio dei segni.\n\nParagrafo 4:\nPiano: Riflessione sulla facilit\u00e0 di compiere azioni straordinarie se ci si concentra sull'obiettivo.\nPassaggio: Non \u00e8 difficile fare una verticale se stai solo sulle mani."
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7,
+                    7,
+                    7,
+                    7,
+                    7
+                ],
+                "r": 7.0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1310,
+            "prompt_tokens": 987,
+            "cost": 0.00045940000000000005
+        }
+    }
+]

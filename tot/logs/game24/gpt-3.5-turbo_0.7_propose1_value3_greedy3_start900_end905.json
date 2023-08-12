@@ -1,0 +1,1174 @@
+[
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "4 5 6 10",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "4 * 5 = 20 (quedan: 6 10 20)\n",
+                    "5 + 6 = 11 (quedan: 4 11 10)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n",
+                    "4 + 10 = 14 (quedan: 5 6 14)\n",
+                    "5 * 6 = 30 (quedan: 4 30 10)\n",
+                    "6 / 4 = 1.5 (no es una operaci\u00f3n v\u00e1lida con n\u00fameros enteros)\n",
+                    "10 / 4 = 2.5 (no es una operaci\u00f3n v\u00e1lida con n\u00fameros enteros)\n"
+                ],
+                "values": [
+                    1.001,
+                    2.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    2.0,
+                    0.003,
+                    0.003
+                ],
+                "select_new_ys": [
+                    "6 - 4 = 2 (quedan: 2 5 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n",
+                    "4 + 10 = 14 (quedan: 5 6 14)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "4 5 6 10",
+                "ys": [
+                    "6 - 4 = 2 (quedan: 2 5 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n",
+                    "4 + 10 = 14 (quedan: 5 6 14)\n"
+                ],
+                "new_ys": [
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 + 5 = 7 (quedan: 7 10)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 5 = 10 (quedan: 10 10)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n5 - 2 = 3 (quedan: 3 10)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n10 / 2 = 5 (quedan: 5 10)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n5 + 10 = 15 (quedan: 2 15)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n10 - 2 = 8 (quedan: 8 10)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n10 / 5 = 2 (quedan: 2 10)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n5 - 10 = -5 (no se puede continuar)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 + 5 = 11 (quedan: 10 11)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n5 - 6 = -1 (quedan: -1 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 * 5 = 30 (quedan: 10 30)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n5 * 10 = 50 (quedan: 6 50)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n10 - 6 = 4 (quedan: 4 5 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n10 - 5 = 5 (quedan: 5 5)\n",
+                    "4 + 10 = 14 (quedan: 5 6 14)\n5 + 6 = 11 (quedan: 11 14)\n",
+                    "4 + 10 = 14 (quedan: 5 6 14)\n5 / 6 = 0.8333 (no se puede continuar porque hay una divisi\u00f3n entre n\u00fameros enteros)\n",
+                    "4 + 10 = 14 (quedan: 5 6 14)\n6 + 14 = 20 (quedan: 5 20)\n",
+                    "4 + 10 = 14 (quedan: 5 6 14)\n5 * 6 = 30 (quedan: 30 14)\n",
+                    "4 + 10 = 14 (quedan: 5 6 14)\n6 - 5 = 1 (quedan: 1 14)\n",
+                    "4 + 10 = 14 (quedan: 5 6 14)\n14 - 5 = 9 (quedan: 5 9)\n",
+                    "4 + 10 = 14 (quedan: 5 6 14)\n14 / 5 = 2.8 (no se puede continuar porque hay una divisi\u00f3n entre n\u00fameros enteros)\n",
+                    "4 + 10 = 14 (quedan: 5 6 14)\n14 - 6 = 8 (quedan: 5 8)\n"
+                ],
+                "values": [
+                    1.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    2.0,
+                    3.0,
+                    0.0,
+                    2.0,
+                    0.003,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.001,
+                    3.0,
+                    3.0,
+                    0.002,
+                    0.0,
+                    0.003,
+                    0.0,
+                    0.0,
+                    2.001,
+                    0.0,
+                    0.003,
+                    0.001
+                ],
+                "select_new_ys": [
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n10 - 6 = 4 (quedan: 4 5 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "4 5 6 10",
+                "ys": [
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n10 - 6 = 4 (quedan: 4 5 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n"
+                ],
+                "new_ys": [
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n2 + 20 = 22 (quedan: 22)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n20 / 2 = 10 (quedan: 10)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n20 - 2 = 18 (quedan: 18)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n2 * 20 = 40 (quedan: 40)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\nEntrada: 5 7 9\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\nPosibles pr\u00f3ximos pasos:\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n5 + 7 = 12 (quedan: 12 9)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n7 + 9 = 16 (quedan: 5 16)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n5 * 7 = 35 (quedan: 35 9)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n7 - 5 = 2 (quedan: 2 9)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 7 = 2 (quedan: 5 2)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 / 5 = 1.8 (quedan: 1.8 7 9)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 * 7 = 63 (quedan: 5 7 63)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n10 - 6 = 4 (quedan: 4 5 10)\n4 + 5 = 9 (quedan: 9 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n10 - 6 = 4 (quedan: 4 5 10)\n5 - 4 = 1 (quedan: 1 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n10 - 6 = 4 (quedan: 4 5 10)\n10 + 4 = 14 (quedan: 4 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n10 - 6 = 4 (quedan: 4 5 10)\n4 * 5 = 20 (quedan: 20 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n10 - 6 = 4 (quedan: 4 5 10)\n5 / 4 = 1.25 (quedan: 1.25 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n10 - 6 = 4 (quedan: 4 5 10)\n10 - 4 = 6 (quedan: 4 6)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n10 - 6 = 4 (quedan: 4 5 10)\n10 - 5 = 5 (quedan: 4 5)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n10 - 6 = 4 (quedan: 4 5 10)\n4 / 5 = 0.8 (quedan: 0.8 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n1 + 5 = 6 (quedan: 6 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n5 * 10 = 50 (quedan: 1 50)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n5 - 1 = 4 (quedan: 4 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n10 / 5 = 2 (quedan: 1 2 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n10 - 5 = 5 (quedan: 1 5 5)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n5 + 1 = 6 (quedan: 6 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n10 - 1 = 9 (quedan: 1 5 9)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n5 / 1 = 5 (quedan: 5 10)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n1 * 10 = 10 (quedan: 1 10 10)\n"
+                ],
+                "values": [
+                    0.0,
+                    0.001,
+                    0.0,
+                    0.0,
+                    0.003,
+                    0.003,
+                    1.0,
+                    0.0,
+                    3.0,
+                    0.002,
+                    3.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    1.001,
+                    0.001,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.002,
+                    1.0,
+                    3.0,
+                    0.001,
+                    2.0,
+                    3.0,
+                    1.0,
+                    3.0,
+                    0.0,
+                    3.0
+                ],
+                "select_new_ys": [
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n7 - 5 = 2 (quedan: 2 9)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n5 * 10 = 50 (quedan: 1 50)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "4 5 6 10",
+                "ys": [
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n7 - 5 = 2 (quedan: 2 9)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n5 * 10 = 50 (quedan: 1 50)\n"
+                ],
+                "new_ys": [
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n4 + 7 = 11 (quedan: 9 11)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n7 - 4 = 3 (quedan: 3 9)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n9 + 4 = 13 (quedan: 7 13)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n4 * 7 = 28 (quedan: 9 28)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n7 / 4 = 1.75 (no es posible continuar con n\u00fameros decimales)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n9 - 4 = 5 (quedan: 5 7)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n7 - 9 = -2 (no es posible continuar con n\u00fameros negativos)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n4 / 7 = 0.57 (no es posible continuar con n\u00fameros decimales)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n7 - 5 = 2 (quedan: 2 9)\n2 + 9 = 11 (queda: 11)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n7 - 5 = 2 (quedan: 2 9)\n9 / 2 = 4.5 (queda: 4.5)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n7 - 5 = 2 (quedan: 2 9)\n2 * 9 = 18 (queda: 18)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n7 - 5 = 2 (quedan: 2 9)\n9 - 2 = 7 (queda: 7)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n5 * 10 = 50 (quedan: 1 50)\n1 + 50 = 51 (quedan: 51)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n5 * 10 = 50 (quedan: 1 50)\n50 / 2 = 25 (quedan: 1 25)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n5 * 10 = 50 (quedan: 1 50)\n50 - 1 = 49 (quedan: 49)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n5 * 10 = 50 (quedan: 1 50)\n1 * 50 = 50 (quedan: 50)\n",
+                    "10 - 4 = 6 (quedan: 6 5 10)\n6 - 5 = 1 (quedan: 1 5 10)\n5 * 10 = 50 (quedan: 1 50)\n50 - 50 = 0 (no hay m\u00e1s pasos posibles)\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n4 + 7 = 11 (quedan: 9 11)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n7 - 4 = 3 (quedan: 3 9)\n",
+                    "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n9 + 4 = 13 (quedan: 7 13)\n"
+                ]
+            }
+        ],
+        "idx": 900,
+        "ys": [
+            "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n4 + 7 = 11 (quedan: 9 11)\n",
+            "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n7 - 4 = 3 (quedan: 3 9)\n",
+            "6 - 4 = 2 (quedan: 2 5 10)\n2 * 10 = 20 (quedan: 2 20)\n9 - 5 = 4 (quedan: 4 7 9)\n9 + 4 = 13 (quedan: 7 13)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 7304,
+            "prompt_tokens": 31558,
+            "cost": 0.0077724000000000005
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "1 2 4 7",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "1 + 2 = 3 (quedan: 3 4 7)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n",
+                    "4 - 2 = 2 (quedan: 1 2 7)\n",
+                    "7 - 2 = 5 (quedan: 1 2 5)\n",
+                    "1 * 2 = 2 (quedan: 2 4 7)\n",
+                    "4 / 2 = 2 (quedan: 1 2 7)\n",
+                    "7 - 1 = 6 (quedan: 2 4 6)\n"
+                ],
+                "values": [
+                    3.0,
+                    3.0,
+                    3.0,
+                    2.0,
+                    3.0,
+                    3.0,
+                    2.0,
+                    3.0
+                ],
+                "select_new_ys": [
+                    "1 + 2 = 3 (quedan: 3 4 7)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "1 2 4 7",
+                "ys": [
+                    "1 + 2 = 3 (quedan: 3 4 7)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n"
+                ],
+                "new_ys": [
+                    "1 + 2 = 3 (quedan: 3 4 7)\n3 + 4 = 7 (quedan: 7 7)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n4 / 3 = 1.33 (no se puede continuar con n\u00fameros decimales)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n7 + 3 = 10 (quedan: 4 10)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n3 * 4 = 12 (quedan: 7 12)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n4 - 3 = 1 (quedan: 1 7)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n7 - 4 = 3 (quedan: 3 4)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n7 / 3 = 2.33 (no se puede continuar con n\u00fameros decimales)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n7 - 3 = 4 (quedan: 4 4)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\nEntrada: 5 10 15\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\nPosibles pr\u00f3ximos pasos:\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n5 + 10 = 15 (quedan: 15 15)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n10 / 5 = 2 (quedan: 2 15)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n15 + 5 = 20 (quedan: 10 20)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n5 * 10 = 50 (quedan: 15 50)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n10 - 5 = 5 (quedan: 5 15)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n15 - 10 = 5 (quedan: 5 5)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n15 / 5 = 3 (quedan: 3 5)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n15 - 5 = 10 (quedan: 10 10)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n1 + 6 = 7 (quedan: 7 7)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n6 - 1 = 5 (quedan: 5 7)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 + 1 = 8 (quedan: 6 8)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n6 * 7 = 42 (quedan: 42)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n6 / 1 = 6 (quedan: 6 7)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 6 = 1 (quedan: 1 6)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n6 / 7 = 0.857 (quedan: 0.857 6)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n6 - 7 = -1 (quedan: -1 6)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\nNo es posible realizar m\u00e1s operaciones con estos n\u00fameros enteros.\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n1 + 2 = 3 (quedan: 3 3)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n1 * 2 = 2 (quedan: 2 3)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n2 + 3 = 5 (quedan: 1 5)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n2 * 3 = 6 (quedan: 1 6)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n3 - 2 = 1 (quedan: 1 3)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n3 * 2 = 6 (quedan: 1 6)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n3 + 2 = 5 (quedan: 1 5)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n3 - 1 = 2 (quedan: 2 3)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\nEntrada: 5 10 15\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\nPosibles pr\u00f3ximos pasos:\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n5 + 10 = 15 (quedan: 15 15)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n5 * 10 = 50 (quedan: 50 15)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n10 + 15 = 25 (quedan: 5 25)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n10 * 15 = 150 (quedan: 5 150)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n15 - 5 = 10 (quedan: 10 15)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n15 * 5 = 75 (quedan: 75 15)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n15 - 10 = 5 (quedan: 5 15)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n15 / 5 = 3 (quedan: 3 10)\n",
+                    "7 - 4 = 3 (quedan: 1 2 3)\n15 / 10 = 1.5 (no se pueden utilizar n\u00fameros decimales, no hay m\u00e1s pasos posibles)\n"
+                ],
+                "values": [
+                    22.0,
+                    0.003,
+                    0.001,
+                    0.0,
+                    0.003,
+                    0.0,
+                    0.003,
+                    1.002,
+                    0.003,
+                    0.003,
+                    3.0,
+                    2.0,
+                    0.0,
+                    1.001,
+                    0.001,
+                    0.002,
+                    0.0,
+                    1.0,
+                    22.0,
+                    0,
+                    2.001,
+                    0.0,
+                    22.0,
+                    0.0,
+                    2.001,
+                    0.0,
+                    1.0,
+                    0.003,
+                    0.003,
+                    1.002,
+                    0.003,
+                    2.001,
+                    0.0,
+                    2.001,
+                    0.003,
+                    1.002,
+                    0.003,
+                    0.003,
+                    3.0,
+                    1.001,
+                    0.0,
+                    1.001,
+                    0.001,
+                    1.0,
+                    0.001,
+                    0.0,
+                    0.003
+                ],
+                "select_new_ys": [
+                    "1 + 2 = 3 (quedan: 3 4 7)\n3 + 4 = 7 (quedan: 7 7)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n1 + 6 = 7 (quedan: 7 7)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "1 2 4 7",
+                "ys": [
+                    "1 + 2 = 3 (quedan: 3 4 7)\n3 + 4 = 7 (quedan: 7 7)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n1 + 6 = 7 (quedan: 7 7)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n"
+                ],
+                "new_ys": [
+                    "1 + 2 = 3 (quedan: 3 4 7)\n3 + 4 = 7 (quedan: 7 7)\n7 + 7 = 14 (quedan: 14)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n3 + 4 = 7 (quedan: 7 7)\n7 / 7 = 1 (quedan: 1)\n",
+                    "1 + 2 = 3 (quedan: 3 4 7)\n3 + 4 = 7 (quedan: 7 7)\n7 - 7 = 0 (quedan: 0)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n1 + 6 = 7 (quedan: 7 7)\n7 + 7 = 14 (quedan: 14)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n1 + 6 = 7 (quedan: 7 7)\n7 / 7 = 1 (quedan: 1)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n1 + 6 = 7 (quedan: 7 7)\n7 - 7 = 0 (quedan: 0)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 + 6 = 12 (queda: 12)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 / 2 = 3 (queda: 3)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 * 6 = 36 (queda: 36)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 - 6 = 0 (queda: 0)\n"
+                ],
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003
+                ],
+                "select_new_ys": [
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 + 6 = 12 (queda: 12)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 / 2 = 3 (queda: 3)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 * 6 = 36 (queda: 36)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "1 2 4 7",
+                "ys": [
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 + 6 = 12 (queda: 12)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 / 2 = 3 (queda: 3)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 * 6 = 36 (queda: 36)\n"
+                ],
+                "new_ys": [
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 + 6 = 12 (queda: 12)\n12 / 2 = 6 (queda: 6)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 + 6 = 12 (queda: 12)\n12 - 6 = 6 (queda: 6)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 + 6 = 12 (queda: 12)\n6 * 6 = 36 (queda: 36)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 + 6 = 12 (queda: 12)\n6 - 6 = 0 (queda: 0)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 / 2 = 3 (queda: 3)\nNo hay posibles pr\u00f3ximos pasos ya que solo queda un n\u00famero en la entrada.\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 * 6 = 36 (queda: 36)\n36 / 6 = 6 (queda: 6)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 * 6 = 36 (queda: 36)\n36 - 6 = 30 (queda: 30)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 * 6 = 36 (queda: 36)\n6 + 6 = 12 (queda: 12)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 * 6 = 36 (queda: 36)\n6 * 6 = 36 (queda: 36)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 * 6 = 36 (queda: 36)\n36 / 2 = 18 (queda: 18)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 * 6 = 36 (queda: 36)\n36 - 2 = 34 (queda: 34)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 * 6 = 36 (queda: 36)\n6 - 6 = 0 (queda: 0)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 * 6 = 36 (queda: 36)\n36 + 6 = 42 (queda: 42)\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0.003,
+                    0.003,
+                    0,
+                    0,
+                    0,
+                    0.003,
+                    0.003,
+                    0,
+                    0,
+                    0.003,
+                    0
+                ],
+                "select_new_ys": [
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 + 6 = 12 (queda: 12)\n6 * 6 = 36 (queda: 36)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 + 6 = 12 (queda: 12)\n6 - 6 = 0 (queda: 0)\n",
+                    "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 * 6 = 36 (queda: 36)\n6 + 6 = 12 (queda: 12)\n"
+                ]
+            }
+        ],
+        "idx": 901,
+        "ys": [
+            "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 + 6 = 12 (queda: 12)\n6 * 6 = 36 (queda: 36)\n",
+            "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 + 6 = 12 (queda: 12)\n6 - 6 = 0 (queda: 0)\n",
+            "2 + 4 = 6 (quedan: 1 6 7)\n7 - 1 = 6 (quedan: 6 6)\n6 * 6 = 36 (queda: 36)\n6 + 6 = 12 (queda: 12)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 12156,
+            "prompt_tokens": 53935,
+            "cost": 0.0132182
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "2 5 8 11",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "2 + 5 = 7 (quedan: 7 8 11)\n",
+                    "5 - 2 = 3 (quedan: 3 8 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n",
+                    "11 - 2 = 9 (quedan: 2 5 9)\n",
+                    "2 * 5 = 10 (quedan: 8 10 11)\n",
+                    "5 + 8 = 13 (quedan: 2 8 13)\n",
+                    "11 - 5 = 6 (quedan: 2 6 8)\n",
+                    "8 / 2 = 4 (quedan: 2 4 11)\n"
+                ],
+                "values": [
+                    3.0,
+                    2.0,
+                    3.0,
+                    2.0,
+                    3.0,
+                    2.0,
+                    3.0,
+                    3.0
+                ],
+                "select_new_ys": [
+                    "2 + 5 = 7 (quedan: 7 8 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n",
+                    "2 * 5 = 10 (quedan: 8 10 11)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "2 5 8 11",
+                "ys": [
+                    "2 + 5 = 7 (quedan: 7 8 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n",
+                    "2 * 5 = 10 (quedan: 8 10 11)\n"
+                ],
+                "new_ys": [
+                    "2 + 5 = 7 (quedan: 7 8 11)\n7 + 8 = 15 (quedan: 11 15)\n",
+                    "2 + 5 = 7 (quedan: 7 8 11)\n8 - 7 = 1 (quedan: 1 11)\n",
+                    "2 + 5 = 7 (quedan: 7 8 11)\n11 - 7 = 4 (quedan: 4 8)\n",
+                    "2 + 5 = 7 (quedan: 7 8 11)\n7 * 8 = 56 (quedan: 11 56)\n",
+                    "2 + 5 = 7 (quedan: 7 8 11)\n8 / 7 = 1 (quedan: 1 11)\n",
+                    "2 + 5 = 7 (quedan: 7 8 11)\n11 + 8 = 19 (quedan: 7 19)\n",
+                    "2 + 5 = 7 (quedan: 7 8 11)\n7 - 8 = -1 (quedan: -1 11 8)\n",
+                    "2 + 5 = 7 (quedan: 7 8 11)\n8 - 11 = -3 (quedan: -3 7 8)\n",
+                    "2 + 5 = 7 (quedan: 7 8 11)\nNo se pueden realizar m\u00e1s operaciones ya que no se cumplen las condiciones para las operaciones b\u00e1sicas.\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n2 + 6 = 8 (quedan: 8 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n11 + 2 = 13 (quedan: 6 11 13)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n2 * 6 = 12 (quedan: 12 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 - 2 = 4 (quedan: 4 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n11 - 6 = 5 (quedan: 2 5 6)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n11 / 2 = 5.5 (no es posible continuar con n\u00fameros enteros)\n",
+                    "2 * 5 = 10 (quedan: 8 10 11)\n8 + 10 = 18 (quedan: 11 18)\n",
+                    "2 * 5 = 10 (quedan: 8 10 11)\n10 / 2 = 5 (quedan: 5 8 11)\n",
+                    "2 * 5 = 10 (quedan: 8 10 11)\n11 + 8 = 19 (quedan: 5 19)\n",
+                    "2 * 5 = 10 (quedan: 8 10 11)\n8 * 10 = 80 (quedan: 11 80)\n",
+                    "2 * 5 = 10 (quedan: 8 10 11)\n10 - 8 = 2 (quedan: 2 11)\n",
+                    "2 * 5 = 10 (quedan: 8 10 11)\n11 - 8 = 3 (quedan: 3 8 10)\n",
+                    "2 * 5 = 10 (quedan: 8 10 11)\n11 / 2 = 5.5 (no es posible continuar con n\u00fameros enteros)\n"
+                ],
+                "values": [
+                    0.0,
+                    2.001,
+                    0.0,
+                    0.0,
+                    2.001,
+                    2.001,
+                    0.0,
+                    2.0,
+                    0.003,
+                    0.0,
+                    3.0,
+                    2.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0.003,
+                    0.0,
+                    22.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0.003
+                ],
+                "select_new_ys": [
+                    "2 * 5 = 10 (quedan: 8 10 11)\n10 / 2 = 5 (quedan: 5 8 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n11 - 6 = 5 (quedan: 2 5 6)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "2 5 8 11",
+                "ys": [
+                    "2 * 5 = 10 (quedan: 8 10 11)\n10 / 2 = 5 (quedan: 5 8 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n11 - 6 = 5 (quedan: 2 5 6)\n"
+                ],
+                "new_ys": [
+                    "2 * 5 = 10 (quedan: 8 10 11)\n10 / 2 = 5 (quedan: 5 8 11)\n5 + 8 = 13 (quedan: 11 13)\n",
+                    "2 * 5 = 10 (quedan: 8 10 11)\n10 / 2 = 5 (quedan: 5 8 11)\n8 - 5 = 3 (quedan: 3 11)\n",
+                    "2 * 5 = 10 (quedan: 8 10 11)\n10 / 2 = 5 (quedan: 5 8 11)\n5 * 8 = 40 (quedan: 11 40)\n",
+                    "2 * 5 = 10 (quedan: 8 10 11)\n10 / 2 = 5 (quedan: 5 8 11)\n8 / 5 = 1.6 (no es un n\u00famero entero, no se puede continuar)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n2 + 3 = 5 (quedan: 5 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n3 * 2 = 6 (quedan: 6 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 + 2 = 13 (quedan: 3 13)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 - 2 = 9 (quedan: 3 9)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n2 * 3 = 6 (quedan: 6 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n3 + 11 = 14 (quedan: 2 14)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 - 3 = 8 (quedan: 2 8)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n11 - 6 = 5 (quedan: 2 5 6)\n2 + 5 = 7 (quedan: 6 7)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n11 - 6 = 5 (quedan: 2 5 6)\n5 - 2 = 3 (quedan: 3 6)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n11 - 6 = 5 (quedan: 2 5 6)\n2 * 5 = 10 (quedan: 6 10)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n11 - 6 = 5 (quedan: 2 5 6)\n5 / 2 = 2.5 (no es una opci\u00f3n v\u00e1lida)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n11 - 6 = 5 (quedan: 2 5 6)\n6 + 2 = 8 (quedan: 5 8)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n11 - 6 = 5 (quedan: 2 5 6)\n2 - 5 = -3 (no es una opci\u00f3n v\u00e1lida)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n11 - 6 = 5 (quedan: 2 5 6)\n6 - 5 = 1 (quedan: 1 5)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n11 - 6 = 5 (quedan: 2 5 6)\n6 / 2 = 3 (quedan: 2 3)\n"
+                ],
+                "values": [
+                    0.0,
+                    0.0,
+                    0.001,
+                    0.003,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0,
+                    2.0,
+                    0.0,
+                    1.001,
+                    2.001,
+                    0.0,
+                    2.0,
+                    1.0,
+                    0.003,
+                    0.001,
+                    0.003,
+                    0.003,
+                    1.002
+                ],
+                "select_new_ys": [
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 + 2 = 13 (quedan: 3 13)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 - 3 = 8 (quedan: 2 8)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "2 5 8 11",
+                "ys": [
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 + 2 = 13 (quedan: 3 13)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 - 3 = 8 (quedan: 2 8)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n"
+                ],
+                "new_ys": [
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 + 2 = 13 (quedan: 3 13)\n3 + 13 = 16 (quedan: 16)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 + 2 = 13 (quedan: 3 13)\n13 / 3 = 4.33 (no se puede seguir con n\u00fameros no enteros)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 + 2 = 13 (quedan: 3 13)\n13 - 3 = 10 (quedan: 10)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 + 2 = 13 (quedan: 3 13)\n3 * 13 = 39 (quedan: 39)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 + 2 = 13 (quedan: 3 13)\n13 - 13 = 0 (no se puede seguir con un n\u00famero igual a cero)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 - 3 = 8 (quedan: 2 8)\n2 + 8 = 10 (quedan: 10)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 - 3 = 8 (quedan: 2 8)\n8 / 2 = 4 (quedan: 4)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 - 3 = 8 (quedan: 2 8)\n2 * 8 = 16 (quedan: 16)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 - 3 = 8 (quedan: 2 8)\n8 - 2 = 6 (quedan: 6)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n2 + 5.5 = 7.5 (queda: 7.5)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n2 * 5.5 = 11 (queda: 11)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n5.5 / 2 = 2.75 (queda: 2.75)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n5.5 - 2 = 3.5 (queda: 3.5)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\nEntrada: 3 3 3\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\nPosibles pr\u00f3ximos pasos:\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n3 + 3 = 6 (quedan: 6 3)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n3 * 3 = 9 (quedan: 9 3)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n3 - 3 = 0 (quedan: 0 3)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n3 / 3 = 1 (quedan: 1 3)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n3 + 3 = 6 (quedan: 6 3)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n3 * 3 = 9 (quedan: 9 3)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n3 - 3 = 0 (quedan: 3 0)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 / 2 = 5.5 (quedan: 2 5.5)\n3 / 3 = 1 (quedan: 1 1)\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0.001,
+                    0,
+                    0,
+                    0.001,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 + 2 = 13 (quedan: 3 13)\n13 - 3 = 10 (quedan: 10)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 - 3 = 8 (quedan: 2 8)\n2 + 8 = 10 (quedan: 10)\n",
+                    "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 + 2 = 13 (quedan: 3 13)\n3 + 13 = 16 (quedan: 16)\n"
+                ]
+            }
+        ],
+        "idx": 902,
+        "ys": [
+            "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 + 2 = 13 (quedan: 3 13)\n13 - 3 = 10 (quedan: 10)\n",
+            "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 - 3 = 8 (quedan: 2 8)\n2 + 8 = 10 (quedan: 10)\n",
+            "8 - 2 = 6 (quedan: 2 6 11)\n6 / 2 = 3 (quedan: 2 3 11)\n11 + 2 = 13 (quedan: 3 13)\n3 + 13 = 16 (quedan: 16)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 18124,
+            "prompt_tokens": 78531,
+            "cost": 0.019331
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "3 4 4 13",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "3 + 4 = 7 (quedan: 4 4 13)\n",
+                    "4 / 3 = 1.33 (no es una operaci\u00f3n v\u00e1lida)\n",
+                    "13 - 3 = 10 (quedan: 4 4 10)\n",
+                    "3 * 4 = 12 (quedan: 4 4 13)\n",
+                    "4 - 3 = 1 (quedan: 1 4 13)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n",
+                    "13 / 3 = 4.33 (no es una operaci\u00f3n v\u00e1lida)\n",
+                    "13 - 3 = 10 (quedan: 4 4 10)\n"
+                ],
+                "values": [
+                    3.0,
+                    0.003,
+                    0.0,
+                    3.0,
+                    3.0,
+                    41.0,
+                    0.003,
+                    0
+                ],
+                "select_new_ys": [
+                    "13 - 4 = 9 (quedan: 3 4 9)\n",
+                    "3 + 4 = 7 (quedan: 4 4 13)\n",
+                    "3 * 4 = 12 (quedan: 4 4 13)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "3 4 4 13",
+                "ys": [
+                    "13 - 4 = 9 (quedan: 3 4 9)\n",
+                    "3 + 4 = 7 (quedan: 4 4 13)\n",
+                    "3 * 4 = 12 (quedan: 4 4 13)\n"
+                ],
+                "new_ys": [
+                    "13 - 4 = 9 (quedan: 3 4 9)\n3 + 4 = 7 (quedan: 7 9)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n3 * 4 = 12 (quedan: 12 9)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n4 / 3 = 1 (quedan: 1 9)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n9 + 3 = 12 (quedan: 4 12)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n9 / 4 = 2 (quedan: 2 4)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n4 - 3 = 1 (quedan: 1 9)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n9 - 4 = 5 (quedan: 3 5)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n9 * 4 = 36 (quedan: 3 36)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\nEntrada: 5 5 10\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\nPosibles pr\u00f3ximos pasos:\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n5 + 5 = 10 (quedan: 10 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n5 * 5 = 25 (quedan: 25 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n5 / 5 = 1 (quedan: 1 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 + 5 = 15 (quedan: 5 15)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 / 5 = 2 (quedan: 2 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n5 - 5 = 0 (quedan: 0 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 - 5 = 5 (quedan: 5 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n",
+                    "3 + 4 = 7 (quedan: 4 4 13)\n4 + 4 = 8 (quedan: 8 13)\n",
+                    "3 + 4 = 7 (quedan: 4 4 13)\n4 / 4 = 1 (quedan: 1 13)\n",
+                    "3 + 4 = 7 (quedan: 4 4 13)\n13 + 4 = 17 (quedan: 4 17)\n",
+                    "3 + 4 = 7 (quedan: 4 4 13)\n4 * 4 = 16 (quedan: 16 13)\n",
+                    "3 + 4 = 7 (quedan: 4 4 13)\n13 - 4 = 9 (quedan: 4 9)\n",
+                    "3 + 4 = 7 (quedan: 4 4 13)\n13 / 4 = 3.25 (no se puede continuar con n\u00fameros decimales)\n",
+                    "3 + 4 = 7 (quedan: 4 4 13)\n4 - 4 = 0 (quedan: 0 13)\n",
+                    "3 * 4 = 12 (quedan: 4 4 13)\n4 + 4 = 8 (quedan: 8 13)\n",
+                    "3 * 4 = 12 (quedan: 4 4 13)\n4 * 4 = 16 (quedan: 16 13)\n",
+                    "3 * 4 = 12 (quedan: 4 4 13)\n4 - 4 = 0 (quedan: 0 13)\n",
+                    "3 * 4 = 12 (quedan: 4 4 13)\n13 + 4 = 17 (quedan: 4 17)\n",
+                    "3 * 4 = 12 (quedan: 4 4 13)\n13 - 4 = 9 (quedan: 4 9)\n",
+                    "3 * 4 = 12 (quedan: 4 4 13)\n13 / 4 = 3 (quedan: 3 4)\n"
+                ],
+                "values": [
+                    0.0,
+                    1.0,
+                    2.001,
+                    0.0,
+                    0.002,
+                    2.001,
+                    0.0,
+                    0.002,
+                    0.003,
+                    0.003,
+                    1.0,
+                    21.001,
+                    1.001,
+                    0.001,
+                    2.0,
+                    0.0,
+                    0.0,
+                    40.0,
+                    1.0,
+                    2.001,
+                    2.001,
+                    2.001,
+                    0.001,
+                    0.003,
+                    0.0,
+                    1.0,
+                    2.001,
+                    0.0,
+                    2.001,
+                    0.001,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n5 * 5 = 25 (quedan: 25 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n4 / 3 = 1 (quedan: 1 9)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "3 4 4 13",
+                "ys": [
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n5 * 5 = 25 (quedan: 25 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n4 / 3 = 1 (quedan: 1 9)\n"
+                ],
+                "new_ys": [
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 / 10 = 5 (quedan: 5 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 - 10 = 40 (quedan: 40 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 + 10 = 60 (quedan: 60 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 * 10 = 500 (quedan: 500)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n10 / 50 = 0.2 (quedan: 0.2 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n10 - 50 = -40 (quedan: -40 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n10 + 50 = 60 (quedan: 60)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n5 * 5 = 25 (quedan: 25 10)\n25 + 10 = 35 (quedan: 35)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n5 * 5 = 25 (quedan: 25 10)\n25 - 10 = 15 (quedan: 15)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n5 * 5 = 25 (quedan: 25 10)\n25 * 10 = 250 (quedan: 250)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n5 * 5 = 25 (quedan: 25 10)\n25 / 10 = 2.5 (quedan: 2.5)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n4 / 3 = 1 (quedan: 1 9)\n1 + 9 = 10 (quedan: 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n4 / 3 = 1 (quedan: 1 9)\n9 / 2 = 4.5 (no se puede continuar con n\u00fameros decimales)\n"
+                ],
+                "values": [
+                    0.0,
+                    2.001,
+                    40.0,
+                    0.0,
+                    1.001,
+                    0.003,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.001,
+                    0.003
+                ],
+                "select_new_ys": [
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 + 10 = 60 (quedan: 60 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 - 10 = 40 (quedan: 40 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n10 / 50 = 0.2 (quedan: 0.2 10)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "3 4 4 13",
+                "ys": [
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 + 10 = 60 (quedan: 60 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 - 10 = 40 (quedan: 40 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n10 / 50 = 0.2 (quedan: 0.2 10)\n"
+                ],
+                "new_ys": [
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 + 10 = 60 (quedan: 60 10)\n60 - 10 = 50 (quedan: 50)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 + 10 = 60 (quedan: 60 10)\n60 / 10 = 6 (quedan: 6)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 + 10 = 60 (quedan: 60 10)\n60 * 10 = 600 (quedan: 600)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 + 10 = 60 (quedan: 60 10)\n60 + 10 = 70 (quedan: 70)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 - 10 = 40 (quedan: 40 10)\n40 / 10 = 4 (quedan: 4 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 - 10 = 40 (quedan: 40 10)\n40 - 10 = 30 (quedan: 30 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 - 10 = 40 (quedan: 40 10)\n40 + 10 = 50 (quedan: 50 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 - 10 = 40 (quedan: 40 10)\n40 * 10 = 400 (quedan: 400)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n10 / 50 = 0.2 (quedan: 0.2 10)\n0.2 * 10 = 2 (quedan: 2)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n10 / 50 = 0.2 (quedan: 0.2 10)\n10 - 0.2 = 9.8 (quedan: 9.8)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n10 / 50 = 0.2 (quedan: 0.2 10)\n0.2 + 10 = 10.2 (quedan: 10.2)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n10 / 50 = 0.2 (quedan: 0.2 10)\n10 / 0.2 = 50 (quedan: 50)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n10 / 50 = 0.2 (quedan: 0.2 10)\n0.2 - 10 = -9.8 (quedan: -9.8)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n10 / 50 = 0.2 (quedan: 0.2 10)\nNo hay m\u00e1s posibles pasos, ya que solo hay un n\u00famero en la entrada.\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.001,
+                    0,
+                    40.0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 - 10 = 40 (quedan: 40 10)\n40 + 10 = 50 (quedan: 50 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 - 10 = 40 (quedan: 40 10)\n40 / 10 = 4 (quedan: 4 10)\n",
+                    "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 + 10 = 60 (quedan: 60 10)\n60 - 10 = 50 (quedan: 50)\n"
+                ]
+            }
+        ],
+        "idx": 903,
+        "ys": [
+            "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 - 10 = 40 (quedan: 40 10)\n40 + 10 = 50 (quedan: 50 10)\n",
+            "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 - 10 = 40 (quedan: 40 10)\n40 / 10 = 4 (quedan: 4 10)\n",
+            "13 - 4 = 9 (quedan: 3 4 9)\n10 * 5 = 50 (quedan: 50 10)\n50 + 10 = 60 (quedan: 60 10)\n60 - 10 = 50 (quedan: 50)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 22283,
+            "prompt_tokens": 97058,
+            "cost": 0.0238682
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "6 7 8 9",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "6 + 7 = 13 (quedan: 8 9 13)\n",
+                    "7 - 6 = 1 (quedan: 1 8 9)\n",
+                    "8 / 6 = 1.33 (no se puede usar este paso)\n",
+                    "9 - 7 = 2 (quedan: 2 8 9)\n",
+                    "6 * 7 = 42 (quedan: 8 9 42)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n",
+                    "8 - 6 = 2 (quedan: 2 9 9)\n",
+                    "9 / 6 = 1.5 (no se puede usar este paso)\n"
+                ],
+                "values": [
+                    3.0,
+                    3.0,
+                    0.003,
+                    3.0,
+                    1.0,
+                    22.0,
+                    3.0,
+                    0.003
+                ],
+                "select_new_ys": [
+                    "7 + 8 = 15 (quedan: 6 9 15)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n",
+                    "7 - 6 = 1 (quedan: 1 8 9)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "6 7 8 9",
+                "ys": [
+                    "7 + 8 = 15 (quedan: 6 9 15)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n",
+                    "7 - 6 = 1 (quedan: 1 8 9)\n"
+                ],
+                "new_ys": [
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n9 / 3 = 3 (quedan: 6 15)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n15 - 6 = 9 (quedan: 9 15)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 * 9 = 54 (quedan: 54 15)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n9 - 6 = 3 (quedan: 3 15)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n15 - 9 = 6 (quedan: 6 15)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n15 / 3 = 5 (quedan: 6 5)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n15 - 3 = 12 (quedan: 6 12)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n8 + 9 = 17 (quedan: 13 17)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n9 - 8 = 1 (quedan: 1 13)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n13 + 8 = 21 (quedan: 9 21)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n8 / 9 = 0.88 (quedan: 0.88 13)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n9 / 13 = 0.69 (quedan: 0.69 8)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n13 - 8 = 5 (quedan: 5 9)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n8 * 9 = 72 (quedan: 13 72)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n9 + 13 = 22 (quedan: 8 22)\n",
+                    "7 - 6 = 1 (quedan: 1 8 9)\n1 + 8 = 9 (quedan: 9 9)\n",
+                    "7 - 6 = 1 (quedan: 1 8 9)\n8 - 1 = 7 (quedan: 7 9)\n",
+                    "7 - 6 = 1 (quedan: 1 8 9)\n8 / 1 = 8 (quedan: 8 9)\n",
+                    "7 - 6 = 1 (quedan: 1 8 9)\n1 * 8 = 8 (quedan: 8 9)\n",
+                    "7 - 6 = 1 (quedan: 1 8 9)\n9 + 1 = 10 (quedan: 8 10)\n",
+                    "7 - 6 = 1 (quedan: 1 8 9)\n9 - 8 = 1 (quedan: 1 8)\n",
+                    "7 - 6 = 1 (quedan: 1 8 9)\n9 / 8 = 1.125 (quedan: 1.125 8)\n",
+                    "7 - 6 = 1 (quedan: 1 8 9)\n9 - 1 = 8 (quedan: 8 8)\n"
+                ],
+                "values": [
+                    3.0,
+                    0.0,
+                    0.001,
+                    0.003,
+                    3.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    2.001,
+                    2.001,
+                    0.0,
+                    0.001,
+                    0.0,
+                    0.0,
+                    0.001,
+                    3.0,
+                    2.0,
+                    0.0,
+                    3.0,
+                    3.0,
+                    0.0,
+                    3.0,
+                    1.0,
+                    1.002
+                ],
+                "select_new_ys": [
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n9 - 6 = 3 (quedan: 3 15)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n9 + 13 = 22 (quedan: 8 22)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "6 7 8 9",
+                "ys": [
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n9 - 6 = 3 (quedan: 3 15)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n9 + 13 = 22 (quedan: 8 22)\n"
+                ],
+                "new_ys": [
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 + 15 = 30 (quedan: 30)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 / 15 = 1 (quedan: 1)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 - 15 = 0 (quedan: 0)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n9 - 6 = 3 (quedan: 3 15)\n3 + 15 = 18 (quedan: 18)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n9 - 6 = 3 (quedan: 3 15)\n15 / 3 = 5 (quedan: 5)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n9 - 6 = 3 (quedan: 3 15)\n15 - 3 = 12 (quedan: 12)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n9 + 13 = 22 (quedan: 8 22)\n8 + 22 = 30 (quedan: 30)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n9 + 13 = 22 (quedan: 8 22)\n22 - 8 = 14 (quedan: 14)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n9 + 13 = 22 (quedan: 8 22)\n8 * 22 = 176 (quedan: 176)\n",
+                    "6 + 7 = 13 (quedan: 8 9 13)\n9 + 13 = 22 (quedan: 8 22)\n22 / 8 = 2.75 (no es v\u00e1lido, ya que debe ser un n\u00famero entero)\n"
+                ],
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.003
+                ],
+                "select_new_ys": [
+                    "6 + 7 = 13 (quedan: 8 9 13)\n9 + 13 = 22 (quedan: 8 22)\n22 / 8 = 2.75 (no es v\u00e1lido, ya que debe ser un n\u00famero entero)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 + 15 = 30 (quedan: 30)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 / 15 = 1 (quedan: 1)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "6 7 8 9",
+                "ys": [
+                    "6 + 7 = 13 (quedan: 8 9 13)\n9 + 13 = 22 (quedan: 8 22)\n22 / 8 = 2.75 (no es v\u00e1lido, ya que debe ser un n\u00famero entero)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 + 15 = 30 (quedan: 30)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 / 15 = 1 (quedan: 1)\n"
+                ],
+                "new_ys": [
+                    "6 + 7 = 13 (quedan: 8 9 13)\n9 + 13 = 22 (quedan: 8 22)\n22 / 8 = 2.75 (no es v\u00e1lido, ya que debe ser un n\u00famero entero)\nNo es posible continuar ya que la entrada no cumple con las condiciones necesarias.\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 + 15 = 30 (quedan: 30)\n30 / 2 = 15 (quedan: 15)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 + 15 = 30 (quedan: 30)\n30 - 2 = 28 (quedan: 28)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 + 15 = 30 (quedan: 30)\n30 + 2 = 32 (quedan: 32)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 + 15 = 30 (quedan: 30)\n30 * 2 = 60 (quedan: 60)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 / 15 = 1 (quedan: 1)\nNo se pueden realizar operaciones con una sola entrada.\n"
+                ],
+                "values": [
+                    0,
+                    0.0,
+                    0,
+                    0,
+                    0.0,
+                    0
+                ],
+                "select_new_ys": [
+                    "6 + 7 = 13 (quedan: 8 9 13)\n9 + 13 = 22 (quedan: 8 22)\n22 / 8 = 2.75 (no es v\u00e1lido, ya que debe ser un n\u00famero entero)\nNo es posible continuar ya que la entrada no cumple con las condiciones necesarias.\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 + 15 = 30 (quedan: 30)\n30 / 2 = 15 (quedan: 15)\n",
+                    "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 + 15 = 30 (quedan: 30)\n30 - 2 = 28 (quedan: 28)\n"
+                ]
+            }
+        ],
+        "idx": 904,
+        "ys": [
+            "6 + 7 = 13 (quedan: 8 9 13)\n9 + 13 = 22 (quedan: 8 22)\n22 / 8 = 2.75 (no es v\u00e1lido, ya que debe ser un n\u00famero entero)\nNo es posible continuar ya que la entrada no cumple con las condiciones necesarias.\n",
+            "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 + 15 = 30 (quedan: 30)\n30 / 2 = 15 (quedan: 15)\n",
+            "7 + 8 = 15 (quedan: 6 9 15)\n6 + 9 = 15 (quedan: 15 15)\n15 + 15 = 30 (quedan: 30)\n30 - 2 = 28 (quedan: 28)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 26148,
+            "prompt_tokens": 112175,
+            "cost": 0.027664600000000004
+        }
+    }
+]

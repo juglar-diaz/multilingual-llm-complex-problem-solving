@@ -1,0 +1,88 @@
+[
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "It isn't difficult to do a handstand if you just stand on your hands. It caught him off guard that space smelled of seared steak. When she didn\u2019t like a guy who was trying to pick her up, she started using sign language. Each person who knows you has a different perception of who you are.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:\n1. Introduce the idea that doing a handstand is not difficult.\n2. Discuss the unusual smell of space and its effect on someone.\n3. Describe a unique way of rejecting someone's advances.\n4. Talk about how everyone has a different perception of a person.\n",
+                    "Plan:\n1. Introduce the idea of doing a handstand.\n2. Transition to the unexpected smell in space.\n3. Discuss the use of sign language in rejecting unwanted advances.\n4. Conclude with the idea of multiple perceptions of oneself.\n",
+                    "Plan:\n1. Introduce the idea that doing a handstand isn't difficult.\n2. Discuss the surprising smell of space.\n3. Talk about a unique way of rejecting someone's advances.\n4. Highlight how perception affects how people see us.\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    3
+                ],
+                "select_new_ys": [
+                    "Plan:\n1. Introduce the idea that doing a handstand isn't difficult.\n2. Discuss the surprising smell of space.\n3. Talk about a unique way of rejecting someone's advances.\n4. Highlight how perception affects how people see us.\n"
+                ]
+            }
+        ],
+        "idx": 0,
+        "ys": [
+            "Plan:\n1. Introduce the idea that doing a handstand isn't difficult.\n2. Discuss the surprising smell of space.\n3. Talk about a unique way of rejecting someone's advances.\n4. Highlight how perception affects how people see us.\n"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    7,
+                    8
+                ],
+                "r": 7.666666666666667
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 981,
+            "prompt_tokens": 435,
+            "cost": 0.0002832
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "The hawk didn\u2019t understand why the ground squirrels didn\u2019t want to be his friend. If I don\u2019t like something, I\u2019ll stay away from it. People keep telling me \"orange\" but I still prefer \"pink\". He dreamed of leaving his law firm to open a portable dog wash.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:\n1. Introduce the hawk's perspective on friendship with ground squirrels.\n2. Contrast the hawk's approach to avoiding things he doesn't like with human preferences.\n3. Transition to the dream of leaving a law firm to open a dog wash.\n4. Conclude with the hawk's confusion about the squirrels.\n",
+                    "Plan:\n1. Introduce the hawk's perspective on making friends.\n2. Share a personal anecdote about preferring a different color.\n3. Transition to a dream of leaving a current profession.\n4. Conclude with the repeated line about the hawk and the ground squirrels.\n",
+                    "Plan:\n1. Introduce the hawk's desire for friendship with ground squirrels\n2. Explore the hawk's confusion as to why the squirrels don't want to be friends\n3. Discuss the idea of personal preference using the example of the narrator's color preference \n4. Conclude with the dream of leaving a law firm to pursue a dog washing business\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    3
+                ],
+                "select_new_ys": [
+                    "Plan:\n1. Introduce the hawk's desire for friendship with ground squirrels\n2. Explore the hawk's confusion as to why the squirrels don't want to be friends\n3. Discuss the idea of personal preference using the example of the narrator's color preference \n4. Conclude with the dream of leaving a law firm to pursue a dog washing business\n"
+                ]
+            }
+        ],
+        "idx": 1,
+        "ys": [
+            "Plan:\n1. Introduce the hawk's desire for friendship with ground squirrels\n2. Explore the hawk's confusion as to why the squirrels don't want to be friends\n3. Discuss the idea of personal preference using the example of the narrator's color preference \n4. Conclude with the dream of leaving a law firm to pursue a dog washing business\n"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    7,
+                    8,
+                    7
+                ],
+                "r": 7.333333333333333
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2092,
+            "prompt_tokens": 928,
+            "cost": 0.000604
+        }
+    }
+]

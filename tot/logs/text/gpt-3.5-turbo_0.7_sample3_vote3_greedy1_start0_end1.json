@@ -1,0 +1,47 @@
+[
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "It isn't difficult to do a handstand if you just stand on your hands. It caught him off guard that space smelled of seared steak. When she didn\u2019t like a guy who was trying to pick her up, she started using sign language. Each person who knows you has a different perception of who you are.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:\n1. Introduction about the ease of doing a handstand\n2. Describing a surprising experience of smelling seared steak in space\n3. Explaining a unique way of rejecting someone by using sign language\n4. Highlighting the idea that everyone has a different perception of oneself\n",
+                    "Plan:\n1. Introduce the idea of doing a handstand.\n2. Transition to a surprising experience with the smell of space.\n3. Shift to a story about using sign language to avoid unwanted advances.\n4. Conclude with the idea that perception varies among those who know us.\n",
+                    "Plan:\n1. Introduce the idea that doing a handstand is not difficult.\n2. Discuss the surprising smell of space.\n3. Mention the unique way she turns down guys.\n4. Conclude with the idea that everyone has a different perception of who we are.\n"
+                ],
+                "values": [
+                    0,
+                    2,
+                    1
+                ],
+                "select_new_ys": [
+                    "Plan:\n1. Introduce the idea of doing a handstand.\n2. Transition to a surprising experience with the smell of space.\n3. Shift to a story about using sign language to avoid unwanted advances.\n4. Conclude with the idea that perception varies among those who know us.\n"
+                ]
+            }
+        ],
+        "idx": 0,
+        "ys": [
+            "Plan:\n1. Introduce the idea of doing a handstand.\n2. Transition to a surprising experience with the smell of space.\n3. Shift to a story about using sign language to avoid unwanted advances.\n4. Conclude with the idea that perception varies among those who know us.\n"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    7,
+                    7,
+                    8,
+                    8
+                ],
+                "r": 7.6
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1306,
+            "prompt_tokens": 458,
+            "cost": 0.0003528
+        }
+    }
+]

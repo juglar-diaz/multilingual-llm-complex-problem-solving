@@ -1,0 +1,847 @@
+[
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "1 1 11 11",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "1 + 1 = 2 (quedan: 2 11 11)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n",
+                    "11 - 1 = 10 (quedan: 1 10 11)\n",
+                    "11 / 1 = 11 (quedan: 11 11)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n",
+                    "1 * 11 = 11 (quedan: 11 11)\n",
+                    "11 - 11 = 0 (quedan: 1 11 0)\n",
+                    "11 / 11 = 1 (quedan: 1 1)\n"
+                ],
+                "values": [
+                    60.0,
+                    2.0,
+                    2.0,
+                    3.0,
+                    41.0,
+                    3.0,
+                    0.001,
+                    0.002
+                ],
+                "select_new_ys": [
+                    "1 + 1 = 2 (quedan: 2 11 11)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n",
+                    "11 / 1 = 11 (quedan: 11 11)\n",
+                    "1 * 11 = 11 (quedan: 11 11)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "1 1 11 11",
+                "ys": [
+                    "1 + 1 = 2 (quedan: 2 11 11)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n",
+                    "11 / 1 = 11 (quedan: 11 11)\n",
+                    "1 * 11 = 11 (quedan: 11 11)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n"
+                ],
+                "new_ys": [
+                    "1 + 1 = 2 (quedan: 2 11 11)\n2 + 11 = 13 (quedan: 11 13)\n",
+                    "1 + 1 = 2 (quedan: 2 11 11)\n11 / 2 = 5.5 (no v\u00e1lido, no se puede tener decimales)\n",
+                    "1 + 1 = 2 (quedan: 2 11 11)\n11 + 2 = 13 (quedan: 11 13)\n",
+                    "1 + 1 = 2 (quedan: 2 11 11)\n2 * 11 = 22 (quedan: 11 22)\n",
+                    "1 + 1 = 2 (quedan: 2 11 11)\n11 - 2 = 9 (quedan: 9 11)\n",
+                    "1 + 1 = 2 (quedan: 2 11 11)\n11 - 11 = 0 (quedan: 0 11)\n",
+                    "1 + 1 = 2 (quedan: 2 11 11)\n11 / 2 = 5.5 (no v\u00e1lido, no se puede tener decimales)\n",
+                    "1 + 1 = 2 (quedan: 2 11 11)\n11 - 2 = 9 (quedan: 9 11)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n11 / 1 = 11 (quedan: 11 12)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 + 1 = 13 (quedan: 11 13)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 * 11 = 11 (quedan: 11 12)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n11 - 1 = 10 (quedan: 10 11)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 11 = 1 (quedan: 1 11)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 / 1 = 12 (quedan: 11 12)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 1 = 11 (quedan: 11 11)\n",
+                    "11 / 1 = 11 (quedan: 11 11)\n11 * 11 = 121 (quedan: 121)\n",
+                    "11 / 1 = 11 (quedan: 11 11)\n11 / 11 = 1 (quedan: 1)\n",
+                    "11 / 1 = 11 (quedan: 11 11)\n11 + 11 = 22 (quedan: 22)\n",
+                    "11 / 1 = 11 (quedan: 11 11)\n11 - 11 = 0 (quedan: 0)\n",
+                    "1 * 11 = 11 (quedan: 11 11)\n11 * 11 = 121 (quedan: 121)\n",
+                    "1 * 11 = 11 (quedan: 11 11)\n11 / 11 = 1 (quedan: 1 11)\n",
+                    "1 * 11 = 11 (quedan: 11 11)\n11 - 11 = 0 (quedan: 0 11)\n",
+                    "1 * 11 = 11 (quedan: 11 11)\n11 + 11 = 22 (quedan: 22)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n1 + 11 = 12 (quedan: 11 12)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n11 / 1 = 11 (quedan: 11 11)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n11 - 1 = 10 (quedan: 10 11)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n1 * 11 = 11 (quedan: 11 11)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n11 - 11 = 0 (quedan: 1)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n11 / 11 = 1 (quedan: 1 11)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n11 - 11 = 0 (quedan: 1)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n1 * 11 = 11 (quedan: 11)\n"
+                ],
+                "values": [
+                    0.0,
+                    0.003,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0,
+                    0,
+                    60.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    2.001,
+                    0.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    2.001,
+                    0.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0.0,
+                    3.0,
+                    0.0,
+                    2.001,
+                    0,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 1 = 11 (quedan: 11 11)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n11 / 1 = 11 (quedan: 11 11)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n1 * 11 = 11 (quedan: 11 11)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 11 = 1 (quedan: 1 11)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "1 1 11 11",
+                "ys": [
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 1 = 11 (quedan: 11 11)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n11 / 1 = 11 (quedan: 11 11)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n1 * 11 = 11 (quedan: 11 11)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 11 = 1 (quedan: 1 11)\n"
+                ],
+                "new_ys": [
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 - 12 = 0 (quedan: 12)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 1 = 11 (quedan: 11 11)\n11 * 11 = 121 (quedan: 121)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 1 = 11 (quedan: 11 11)\n11 / 11 = 1 (quedan: 1)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 1 = 11 (quedan: 11 11)\n11 - 11 = 0 (quedan: 0)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n11 / 1 = 11 (quedan: 11 11)\n11 + 11 = 22 (quedan: 22)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n11 / 1 = 11 (quedan: 11 11)\n11 / 11 = 1 (quedan: 1)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n11 / 1 = 11 (quedan: 11 11)\n11 - 11 = 0 (quedan: 0)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n1 * 11 = 11 (quedan: 11 11)\n11 + 11 = 22 (quedan: 22)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n1 * 11 = 11 (quedan: 11 11)\n11 / 11 = 1 (quedan: 1)\n",
+                    "1 * 1 = 1 (quedan: 1 11 11)\n1 * 11 = 11 (quedan: 11 11)\n11 - 11 = 0 (quedan: 0)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 11 = 1 (quedan: 1 11)\nNo se pueden realizar operaciones con estos n\u00fameros para generar nuevos pasos.\n"
+                ],
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.003
+                ],
+                "select_new_ys": [
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 11 = 1 (quedan: 1 11)\nNo se pueden realizar operaciones con estos n\u00fameros para generar nuevos pasos.\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 - 12 = 0 (quedan: 12)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 1 = 11 (quedan: 11 11)\n11 * 11 = 121 (quedan: 121)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 1 = 11 (quedan: 11 11)\n11 / 11 = 1 (quedan: 1)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "1 1 11 11",
+                "ys": [
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 11 = 1 (quedan: 1 11)\nNo se pueden realizar operaciones con estos n\u00fameros para generar nuevos pasos.\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 - 12 = 0 (quedan: 12)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 1 = 11 (quedan: 11 11)\n11 * 11 = 121 (quedan: 121)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 1 = 11 (quedan: 11 11)\n11 / 11 = 1 (quedan: 1)\n"
+                ],
+                "new_ys": [
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 11 = 1 (quedan: 1 11)\nNo se pueden realizar operaciones con estos n\u00fameros para generar nuevos pasos.\nNo se pueden generar posibles pr\u00f3ximos pasos ya que no hay n\u00fameros con los que se puedan realizar operaciones.\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n6 + 12 = 18 (quedan: 18)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n6 * 12 = 72 (quedan: 72)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n12 / 6 = 2 (quedan: 2)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n12 - 6 = 6 (quedan: 6)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 - 12 = 0 (quedan: 12)\n12 / 2 = 6 (quedan: 6)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 - 12 = 0 (quedan: 12)\n12 - 2 = 10 (quedan: 10)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 - 12 = 0 (quedan: 12)\n12 + 2 = 14 (quedan: 14)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 - 12 = 0 (quedan: 12)\n12 * 2 = 24 (quedan: 24)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 - 12 = 0 (quedan: 12)\nNo hay m\u00e1s posibles pasos, la cadena de entrada solo tiene un n\u00famero.\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 1 = 11 (quedan: 11 11)\n11 * 11 = 121 (quedan: 121)\n11 + 1 = 12 (quedan: 12)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 1 = 11 (quedan: 11 11)\n11 * 11 = 121 (quedan: 121)\n1 * 2 * 1 = 2 (quedan: 2)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 1 = 11 (quedan: 11 11)\n11 * 11 = 121 (quedan: 121)\n121 - 1 = 120 (quedan: 120)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 1 = 11 (quedan: 11 11)\n11 / 11 = 1 (quedan: 1)\n1 es un n\u00famero indivisible, por lo tanto no hay posibles pr\u00f3ximos pasos.\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "1 + 11 = 12 (quedan: 1 11 12)\n12 - 11 = 1 (quedan: 1 11)\nNo se pueden realizar operaciones con estos n\u00fameros para generar nuevos pasos.\nNo se pueden generar posibles pr\u00f3ximos pasos ya que no hay n\u00fameros con los que se puedan realizar operaciones.\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n6 + 12 = 18 (quedan: 18)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n6 * 12 = 72 (quedan: 72)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n12 / 6 = 2 (quedan: 2)\n",
+                    "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n12 - 6 = 6 (quedan: 6)\n"
+                ]
+            }
+        ],
+        "idx": 1,
+        "ys": [
+            "1 + 11 = 12 (quedan: 1 11 12)\n12 - 11 = 1 (quedan: 1 11)\nNo se pueden realizar operaciones con estos n\u00fameros para generar nuevos pasos.\nNo se pueden generar posibles pr\u00f3ximos pasos ya que no hay n\u00fameros con los que se puedan realizar operaciones.\n",
+            "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n6 + 12 = 18 (quedan: 18)\n",
+            "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n6 * 12 = 72 (quedan: 72)\n",
+            "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n12 / 6 = 2 (quedan: 2)\n",
+            "1 + 11 = 12 (quedan: 1 11 12)\n1 + 11 = 12 (quedan: 12 12)\n12 / 2 = 6 (quedan: 6 12)\n12 - 6 = 6 (quedan: 6)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3268,
+            "prompt_tokens": 16669,
+            "cost": 0.0039874,
+            "backend": "gpt-3.5-turbo"
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "1 1 3 8",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "1 + 1 = 2 (quedan: 2 3 8)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n",
+                    "8 - 3 = 5 (quedan: 1 5 8)\n",
+                    "3 + 1 = 4 (quedan: 1 4 8)\n",
+                    "1 + 3 = 4 (quedan: 4 3 8)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n",
+                    "8 - 1 = 7 (quedan: 1 3 7)\n"
+                ],
+                "values": [
+                    3.0,
+                    60.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    60.0,
+                    60.0,
+                    3.0
+                ],
+                "select_new_ys": [
+                    "1 * 1 = 1 (quedan: 1 3 8)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n",
+                    "1 + 1 = 2 (quedan: 2 3 8)\n",
+                    "8 - 3 = 5 (quedan: 1 5 8)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "1 1 3 8",
+                "ys": [
+                    "1 * 1 = 1 (quedan: 1 3 8)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n",
+                    "1 + 1 = 2 (quedan: 2 3 8)\n",
+                    "8 - 3 = 5 (quedan: 1 5 8)\n"
+                ],
+                "new_ys": [
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 + 3 = 4 (quedan: 4 8)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n8 - 3 = 5 (quedan: 1 5)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 - 1 = 2 (quedan: 2 8)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n8 / 3 = 2.666... (quedan: 1 2.666...)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 + 8 = 11 (quedan: 1 11)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n8 - 1 = 7 (quedan: 3 7)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n1 + 3 = 4 (quedan: 4 8)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n3 + 8 = 11 (quedan: 1 11)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n8 - 3 = 5 (quedan: 1 5)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n3 - 1 = 2 (quedan: 2 8)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n8 / 3 = 2.6666666666666665 (quedan: 1 2.6666666666666665)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n8 - 1 = 7 (quedan: 3 7)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n3 / 1 = 3 (quedan: 3 8)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n2 * 8 = 16 (quedan: 1 16)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n8 / 2 = 4 (quedan: 1 4)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n8 - 2 = 6 (quedan: 1 6)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n8 / 1 = 8 (quedan: 2 8)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n1 * 8 = 8 (quedan: 2 8)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n8 - 1 = 7 (quedan: 7 8)\n",
+                    "1 + 1 = 2 (quedan: 2 3 8)\n2 + 3 = 5 (quedan: 5 8)\n",
+                    "1 + 1 = 2 (quedan: 2 3 8)\n2 * 3 = 6 (quedan: 6 8)\n",
+                    "1 + 1 = 2 (quedan: 2 3 8)\n3 - 2 = 1 (quedan: 1 8)\n",
+                    "1 + 1 = 2 (quedan: 2 3 8)\n8 - 3 = 5 (quedan: 2 5)\n",
+                    "1 + 1 = 2 (quedan: 2 3 8)\n8 / 2 = 4 (quedan: 4 3)\n",
+                    "1 + 1 = 2 (quedan: 2 3 8)\n8 - 2 = 6 (quedan: 6 3)\n",
+                    "8 - 3 = 5 (quedan: 1 5 8)\n1 + 5 = 6 (quedan: 6 8)\n",
+                    "8 - 3 = 5 (quedan: 1 5 8)\n5 + 8 = 13 (quedan: 1 13)\n",
+                    "8 - 3 = 5 (quedan: 1 5 8)\n1 * 5 = 5 (quedan: 5 8)\n",
+                    "8 - 3 = 5 (quedan: 1 5 8)\n5 - 1 = 4 (quedan: 4 8)\n",
+                    "8 - 3 = 5 (quedan: 1 5 8)\n8 - 5 = 3 (quedan: 1 3)\n",
+                    "8 - 3 = 5 (quedan: 1 5 8)\n8 / 5 = 1.6 (quedan: 1 5)\n",
+                    "8 - 3 = 5 (quedan: 1 5 8)\n8 - 1 = 7 (quedan: 5 7)\n",
+                    "8 - 3 = 5 (quedan: 1 5 8)\n5 / 1 = 5 (quedan: 5 8)\n"
+                ],
+                "values": [
+                    0.0,
+                    60.0,
+                    1.002,
+                    2.0,
+                    1.0,
+                    2.001,
+                    40.0,
+                    1.0,
+                    0.0,
+                    2.001,
+                    40.0,
+                    1.002,
+                    2.0,
+                    20.001,
+                    1.0,
+                    40.0,
+                    40.0,
+                    3.0,
+                    0.0,
+                    3.0,
+                    2.001,
+                    2.0,
+                    2.0,
+                    1.0,
+                    0.001,
+                    2.0,
+                    3.0,
+                    1.001,
+                    0.0,
+                    0.001,
+                    2.0,
+                    1.002,
+                    0.001,
+                    0.0,
+                    0.0,
+                    1.002,
+                    0.0,
+                    0.001
+                ],
+                "select_new_ys": [
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n3 / 1 = 3 (quedan: 3 8)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "1 1 3 8",
+                "ys": [
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n3 / 1 = 3 (quedan: 3 8)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n"
+                ],
+                "new_ys": [
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n1 + 24 = 25 (quedan: 25)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 - 1 = 23 (quedan: 23)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 * 1 = 24 (quedan: 24)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n1 - 24 = -23 (quedan: -23)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\nNo se puede dividir 24 entre 1 sin obtener decimales, por lo que no es un posible pr\u00f3ximo paso.\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n3 + 8 = 11 (quedan: 11)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n8 / 3 = 2.666... (no se puede continuar con n\u00fameros decimales)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n3 * 8 = 24 (quedan: 24)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n8 - 3 = 5 (quedan: 5)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\nNo hay m\u00e1s posibles pasos, ya que solo hay dos n\u00fameros en la entrada.\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n3 + 8 = 11 (quedan: 11)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n8 / 3 \u2248 2.67 (quedan: 2.67)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n3 * 8 = 24 (quedan: 24)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n8 - 3 = 5 (quedan: 5)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\nNo hay m\u00e1s opciones ya que solo hay dos n\u00fameros en la entrada.\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n3 / 1 = 3 (quedan: 3 8)\n3 + 8 = 11 (quedan: 11)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n3 / 1 = 3 (quedan: 3 8)\n8 / 3 = 2.67 (quedan: 2.67) \n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n3 / 1 = 3 (quedan: 3 8)\n3 * 8 = 24 (quedan: 24)\n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n3 / 1 = 3 (quedan: 3 8)\n8 - 3 = 5 (quedan: 5) \n",
+                    "8 / 1 = 8 (quedan: 1 3 8)\n3 / 1 = 3 (quedan: 3 8)\nNo hay m\u00e1s posibles pasos, ya que no se pueden hacer operaciones con un solo n\u00famero.\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n3 + 8 = 11 (quedan: 11)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n8 / 3 = 2.666... (quedan: 2.666...)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n3 * 8 = 24 (quedan: 24)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n8 - 3 = 5 (quedan: 5)\n"
+                ],
+                "values": [
+                    0.0,
+                    3.0,
+                    0.0,
+                    0,
+                    0.0,
+                    0.003,
+                    0.0,
+                    0.003,
+                    0,
+                    0.0,
+                    0.003,
+                    0.0,
+                    0.0,
+                    0,
+                    0.0,
+                    0.003,
+                    0.0,
+                    0.0,
+                    0,
+                    0.0,
+                    0.003,
+                    0.0,
+                    1.0,
+                    0,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n8 / 3 = 2.666... (quedan: 2.666...)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\nNo se puede dividir 24 entre 1 sin obtener decimales, por lo que no es un posible pr\u00f3ximo paso.\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n8 / 3 = 2.666... (no se puede continuar con n\u00fameros decimales)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\nNo hay m\u00e1s posibles pasos, ya que solo hay dos n\u00fameros en la entrada.\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "1 1 3 8",
+                "ys": [
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n8 / 3 = 2.666... (quedan: 2.666...)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\nNo se puede dividir 24 entre 1 sin obtener decimales, por lo que no es un posible pr\u00f3ximo paso.\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n8 / 3 = 2.666... (no se puede continuar con n\u00fameros decimales)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\nNo hay m\u00e1s posibles pasos, ya que solo hay dos n\u00fameros en la entrada.\n"
+                ],
+                "new_ys": [
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n1 + 12 = 13 (quedan: 13)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n12 / 2 = 6 (quedan: 6)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n12 - 1 = 11 (quedan: 11)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n1 * 12 = 12 (quedan: 12)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n12 - 12 = 0 (se ha llegado al n\u00famero deseado)\n",
+                    "3 - 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n8 / 3 = 2.666... (quedan: 2.666...)\nLo siento, no puedo continuar sin saber qu\u00e9 operaciones son v\u00e1lidas para el problema espec\u00edfico. Por favor proporcione m\u00e1s informaci\u00f3n sobre el juego o problema en cuesti\u00f3n.\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\nNo se puede dividir 24 entre 1 sin obtener decimales, por lo que no es un posible pr\u00f3ximo paso.\n24 + 1 = 25\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\nNo se puede dividir 24 entre 1 sin obtener decimales, por lo que no es un posible pr\u00f3ximo paso.\n24 - 1 = 23\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\nNo se puede dividir 24 entre 1 sin obtener decimales, por lo que no es un posible pr\u00f3ximo paso.\n24 * 2 = 48\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\nNo se puede dividir 24 entre 1 sin obtener decimales, por lo que no es un posible pr\u00f3ximo paso.\n24 / 2 = 12\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\nNo se puede dividir 24 entre 1 sin obtener decimales, por lo que no es un posible pr\u00f3ximo paso.\n24 + 8 = 32\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\nNo se puede dividir 24 entre 1 sin obtener decimales, por lo que no es un posible pr\u00f3ximo paso.\n24 - 8 = 16\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\nNo se puede dividir 24 entre 1 sin obtener decimales, por lo que no es un posible pr\u00f3ximo paso.\n24 + 10 = 34\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\nNo se puede dividir 24 entre 1 sin obtener decimales, por lo que no es un posible pr\u00f3ximo paso.\n24 - 10 = 14\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\n8 / 3 = 2.666... (no se puede continuar con n\u00fameros decimales)\nNo se pueden realizar m\u00e1s operaciones con n\u00fameros decimales. Se debe redondear el resultado o trabajar con fracciones para seguir operando.\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n1 * 3 = 3 (quedan: 3 8)\nNo hay m\u00e1s posibles pasos, ya que solo hay dos n\u00fameros en la entrada.\nNo hay m\u00e1s posibles pasos, ya que no hay suficientes n\u00fameros para realizar operaciones.\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0.0,
+                    0.0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n1 + 12 = 13 (quedan: 13)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n12 / 2 = 6 (quedan: 6)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n12 - 1 = 11 (quedan: 11)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n1 * 12 = 12 (quedan: 12)\n",
+                    "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n12 - 12 = 0 (se ha llegado al n\u00famero deseado)\n"
+                ]
+            }
+        ],
+        "idx": 2,
+        "ys": [
+            "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n1 + 12 = 13 (quedan: 13)\n",
+            "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n12 / 2 = 6 (quedan: 6)\n",
+            "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n12 - 1 = 11 (quedan: 11)\n",
+            "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n1 * 12 = 12 (quedan: 12)\n",
+            "1 * 1 = 1 (quedan: 1 3 8)\n3 * 8 = 24 (quedan: 1 24)\n24 / 2 = 12 (quedan: 1 12)\n12 - 12 = 0 (se ha llegado al n\u00famero deseado)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 8340,
+            "prompt_tokens": 40328,
+            "cost": 0.0097336,
+            "backend": "gpt-3.5-turbo"
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "1 1 1 8",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "1 + 1 = 2 (quedan: 1 2 8)\n",
+                    "1 / 1 = 1 (quedan: 1 1 8)\n",
+                    "8 + 1 = 9 (quedan: 1 1 9)\n",
+                    "1 * 1 = 1 (quedan: 1 1 8)\n",
+                    "1 - 1 = 0 (quedan: 0 1 8)\n",
+                    "8 - 1 = 7 (quedan: 1 1 7)\n",
+                    "8 / 1 = 8 (quedan: 1 1 8)\n",
+                    "8 - 1 = 7 (quedan: 1 1 7)\n"
+                ],
+                "values": [
+                    60.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    2.001,
+                    3.0,
+                    0
+                ],
+                "select_new_ys": [
+                    "1 + 1 = 2 (quedan: 1 2 8)\n",
+                    "1 / 1 = 1 (quedan: 1 1 8)\n",
+                    "8 + 1 = 9 (quedan: 1 1 9)\n",
+                    "1 * 1 = 1 (quedan: 1 1 8)\n",
+                    "1 - 1 = 0 (quedan: 0 1 8)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "1 1 1 8",
+                "ys": [
+                    "1 + 1 = 2 (quedan: 1 2 8)\n",
+                    "1 / 1 = 1 (quedan: 1 1 8)\n",
+                    "8 + 1 = 9 (quedan: 1 1 9)\n",
+                    "1 * 1 = 1 (quedan: 1 1 8)\n",
+                    "1 - 1 = 0 (quedan: 0 1 8)\n"
+                ],
+                "new_ys": [
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 * 8 = 16 (quedan: 1 16)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n8 / 2 = 4 (quedan: 1 4)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n8 - 2 = 6 (quedan: 1 6)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 * 2 = 4 (quedan: 1 4)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n8 - 1 = 7 (quedan: 2 7)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n8 / 1 = 8 (quedan: 2 8)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n8 - 1 = 7 (quedan: 1 7)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\nEntrada: 5 5 5\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\nPosibles pr\u00f3ximos pasos:\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 + 5 = 10 (quedan: 10 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 / 5 = 1 (quedan: 1 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 25 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 - 5 = 0 (quedan: 0 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 / 5 = 1 (quedan: 1 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 5 25)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 + 5 = 10 (quedan: 5 10)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 / 5 = 1 (quedan: 1 10)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 1 25)\n",
+                    "1 / 1 = 1 (quedan: 1 1 8)\n1 + 1 = 2 (quedan: 2 8)\n",
+                    "1 / 1 = 1 (quedan: 1 1 8)\n1 * 1 = 1 (quedan: 1 8)\n",
+                    "1 / 1 = 1 (quedan: 1 1 8)\n1 + 8 = 9 (quedan: 1 9)\n",
+                    "1 / 1 = 1 (quedan: 1 1 8)\n1 * 8 = 8 (quedan: 1 8)\n",
+                    "1 / 1 = 1 (quedan: 1 1 8)\n8 - 1 = 7 (quedan: 7 8)\n",
+                    "1 / 1 = 1 (quedan: 1 1 8)\n8 / 1 = 8 (quedan: 1 8)\n",
+                    "1 / 1 = 1 (quedan: 1 1 8)\n8 - 8 = 0 (quedan: 1 1)\n",
+                    "8 + 1 = 9 (quedan: 1 1 9)\n1 + 1 = 2 (quedan: 2 9)\n",
+                    "8 + 1 = 9 (quedan: 1 1 9)\n1 * 1 = 1 (quedan: 1 9)\n",
+                    "8 + 1 = 9 (quedan: 1 1 9)\n9 + 1 = 10 (quedan: 1 10)\n",
+                    "8 + 1 = 9 (quedan: 1 1 9)\n9 - 1 = 8 (quedan: 1 8)\n",
+                    "8 + 1 = 9 (quedan: 1 1 9)\n9 / 1 = 9 (quedan: 1 9)\n",
+                    "8 + 1 = 9 (quedan: 1 1 9)\n1 + 9 = 10 (quedan: 1 10)\n",
+                    "8 + 1 = 9 (quedan: 1 1 9)\n1 * 9 = 9 (quedan: 9)\n",
+                    "8 + 1 = 9 (quedan: 1 1 9)\n9 - 9 = 0 (quedan: 1)\n",
+                    "1 * 1 = 1 (quedan: 1 1 8)\n1 + 1 = 2 (quedan: 2 8)\n",
+                    "1 * 1 = 1 (quedan: 1 1 8)\n1 * 1 = 1 (quedan: 1 8)\n",
+                    "1 * 1 = 1 (quedan: 1 1 8)\n8 - 1 = 7 (quedan: 1 7)\n",
+                    "1 * 1 = 1 (quedan: 1 1 8)\n8 / 1 = 8 (quedan: 1 8)\n",
+                    "1 * 1 = 1 (quedan: 1 1 8)\n1 + 8 = 9 (quedan: 1 9)\n",
+                    "1 * 1 = 1 (quedan: 1 1 8)\n1 * 8 = 8 (quedan: 8)\n",
+                    "1 * 1 = 1 (quedan: 1 1 8)\n8 - 8 = 0 (quedan: 1)\n",
+                    "1 * 1 = 1 (quedan: 1 1 8)\n1 * 1 = 1 (quedan: 1)\n",
+                    "1 * 1 = 1 (quedan: 1 1 8)\n1 + 8 = 9 (quedan: 9)\n",
+                    "1 * 1 = 1 (quedan: 1 1 8)\n1 - 8 = -7 (no es posible hacer esta operaci\u00f3n con n\u00fameros enteros positivos)\n",
+                    "1 - 1 = 0 (quedan: 0 1 8)\n0 + 1 = 1 (quedan: 1 8)\n",
+                    "1 - 1 = 0 (quedan: 0 1 8)\n1 * 8 = 8 (quedan: 1 8)\n",
+                    "1 - 1 = 0 (quedan: 0 1 8)\n1 / 8 = 0.125 (no se puede continuar)\n"
+                ],
+                "values": [
+                    40.0,
+                    3.0,
+                    0.0,
+                    3.0,
+                    2.001,
+                    0.0,
+                    1.0,
+                    2.0,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.0,
+                    1.002,
+                    22.0,
+                    0.002,
+                    0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    22.0,
+                    2.0,
+                    3.0,
+                    2.0,
+                    3.0,
+                    1.0,
+                    3.0,
+                    0.002,
+                    2.001,
+                    2.0,
+                    3.0,
+                    3.0,
+                    2.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    2.0,
+                    3.0,
+                    0.003,
+                    3.0,
+                    2.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.003,
+                    3.0,
+                    3.0,
+                    0.003
+                ],
+                "select_new_ys": [
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 25 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 1 25)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 * 8 = 16 (quedan: 1 16)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "1 1 1 8",
+                "ys": [
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 25 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 1 25)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 * 8 = 16 (quedan: 1 16)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n"
+                ],
+                "new_ys": [
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n3 + 8 = 11 (quedan: 11)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n8 / 3 = 2.6666666666666665 (quedan: 2.6666666666666665)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n3 * 8 = 24 (quedan: 24)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n8 - 3 = 5 (quedan: 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 25 5)\n25 + 5 = 30 (quedan: 30)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 25 5)\n25 - 5 = 20 (quedan: 20)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 25 5)\n25 * 5 = 125 (quedan: 125)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 25 5)\n25 / 5 = 5 (quedan: 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 1 25)\n1 + 25 = 26 (quedan: 26)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 1 25)\n25 / 2 = 12.5 (no es posible continuar con n\u00fameros decimales)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 1 25)\n25 - 1 = 24 (quedan: 24)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 1 25)\n25 * 2 = 50 (quedan: 50)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 * 8 = 16 (quedan: 1 16)\n1 + 16 = 17 (quedan: 17)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 * 8 = 16 (quedan: 1 16)\n16 / 2 = 8 (quedan: 8)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 * 8 = 16 (quedan: 1 16)\n16 - 1 = 15 (quedan: 15)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 * 8 = 16 (quedan: 1 16)\n1 * 16 = 16 (quedan: 16)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 * 8 = 16 (quedan: 1 16)\n16 - 16 = 0 (el juego ha terminado)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n1 + 10 = 11 (quedan: 11)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n1 * 10 = 10 (quedan: 10)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 - 1 = 9 (quedan: 9)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 - 10 = 0 (quedan: 0)\n"
+                ],
+                "values": [
+                    0.0,
+                    0.0,
+                    0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.003,
+                    0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.003,
+                    0.0,
+                    1.002,
+                    0,
+                    0.0,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 1 25)\n25 / 2 = 12.5 (no es posible continuar con n\u00fameros decimales)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 * 8 = 16 (quedan: 1 16)\n16 - 16 = 0 (el juego ha terminado)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n3 + 8 = 11 (quedan: 11)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n8 / 3 = 2.6666666666666665 (quedan: 2.6666666666666665)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "1 1 1 8",
+                "ys": [
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 1 25)\n25 / 2 = 12.5 (no es posible continuar con n\u00fameros decimales)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 * 8 = 16 (quedan: 1 16)\n16 - 16 = 0 (el juego ha terminado)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n3 + 8 = 11 (quedan: 11)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n8 / 3 = 2.6666666666666665 (quedan: 2.6666666666666665)\n"
+                ],
+                "new_ys": [
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n1 + 5 = 6 (queda: 6)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n5 - 1 = 4 (queda: 4)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n1 * 5 = 5 (queda: 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n5 / 1 = 5 (queda: 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 1 25)\n25 / 2 = 12.5 (no es posible continuar con n\u00fameros decimales)\nNo hay posibles pr\u00f3ximos pasos debido a que la entrada no es un n\u00famero entero.\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 * 8 = 16 (quedan: 1 16)\n16 - 16 = 0 (el juego ha terminado)\nNo hay posibles pr\u00f3ximos pasos, el juego ha terminado porque el resultado es 0.\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n3 + 8 = 11 (quedan: 11)\n11 + 1 = 12\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n3 + 8 = 11 (quedan: 11)\n11 - 1 = 10\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n3 + 8 = 11 (quedan: 11)\n11 * 2 = 22\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n3 + 8 = 11 (quedan: 11)\n11 / 2 = 5.5 (si es permitido usar n\u00fameros decimales)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n3 + 8 = 11 (quedan: 11)\n11^2 = 121\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n3 + 8 = 11 (quedan: 11)\nsqrt(11) = 3.31662479036 (si es permitido usar funciones matem\u00e1ticas avanzadas)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n1 + 2 = 3 (quedan: 3 8)\n8 / 3 = 2.6666666666666665 (quedan: 2.6666666666666665)\nNo es posible determinar los posibles pr\u00f3ximos pasos ya que la entrada es un solo n\u00famero y no hay m\u00e1s n\u00fameros para operar.\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n1 + 5 = 6 (queda: 6)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n5 - 1 = 4 (queda: 4)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n1 * 5 = 5 (queda: 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n5 / 1 = 5 (queda: 5)\n",
+                    "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 1 25)\n25 / 2 = 12.5 (no es posible continuar con n\u00fameros decimales)\nNo hay posibles pr\u00f3ximos pasos debido a que la entrada no es un n\u00famero entero.\n"
+                ]
+            }
+        ],
+        "idx": 3,
+        "ys": [
+            "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n1 + 5 = 6 (queda: 6)\n",
+            "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n5 - 1 = 4 (queda: 4)\n",
+            "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n1 * 5 = 5 (queda: 5)\n",
+            "1 + 1 = 2 (quedan: 1 2 8)\n2 + 8 = 10 (quedan: 1 10)\n10 / 2 = 5 (quedan: 1 5)\n5 / 1 = 5 (queda: 5)\n",
+            "1 + 1 = 2 (quedan: 1 2 8)\n5 * 5 = 25 (quedan: 1 25)\n25 / 2 = 12.5 (no es posible continuar con n\u00fameros decimales)\nNo hay posibles pr\u00f3ximos pasos debido a que la entrada no es un n\u00famero entero.\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 12221,
+            "prompt_tokens": 59926,
+            "cost": 0.014429400000000002,
+            "backend": "gpt-3.5-turbo"
+        }
+    }
+]
