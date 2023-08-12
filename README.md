@@ -1,1 +1,1 @@
-# multilingual-augmented-llm
+# multilingual-llm-complex-problem-solving
