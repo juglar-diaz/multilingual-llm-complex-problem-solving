@@ -1,0 +1,131 @@
+[
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "No es dif\u00edcil hacer una parada de manos si solo te paras sobre tus manos. Le pill\u00f3 desprevenido que el espacio oliera a bistec chamuscado. Cuando no le gustaba un chico que estaba tratando de ligar con ella, comenz\u00f3 a usar el lenguaje de se\u00f1as. Cada persona que te conoce tiene una percepci\u00f3n diferente de qui\u00e9n eres.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:\nHablar sobre c\u00f3mo la percepci\u00f3n de los dem\u00e1s puede afectar nuestra identidad y c\u00f3mo podemos tomar control de nuestra propia imagen.\n",
+                    "Plan:\nHablar sobre c\u00f3mo nuestras acciones pueden cambiar la percepci\u00f3n que otros tienen de nosotros.\n",
+                    "Plan:\nComenzar el pasaje con una reflexi\u00f3n sobre la percepci\u00f3n que tienen los dem\u00e1s de nosotros. Luego, mencionar la habilidad de hacer una parada de manos y c\u00f3mo la dificultad radica en la confianza en uno mismo. Despu\u00e9s, narrar una experiencia donde el olor de la comida cambi\u00f3 su \u00e1nimo. Finalmente, hablar sobre el lenguaje de se\u00f1as y c\u00f3mo puede ser una herramienta \u00fatil en situaciones inc\u00f3modas.\n"
+                ],
+                "values": [
+                    3,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:\nHablar sobre c\u00f3mo la percepci\u00f3n de los dem\u00e1s puede afectar nuestra identidad y c\u00f3mo podemos tomar control de nuestra propia imagen.\n"
+                ]
+            }
+        ],
+        "idx": 0,
+        "ys": [
+            "Plan:\nHablar sobre c\u00f3mo la percepci\u00f3n de los dem\u00e1s puede afectar nuestra identidad y c\u00f3mo podemos tomar control de nuestra propia imagen.\n"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    8,
+                    8
+                ],
+                "r": 8.0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1069,
+            "prompt_tokens": 471,
+            "cost": 0.000308
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "El halc\u00f3n no entend\u00eda por qu\u00e9 las ardillas terrestres no quer\u00edan ser sus amigas. Si no me gusta algo, me mantendr\u00e9 alejado de ello. La gente sigue dici\u00e9ndome \"naranja\", pero sigo prefiriendo \"rosa\". So\u00f1aba con dejar su bufete de abogados para abrir un lavado de perros port\u00e1til.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:\nEl halc\u00f3n se siente solo y no entiende por qu\u00e9 las ardillas terrestres no quieren ser sus amigos. \u00c9l se pregunta si su apariencia o comportamiento los aleja. Por otro lado, la protagonista de la segunda oraci\u00f3n prefiere alejarse de lo que no le gusta. Finalmente, el tercer p\u00e1rrafo presenta a alguien que sue\u00f1a con dejar su trabajo actual para comenzar un nuevo negocio.\n",
+                    "Plan:\nIntroducci\u00f3n: Descripci\u00f3n del halc\u00f3n y su deseo de hacer amigos con las ardillas terrestres.\nDesarrollo: Explicaci\u00f3n del comportamiento de las ardillas y la frustraci\u00f3n del halc\u00f3n.\nConclusi\u00f3n: El halc\u00f3n decide seguir su propio camino y perseguir su verdadera pasi\u00f3n.\n",
+                    "Plan:\nEn el primer p\u00e1rrafo, se hablar\u00e1 sobre el halc\u00f3n y su desconcierto frente a las ardillas terrestres. En el segundo p\u00e1rrafo, se abordar\u00e1 el tema de la elecci\u00f3n personal y la importancia de mantenerse alejado de lo que no gusta. En el tercer p\u00e1rrafo, se narrar\u00e1 la historia de alguien que sue\u00f1a con dejar su trabajo actual para emprender un nuevo negocio. En el cuarto y \u00faltimo p\u00e1rrafo, se cerrar\u00e1 la historia con una reflexi\u00f3n sobre la importancia de seguir nuestros sue\u00f1os.\n"
+                ],
+                "values": [
+                    0,
+                    3,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:\nIntroducci\u00f3n: Descripci\u00f3n del halc\u00f3n y su deseo de hacer amigos con las ardillas terrestres.\nDesarrollo: Explicaci\u00f3n del comportamiento de las ardillas y la frustraci\u00f3n del halc\u00f3n.\nConclusi\u00f3n: El halc\u00f3n decide seguir su propio camino y perseguir su verdadera pasi\u00f3n.\n"
+                ]
+            }
+        ],
+        "idx": 1,
+        "ys": [
+            "Plan:\nIntroducci\u00f3n: Descripci\u00f3n del halc\u00f3n y su deseo de hacer amigos con las ardillas terrestres.\nDesarrollo: Explicaci\u00f3n del comportamiento de las ardillas y la frustraci\u00f3n del halc\u00f3n.\nConclusi\u00f3n: El halc\u00f3n decide seguir su propio camino y perseguir su verdadera pasi\u00f3n.\n"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    8,
+                    9
+                ],
+                "r": 8.333333333333334
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 2488,
+            "prompt_tokens": 1132,
+            "cost": 0.000724
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "Mi mayor alegr\u00eda es asar almendras mientras acecho a la presa. Te das cuenta de que no est\u00e1s solo mientras te sientas en tu habitaci\u00f3n y te masajeas las pantorrillas despu\u00e9s de un largo d\u00eda jugando tira y afloja con el abuelo Joe en el hospital. Las hormigas disfrutaron m\u00e1s de la barbacoa que de la familia. El halc\u00f3n no entend\u00eda por qu\u00e9 las ardillas terrestres no quer\u00edan ser sus amigas.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:\nHablar sobre las actividades que te dan alegr\u00eda y c\u00f3mo te sientes al hacerlas.\n",
+                    "Plan:\nComenzar el pasaje hablando de la sensaci\u00f3n de soledad y la necesidad de encontrar alegr\u00eda en peque\u00f1as cosas. Luego, introducir la idea de las hormigas y el contraste entre su disfrute y la falta de conexi\u00f3n entre la familia. Despu\u00e9s, hablar del halc\u00f3n y su deseo de amistad, contrastando con la indiferencia de las ardillas. Terminar con la idea de que la verdadera felicidad puede encontrarse en actividades simples y personales, como asar almendras y acechar a la presa.\n",
+                    "Plan:\nIntroducci\u00f3n: Hablar sobre la soledad y la b\u00fasqueda de placeres personales.\nDesarrollo: Hablar sobre la familia y las hormigas que disfrutan de la barbacoa.\nDesarrollo: Hablar sobre el halc\u00f3n y su deseo de tener amigos.\nConclusi\u00f3n: Hacer una reflexi\u00f3n sobre la soledad y el valor de las peque\u00f1as alegr\u00edas.\n"
+                ],
+                "values": [
+                    0,
+                    1,
+                    2
+                ],
+                "select_new_ys": [
+                    "Plan:\nIntroducci\u00f3n: Hablar sobre la soledad y la b\u00fasqueda de placeres personales.\nDesarrollo: Hablar sobre la familia y las hormigas que disfrutan de la barbacoa.\nDesarrollo: Hablar sobre el halc\u00f3n y su deseo de tener amigos.\nConclusi\u00f3n: Hacer una reflexi\u00f3n sobre la soledad y el valor de las peque\u00f1as alegr\u00edas.\n"
+                ]
+            }
+        ],
+        "idx": 2,
+        "ys": [
+            "Plan:\nIntroducci\u00f3n: Hablar sobre la soledad y la b\u00fasqueda de placeres personales.\nDesarrollo: Hablar sobre la familia y las hormigas que disfrutan de la barbacoa.\nDesarrollo: Hablar sobre el halc\u00f3n y su deseo de tener amigos.\nConclusi\u00f3n: Hacer una reflexi\u00f3n sobre la soledad y el valor de las peque\u00f1as alegr\u00edas.\n"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    8,
+                    7,
+                    7
+                ],
+                "r": 7.333333333333333
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 3508,
+            "prompt_tokens": 1775,
+            "cost": 0.0010566000000000002
+        }
+    }
+]

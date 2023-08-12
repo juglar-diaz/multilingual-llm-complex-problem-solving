@@ -1,0 +1,47 @@
+[
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "It isn't difficult to do a handstand if you just stand on your hands. It caught him off guard that space smelled of seared steak. When she didn\u2019t like a guy who was trying to pick her up, she started using sign language. Each person who knows you has a different perception of who you are.\n",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "Plan:\n1. Introduce the idea that doing a handstand is easy.\n2. Discuss the unexpected nature of the smell of space.\n3. Mention a woman's creative way of dealing with unwanted attention.\n4. Explore the idea that everyone has a unique perception of their own identity.\n",
+                    "Plan:\n\nParagraph 1: Discuss the ease of doing a handstand.\nParagraph 2: Describe the unexpected scent in space.\nParagraph 3: Detail a unique method for rejecting unwanted advances.\nParagraph 4: Emphasize the varying perceptions others have of oneself.\n",
+                    "Plan:\n1. Introduce the idea that doing a handstand isn't difficult.\n2. Share an unexpected observation about the smell in space.\n3. Talk about a character's unique way of dealing with unwanted attention.\n4. Conclude with the idea that our identity is perceived differently by different people.\n"
+                ],
+                "values": [
+                    0,
+                    3,
+                    0
+                ],
+                "select_new_ys": [
+                    "Plan:\n\nParagraph 1: Discuss the ease of doing a handstand.\nParagraph 2: Describe the unexpected scent in space.\nParagraph 3: Detail a unique method for rejecting unwanted advances.\nParagraph 4: Emphasize the varying perceptions others have of oneself.\n"
+                ]
+            }
+        ],
+        "idx": 0,
+        "ys": [
+            "Plan:\n\nParagraph 1: Discuss the ease of doing a handstand.\nParagraph 2: Describe the unexpected scent in space.\nParagraph 3: Detail a unique method for rejecting unwanted advances.\nParagraph 4: Emphasize the varying perceptions others have of oneself.\n"
+        ],
+        "infos": [
+            {
+                "rs": [
+                    1,
+                    7,
+                    3,
+                    2,
+                    2
+                ],
+                "r": 3.0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 1052,
+            "prompt_tokens": 455,
+            "cost": 0.0003014
+        }
+    }
+]

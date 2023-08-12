@@ -1,0 +1,2338 @@
+[
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "4 5 6 10",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "4 + 5 = 9 (restantes: 6 9 10)\n",
+                    "5 - 4 = 1 (restantes: 1 6 10)\n",
+                    "6 - 4 = 2 (restantes: 2 5 10)\n",
+                    "10 - 4 = 6 (restantes: 6 5 6)\n",
+                    "4 * 5 = 20 (restantes: 6 20 10)\n",
+                    "5 + 6 = 11 (restantes: 4 11 10)\n",
+                    "6 / 4 = 1.5 (restantes: 1.5 5 10)\n",
+                    "10 / 4 = 2.5 (restantes: 2.5 5 6)\n"
+                ],
+                "values": [
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    1.001
+                ],
+                "select_new_ys": [
+                    "4 + 5 = 9 (restantes: 6 9 10)\n",
+                    "5 - 4 = 1 (restantes: 1 6 10)\n",
+                    "6 - 4 = 2 (restantes: 2 5 10)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "4 5 6 10",
+                "ys": [
+                    "4 + 5 = 9 (restantes: 6 9 10)\n",
+                    "5 - 4 = 1 (restantes: 1 6 10)\n",
+                    "6 - 4 = 2 (restantes: 2 5 10)\n"
+                ],
+                "new_ys": [
+                    "4 + 5 = 9 (restantes: 6 9 10)\n6 + 9 = 15 (restantes: 10 15)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 + 6 = 16 (restantes: 9 16)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n6 * 9 = 54 (restantes: 10 54)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 - 6 = 4 (restantes: 4 6 9)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 3 = 6 (restantes: 6 6 10)\n",
+                    "5 - 4 = 1 (restantes: 1 6 10)\n1 + 6 = 7 (restantes: 7 10)\n",
+                    "5 - 4 = 1 (restantes: 1 6 10)\n6 + 10 = 16 (restantes: 1 16)\n",
+                    "5 - 4 = 1 (restantes: 1 6 10)\n1 * 6 = 6 (restantes: 6 10)\n",
+                    "5 - 4 = 1 (restantes: 1 6 10)\n6 - 1 = 5 (restantes: 5 10)\n",
+                    "5 - 4 = 1 (restantes: 1 6 10)\n10 - 6 = 4 (restantes: 1 4)\n",
+                    "5 - 4 = 1 (restantes: 1 6 10)\n10 / 2 = 5 (restantes: 1 5)\n",
+                    "5 - 4 = 1 (restantes: 1 6 10)\n1 + 10 = 11 (restantes: 6 11)\n",
+                    "5 - 4 = 1 (restantes: 1 6 10)\n10 - 1 = 9 (restantes: 6 9)\n",
+                    "6 - 4 = 2 (restantes: 2 5 10)\n2 + 5 = 7 (restantes: 7 10)\n",
+                    "6 - 4 = 2 (restantes: 2 5 10)\n5 * 2 = 10 (restantes: 10 10)\n",
+                    "6 - 4 = 2 (restantes: 2 5 10)\n10 / 2 = 5 (restantes: 2 5)\n",
+                    "6 - 4 = 2 (restantes: 2 5 10)\n5 - 2 = 3 (restantes: 3 10)\n",
+                    "6 - 4 = 2 (restantes: 2 5 10)\n10 - 5 = 5 (restantes: 2 5)\n",
+                    "6 - 4 = 2 (restantes: 2 5 10)\n2 * 5 = 10 (restantes: 10 10)\n",
+                    "6 - 4 = 2 (restantes: 2 5 10)\n5 + 10 = 15 (restantes: 2 15)\n",
+                    "6 - 4 = 2 (restantes: 2 5 10)\n10 - 2 = 8 (restantes: 8 5)\n",
+                    "6 - 4 = 2 (restantes: 2 5 10)\n10 + 2 = 12 (restantes: 5 12)\n"
+                ],
+                "values": [
+                    0.0,
+                    3.0,
+                    2.0,
+                    0.0,
+                    3.0,
+                    3.0,
+                    41.0,
+                    3.0,
+                    0.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    2.0,
+                    0.0,
+                    3.0,
+                    0.0,
+                    2.001,
+                    3.0,
+                    0.0,
+                    3.0,
+                    2.001,
+                    2.0,
+                    0.0,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "4 5 6 10",
+                "ys": [
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n"
+                ],
+                "new_ys": [
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n5 + 6 = 11 (restantes: 9 11)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 + 9 = 15 (restantes: 5 15)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n5 * 6 = 30 (restantes: 9 30)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n9 - 6 = 3 (restantes: 3 5)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n9 + 5 = 14 (restantes: 6 14)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n5 - 9 = -4 (restantes: -4 6)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n3 + 6 = 9 (restantes: 9 10)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n6 / 3 = 2 (restantes: 2 10)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n10 + 3 = 13 (restantes: 6 13)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n3 * 6 = 18 (restantes: 10 18)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n6 - 3 = 3 (restantes: 3 10)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n10 - 6 = 4 (restantes: 3 4)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n10 / 3 = 3.333 (restantes: 3.333 6)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n10 - 3 = 7 (restantes: 6 7)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n3 + 9 = 12 (restantes: 10 12)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n9 / 3 = 3 (restantes: 3 10)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n10 + 3 = 13 (restantes: 9 13)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n3 * 9 = 27 (restantes: 10 27)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n9 - 3 = 6 (restantes: 6 10)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n10 - 3 = 7 (restantes: 3 7)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n10 / 3 = 3 (restantes: 3 9)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n10 - 9 = 1 (restantes: 1 9)\n"
+                ],
+                "values": [
+                    0.0,
+                    0.0,
+                    1.001,
+                    3.0,
+                    1.0,
+                    0.0,
+                    1.0,
+                    0.001,
+                    0.0,
+                    0.001,
+                    0.0,
+                    0.0,
+                    3.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    2.0,
+                    3.0
+                ],
+                "select_new_ys": [
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n10 - 6 = 4 (restantes: 3 4)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n10 - 3 = 7 (restantes: 3 7)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "4 5 6 10",
+                "ys": [
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n10 - 6 = 4 (restantes: 3 4)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n10 - 3 = 7 (restantes: 3 7)\n"
+                ],
+                "new_ys": [
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n1 + 9 = 10 (restantes: 10)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n9 / 1 = 9 (restantes: 9)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n9 - 1 = 8 (restantes: 8)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n1 * 9 = 9 (restantes: 9)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n9 - 9 = 0 (restantes: 1)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n9 + 1 = 10 (restantes: 9)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n1 / 9 = 0.1111111111111111 (restantes: 0.1111111111111111)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n9 - 9 = 0 (restantes: 1)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n9 * 1 = 9 (restantes: 9)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n10 - 6 = 4 (restantes: 3 4)\n3 + 4 = 7 (restantes: 7)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n10 - 6 = 4 (restantes: 3 4)\n3 * 4 = 12 (restantes: 12)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n10 - 6 = 4 (restantes: 3 4)\n4 / 3 = 1.333 (restantes: 1.333)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 / 3 = 3 (restantes: 3 6 10)\n10 - 6 = 4 (restantes: 3 4)\n3 - 4 = -1 (restantes: -1)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n10 - 3 = 7 (restantes: 3 7)\n3 + 7 = 10 (restantes: 10)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n10 - 3 = 7 (restantes: 3 7)\n7 - 3 = 4 (restantes: 4)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n10 - 3 = 7 (restantes: 3 7)\n3 * 7 = 21 (restantes: 21)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n10 - 3 = 7 (restantes: 3 7)\n7 / 3 = 2 (restantes: 2)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n9 - 6 = 3 (restantes: 3 9 10)\n10 - 3 = 7 (restantes: 3 7)\nNenhum outro pr\u00f3ximo passo poss\u00edvel.\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n1 + 9 = 10 (restantes: 10)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n9 / 1 = 9 (restantes: 9)\n",
+                    "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n9 - 1 = 8 (restantes: 8)\n"
+                ]
+            }
+        ],
+        "idx": 900,
+        "ys": [
+            "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n1 + 9 = 10 (restantes: 10)\n",
+            "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n9 / 1 = 9 (restantes: 9)\n",
+            "4 + 5 = 9 (restantes: 6 9 10)\n10 / 2 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n9 - 1 = 8 (restantes: 8)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 7311,
+            "prompt_tokens": 26481,
+            "cost": 0.0067584
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "1 2 4 7",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "1 + 2 = 3 (restantes: 3 4 7)\n",
+                    "2 + 4 = 6 (restantes: 1 6 7)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n",
+                    "2 * 4 = 8 (restantes: 1 7 8)\n",
+                    "4 + 7 = 11 (restantes: 1 4 11)\n",
+                    "7 / 1 = 7 (restantes: 2 4 7)\n",
+                    "4 / 2 = 2 (restantes: 1 2 7)\n",
+                    "7 - 2 = 5 (restantes: 1 4 5)\n"
+                ],
+                "values": [
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0
+                ],
+                "select_new_ys": [
+                    "1 + 2 = 3 (restantes: 3 4 7)\n",
+                    "2 + 4 = 6 (restantes: 1 6 7)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "1 2 4 7",
+                "ys": [
+                    "1 + 2 = 3 (restantes: 3 4 7)\n",
+                    "2 + 4 = 6 (restantes: 1 6 7)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n"
+                ],
+                "new_ys": [
+                    "1 + 2 = 3 (restantes: 3 4 7)\n3 + 4 = 7 (restantes: 7 7)\n",
+                    "1 + 2 = 3 (restantes: 3 4 7)\n3 * 4 = 12 (restantes: 12 7)\n",
+                    "1 + 2 = 3 (restantes: 3 4 7)\n4 - 3 = 1 (restantes: 1 7)\n",
+                    "1 + 2 = 3 (restantes: 3 4 7)\n7 - 4 = 3 (restantes: 3 7)\n",
+                    "1 + 2 = 3 (restantes: 3 4 7)\n7 - 3 = 4 (restantes: 4 7)\n",
+                    "1 + 2 = 3 (restantes: 3 4 7)\n4 + 7 = 11 (restantes: 3 11)\n",
+                    "1 + 2 = 3 (restantes: 3 4 7)\n3 * 7 = 21 (restantes: 4 21)\n",
+                    "1 + 2 = 3 (restantes: 3 4 7)\n7 / 3 = 2 (restantes: 2 4)\n",
+                    "2 + 4 = 6 (restantes: 1 6 7)\n1 + 6 = 7 (restantes: 7 7)\n",
+                    "2 + 4 = 6 (restantes: 1 6 7)\n6 - 1 = 5 (restantes: 5 7)\n",
+                    "2 + 4 = 6 (restantes: 1 6 7)\n1 * 6 = 6 (restantes: 6 7)\n",
+                    "2 + 4 = 6 (restantes: 1 6 7)\n7 - 1 = 6 (restantes: 6 7)\n",
+                    "2 + 4 = 6 (restantes: 1 6 7)\n7 - 6 = 1 (restantes: 1 6)\n",
+                    "2 + 4 = 6 (restantes: 1 6 7)\n6 / 1 = 6 (restantes: 6 7)\n",
+                    "2 + 4 = 6 (restantes: 1 6 7)\n7 - 6 = 1 (restantes: 1 7)\n",
+                    "2 + 4 = 6 (restantes: 1 6 7)\n1 * 7 = 7 (restantes: 6 7)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n2 + 4 = 6 (restantes: 6 6)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n4 / 2 = 2 (restantes: 2 6)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 - 2 = 4 (restantes: 2 4)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n2 * 4 = 8 (restantes: 8 6)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n4 * 6 = 24 (restantes: 2 24)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n4 - 2 = 2 (restantes: 2 6)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 - 4 = 2 (restantes: 2 2)\n"
+                ],
+                "values": [
+                    3.0,
+                    0.0,
+                    2.0,
+                    3.0,
+                    0.0,
+                    1.001,
+                    0.0,
+                    3.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0.0,
+                    2.0,
+                    0.0,
+                    3.0,
+                    22.0,
+                    3.0,
+                    1.0,
+                    1.0,
+                    60.0,
+                    22.0,
+                    60.0
+                ],
+                "select_new_ys": [
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 - 4 = 2 (restantes: 2 2)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n4 / 2 = 2 (restantes: 2 6)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "1 2 4 7",
+                "ys": [
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 - 4 = 2 (restantes: 2 2)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n4 / 2 = 2 (restantes: 2 6)\n"
+                ],
+                "new_ys": [
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 + 4 = 6 (restantes: 3 6)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n4 / 2 = 2 (restantes: 2 3)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 * 3 = 6 (restantes: 2 6)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n3 + 2 = 5 (restantes: 5 4)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n4 - 2 = 2 (restantes: 2 3)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n3 - 2 = 1 (restantes: 1 4)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n4 / 2 = 2 (restantes: 2 2)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 * 4 = 8 (restantes: 2 8)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 + 3 = 5 (restantes: 5 4)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n4 - 3 = 1 (restantes: 2 1)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n3 / 2 = 1 (restantes: 1 4)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 - 4 = 2 (restantes: 2 2)\n2 + 2 = 4 (restantes: 4)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 - 4 = 2 (restantes: 2 2)\n2 / 2 = 1 (restantes: 1)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 - 4 = 2 (restantes: 2 2)\n2 * 2 = 4 (restantes: 4)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 - 4 = 2 (restantes: 2 2)\n2 - 2 = 0 (restantes: 0)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n4 / 2 = 2 (restantes: 2 6)\n2 + 6 = 8 (restante: 8)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n4 / 2 = 2 (restantes: 2 6)\n6 / 2 = 3 (restante: 3)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n4 / 2 = 2 (restantes: 2 6)\n2 * 6 = 12 (restante: 12)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n4 / 2 = 2 (restantes: 2 6)\n6 - 2 = 4 (restante: 4)\n"
+                ],
+                "values": [
+                    2.0,
+                    0.002,
+                    22.0,
+                    0.0,
+                    0.002,
+                    3.0,
+                    60.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0,
+                    0,
+                    0,
+                    0.0,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003
+                ],
+                "select_new_ys": [
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n4 / 2 = 2 (restantes: 2 2)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 * 3 = 6 (restantes: 2 6)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n3 - 2 = 1 (restantes: 1 4)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "1 2 4 7",
+                "ys": [
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n4 / 2 = 2 (restantes: 2 2)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 * 3 = 6 (restantes: 2 6)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n3 - 2 = 1 (restantes: 1 4)\n"
+                ],
+                "new_ys": [
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n4 / 2 = 2 (restantes: 2 2)\n2 + 2 = 4 (restantes: 4)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n4 / 2 = 2 (restantes: 2 2)\n2 / 2 = 1 (restantes: 1)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 * 3 = 6 (restantes: 2 6)\n2 + 6 = 8 (restante: 8)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 * 3 = 6 (restantes: 2 6)\n6 / 2 = 3 (restante: 3)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 * 3 = 6 (restantes: 2 6)\n2 * 6 = 12 (restante: 12)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 * 3 = 6 (restantes: 2 6)\n6 - 2 = 4 (restante: 4)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n3 - 2 = 1 (restantes: 1 4)\n1 + 4 = 5 (restantes: 5)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n3 - 2 = 1 (restantes: 1 4)\n4 / 2 = 2 (restantes: 2)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n3 - 2 = 1 (restantes: 1 4)\n4 - 1 = 3 (restantes: 3)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n3 - 2 = 1 (restantes: 1 4)\n1 * 4 = 4 (restantes: 4)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n3 - 2 = 1 (restantes: 1 4)\nN\u00e3o h\u00e1 mais poss\u00edveis pr\u00f3ximos passos, pois restou apenas um n\u00famero.\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 * 3 = 6 (restantes: 2 6)\n2 + 6 = 8 (restante: 8)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 * 3 = 6 (restantes: 2 6)\n6 / 2 = 3 (restante: 3)\n",
+                    "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 * 3 = 6 (restantes: 2 6)\n2 * 6 = 12 (restante: 12)\n"
+                ]
+            }
+        ],
+        "idx": 901,
+        "ys": [
+            "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 * 3 = 6 (restantes: 2 6)\n2 + 6 = 8 (restante: 8)\n",
+            "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 * 3 = 6 (restantes: 2 6)\n6 / 2 = 3 (restante: 3)\n",
+            "7 - 1 = 6 (restantes: 2 4 6)\n6 / 2 = 3 (restantes: 2 4 3)\n2 * 3 = 6 (restantes: 2 6)\n2 * 6 = 12 (restante: 12)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 11621,
+            "prompt_tokens": 42435,
+            "cost": 0.0108112
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "2 5 8 11",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "2 + 5 = 7 (restantes: 7 8 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n",
+                    "11 - 2 = 9 (restantes: 9 5 8)\n",
+                    "8 - 5 = 3 (restantes: 2 3 11)\n",
+                    "2 + 11 = 13 (restantes: 8 5 13)\n",
+                    "8 / 2 = 4 (restantes: 4 5 13)\n",
+                    "11 - 5 = 6 (restantes: 2 6 8)\n",
+                    "5 + 8 = 13 (restantes: 2 13 11)\n",
+                    "2 * 5 = 10 (restantes: 10 8 11)\n"
+                ],
+                "values": [
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    2.0
+                ],
+                "select_new_ys": [
+                    "2 + 5 = 7 (restantes: 7 8 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n",
+                    "11 - 2 = 9 (restantes: 9 5 8)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "2 5 8 11",
+                "ys": [
+                    "2 + 5 = 7 (restantes: 7 8 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n",
+                    "11 - 2 = 9 (restantes: 9 5 8)\n"
+                ],
+                "new_ys": [
+                    "2 + 5 = 7 (restantes: 7 8 11)\n7 + 8 = 15 (restantes: 11 15)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n7 / 8 = 0.875 (restantes: 0.875 11)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n11 + 7 = 18 (restantes: 8 18)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n7 * 8 = 56 (restantes: 11 56)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n8 - 7 = 1 (restantes: 1 11)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n11 - 8 = 3 (restantes: 3 8)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n11 / 7 = 1.5714 (restantes: 1.5714 8)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n11 - 7 = 4 (restantes: 4 8)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n2 + 40 = 42 (restantes: 11 42)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n11 + 2 = 13 (restantes: 13 40)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n2 * 40 = 80 (restantes: 11 80)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 - 2 = 38 (restantes: 38 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n11 - 2 = 9 (restantes: 9 2 40)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n11 / 2 = 5 (restantes: 5 2 40)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n11 - 40 = -29 (restantes: -29 2 40)\n",
+                    "11 - 2 = 9 (restantes: 9 5 8)\n9 - 5 = 4 (restantes: 4 5 8)\n",
+                    "11 - 2 = 9 (restantes: 9 5 8)\n5 - 4 = 1 (restantes: 1 4 8)\n",
+                    "11 - 2 = 9 (restantes: 9 5 8)\n9 + 5 = 14 (restantes: 8 14)\n",
+                    "11 - 2 = 9 (restantes: 9 5 8)\n9 * 5 = 45 (restantes: 8 45)\n",
+                    "11 - 2 = 9 (restantes: 9 5 8)\n8 - 5 = 3 (restantes: 3 5 8)\n",
+                    "11 - 2 = 9 (restantes: 9 5 8)\n9 / 5 = 1.8 (restantes: 1.8 5 8)\n",
+                    "11 - 2 = 9 (restantes: 9 5 8)\n8 / 5 = 1.6 (restantes: 1.6 5 8)\n"
+                ],
+                "values": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.001,
+                    3.0,
+                    41.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    3.0,
+                    0.001,
+                    0.0,
+                    2.0,
+                    1.002,
+                    3.0,
+                    2.001,
+                    3.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    3.0,
+                    2.001
+                ],
+                "select_new_ys": [
+                    "2 + 5 = 7 (restantes: 7 8 11)\n11 - 8 = 3 (restantes: 3 8)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n8 - 7 = 1 (restantes: 1 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "2 5 8 11",
+                "ys": [
+                    "2 + 5 = 7 (restantes: 7 8 11)\n11 - 8 = 3 (restantes: 3 8)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n8 - 7 = 1 (restantes: 1 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n"
+                ],
+                "new_ys": [
+                    "2 + 5 = 7 (restantes: 7 8 11)\n11 - 8 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n11 - 8 = 3 (restantes: 3 8)\n8 / 3 = 2,666... (restante: 2,666...)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n11 - 8 = 3 (restantes: 3 8)\n3 * 8 = 24 (restante: 24)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n11 - 8 = 3 (restantes: 3 8)\n8 - 3 = 5 (restante: 5)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n8 - 7 = 1 (restantes: 1 11)\n1 + 11 = 12 (restante: 12)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n8 - 7 = 1 (restantes: 1 11)\n11 - 1 = 10 (restante: 10)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n8 - 7 = 1 (restantes: 1 11)\n11 / 1 = 11 (restante: 11)\n",
+                    "2 + 5 = 7 (restantes: 7 8 11)\n8 - 7 = 1 (restantes: 1 11)\n1 * 11 = 11 (restante: 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n2 + 20 = 22 (restantes: 11 22)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n11 + 2 = 13 (restantes: 10 13)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n2 * 20 = 40 (restantes: 11 40)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 - 2 = 18 (restantes: 11 18)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n11 - 2 = 9 (restantes: 9 20)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 - 11 = 9 (restantes: 2 9 20)\n"
+                ],
+                "values": [
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    2.0,
+                    0,
+                    3.0
+                ],
+                "select_new_ys": [
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 - 11 = 9 (restantes: 2 9 20)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n11 - 2 = 9 (restantes: 9 20)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "2 5 8 11",
+                "ys": [
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 - 11 = 9 (restantes: 2 9 20)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n11 - 2 = 9 (restantes: 9 20)\n"
+                ],
+                "new_ys": [
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n2 + 10 = 12 (restantes: 11 12)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n10 / 2 = 5 (restantes: 2 5 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n11 + 2 = 13 (restantes: 5 10)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n2 * 10 = 20 (restantes: 11 20)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n10 - 2 = 8 (restantes: 8 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n11 - 2 = 9 (restantes: 2 9 10)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n11 / 2 = 5 (restantes: 2 5 10)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n11 - 10 = 1 (restantes: 1 2 10)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 - 11 = 9 (restantes: 2 9 20)\n2 + 9 = 11 (restantes: 11 20)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 - 11 = 9 (restantes: 2 9 20)\n9 / 2 = 4.5 (restantes: 2 4.5 20)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 - 11 = 9 (restantes: 2 9 20)\n20 + 2 = 22 (restantes: 9 22)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 - 11 = 9 (restantes: 2 9 20)\n2 * 9 = 18 (restantes: 18 20)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 - 11 = 9 (restantes: 2 9 20)\n9 - 2 = 7 (restantes: 7 20)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 - 11 = 9 (restantes: 2 9 20)\n20 - 9 = 11 (restantes: 2 11)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 - 11 = 9 (restantes: 2 9 20)\n20 / 2 = 10 (restantes: 2 10)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 - 11 = 9 (restantes: 2 9 20)\n20 - 2 = 18 (restantes: 9 18)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n11 - 2 = 9 (restantes: 9 20)\n9 + 20 = 29 (restantes: 29)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n11 - 2 = 9 (restantes: 9 20)\n20 / 9 = 2,22... (restantes: 2,22...)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n11 - 2 = 9 (restantes: 9 20)\n9 / 20 = 0,45... (restantes: 0,45...)\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0.0,
+                    0,
+                    0,
+                    0,
+                    3.0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n11 / 2 = 5 (restantes: 2 5 10)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n2 + 10 = 12 (restantes: 11 12)\n",
+                    "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n10 / 2 = 5 (restantes: 2 5 11)\n"
+                ]
+            }
+        ],
+        "idx": 902,
+        "ys": [
+            "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n11 / 2 = 5 (restantes: 2 5 10)\n",
+            "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n2 + 10 = 12 (restantes: 11 12)\n",
+            "5 * 8 = 40 (restantes: 2 40 11)\n40 / 2 = 20 (restantes: 2 20 11)\n20 / 2 = 10 (restantes: 2 10 11)\n10 / 2 = 5 (restantes: 2 5 11)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 18967,
+            "prompt_tokens": 68610,
+            "cost": 0.0175154
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "3 4 4 13",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "3 + 4 = 7 (restantes: 4 4 13)\n",
+                    "4 / 3 = 1 (restantes: 1 4 13)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n",
+                    "3 * 4 = 12 (restantes: 12 4 13)\n",
+                    "4 - 3 = 1 (restantes: 1 4 13)\n",
+                    "13 - 4 = 9 (restantes: 3 4 9)\n",
+                    "13 / 3 = 4 (restantes: 4 4 4)\n",
+                    "13 - 3 = 10 (restantes: 4 4 10)\n"
+                ],
+                "values": [
+                    22.0,
+                    3.0,
+                    41.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "13 + 3 = 16 (restantes: 4 4 16)\n",
+                    "3 + 4 = 7 (restantes: 4 4 13)\n",
+                    "4 / 3 = 1 (restantes: 1 4 13)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "3 4 4 13",
+                "ys": [
+                    "13 + 3 = 16 (restantes: 4 4 16)\n",
+                    "3 + 4 = 7 (restantes: 4 4 13)\n",
+                    "4 / 3 = 1 (restantes: 1 4 13)\n"
+                ],
+                "new_ys": [
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n16 + 4 = 20 (restantes: 4 16)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 * 4 = 16 (restantes: 16 16)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n16 - 4 = 12 (restantes: 4 12)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n16 / 4 = 4 (restantes: 4 16)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n16 - 4 = 12 (restantes: 4 12)\n",
+                    "3 + 4 = 7 (restantes: 4 4 13)\n4 + 4 = 8 (restantes: 8 13)\n",
+                    "3 + 4 = 7 (restantes: 4 4 13)\n4 / 4 = 1 (restantes: 1 4 13)\n",
+                    "3 + 4 = 7 (restantes: 4 4 13)\n13 + 4 = 17 (restantes: 4 13 17)\n",
+                    "3 + 4 = 7 (restantes: 4 4 13)\n4 * 4 = 16 (restantes: 16 13)\n",
+                    "3 + 4 = 7 (restantes: 4 4 13)\n4 - 4 = 0 (restantes: 0 4 13)\n",
+                    "3 + 4 = 7 (restantes: 4 4 13)\n13 - 4 = 9 (restantes: 4 9)\n",
+                    "4 / 3 = 1 (restantes: 1 4 13)\n1 + 4 = 5 (restantes: 5 13)\n",
+                    "4 / 3 = 1 (restantes: 1 4 13)\n4 / 1 = 4 (restantes: 4 13)\n",
+                    "4 / 3 = 1 (restantes: 1 4 13)\n13 + 1 = 14 (restantes: 4 14)\n",
+                    "4 / 3 = 1 (restantes: 1 4 13)\n1 * 4 = 4 (restantes: 4 13)\n",
+                    "4 / 3 = 1 (restantes: 1 4 13)\n4 - 1 = 3 (restantes: 3 4 13)\n",
+                    "4 / 3 = 1 (restantes: 1 4 13)\n13 - 4 = 9 (restantes: 1 4 9)\n",
+                    "4 / 3 = 1 (restantes: 1 4 13)\n13 / 1 = 13 (restantes: 4 13)\n",
+                    "4 / 3 = 1 (restantes: 1 4 13)\n13 - 1 = 12 (restantes: 4 12)\n"
+                ],
+                "values": [
+                    60.0,
+                    3.0,
+                    0.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    0,
+                    2.0,
+                    3.0,
+                    3.0,
+                    1.001,
+                    3.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 * 4 = 16 (restantes: 16 16)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "3 4 4 13",
+                "ys": [
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 * 4 = 16 (restantes: 16 16)\n"
+                ],
+                "new_ys": [
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n8 + 16 = 24 (restantes: 24)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n16 / 8 = 2 (restantes: 2)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n16 - 8 = 8 (restantes: 8)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n8 * 16 = 128 (restantes: 128)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n8 / 16 = 0.5 (restantes: 0.5)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n16 - 16 = 0 (restantes: 0)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n8 - 16 = -8 (restantes: -8)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n16 / 2 = 8 (restantes: 8)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n1 + 16 = 17 (restantes: 17)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n16 / 2 = 8 (restantes: 8)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n16 - 1 = 15 (restantes: 15)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n1 * 16 = 16 (restantes: 16)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n16 - 16 = 0 (restantes: 0)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n16 / 1 = 16 (restantes: 16)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n1 - 16 = -15 (restantes: -15)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\nEntrada: 5 10 2\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\nPoss\u00edveis pr\u00f3ximos passos:\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n5 + 10 = 15 (restantes: 2 15)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n10 / 2 = 5 (restantes: 5 2)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n2 + 5 = 7 (restantes: 7 10)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n10 - 5 = 5 (restantes: 5 2)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n5 * 2 = 10 (restantes: 10 2)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n2 - 5 = -3 (restantes: -3 10)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n10 / 5 = 2 (restantes: 2 2)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n10 - 2 = 8 (restantes: 8 2)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 * 4 = 16 (restantes: 16 16)\n16 / 2 = 8 (restantes: 8 16)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 * 4 = 16 (restantes: 16 16)\n16 - 16 = 0 (restantes: 16)\n"
+                ],
+                "values": [
+                    20.0,
+                    0,
+                    0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0,
+                    0.0,
+                    0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.003,
+                    0.003,
+                    2.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.001,
+                    60.0,
+                    2.0,
+                    60.0,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n10 / 5 = 2 (restantes: 2 2)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 * 4 = 16 (restantes: 16 16)\n16 / 2 = 8 (restantes: 8 16)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n8 + 16 = 24 (restantes: 24)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "3 4 4 13",
+                "ys": [
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n10 / 5 = 2 (restantes: 2 2)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 * 4 = 16 (restantes: 16 16)\n16 / 2 = 8 (restantes: 8 16)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n8 + 16 = 24 (restantes: 24)\n"
+                ],
+                "new_ys": [
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n10 / 5 = 2 (restantes: 2 2)\n2 + 2 = 4 (restantes: 4)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n10 / 5 = 2 (restantes: 2 2)\n2 / 2 = 1 (restantes: 1)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n10 / 5 = 2 (restantes: 2 2)\n2 * 2 = 4 (restantes: 4)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n10 / 5 = 2 (restantes: 2 2)\n2 - 2 = 0 (restantes: 0)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 * 4 = 16 (restantes: 16 16)\n16 / 2 = 8 (restantes: 8 16)\n8 + 16 = 24 (restante: 24)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 * 4 = 16 (restantes: 16 16)\n16 / 2 = 8 (restantes: 8 16)\n8 - 16 = -8 (restante: -8)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 * 4 = 16 (restantes: 16 16)\n16 / 2 = 8 (restantes: 8 16)\n8 * 16 = 128 (restante: 128)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 * 4 = 16 (restantes: 16 16)\n16 / 2 = 8 (restantes: 8 16)\n16 / 8 = 2 (restante: 2)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 * 4 = 16 (restantes: 16 16)\n16 / 2 = 8 (restantes: 8 16)\n16 - 8 = 8 (restante: 8)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 * 4 = 16 (restantes: 16 16)\n16 / 2 = 8 (restantes: 8 16)\n8 / 16 = 0.5 (restante: 0.5)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n8 + 16 = 24 (restantes: 24)\nResposta: ((13 + 3) + 4) * 4 = 24\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0,
+                    0.0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    60.0
+                ],
+                "select_new_ys": [
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n8 + 16 = 24 (restantes: 24)\nResposta: ((13 + 3) + 4) * 4 = 24\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n10 / 5 = 2 (restantes: 2 2)\n2 + 2 = 4 (restantes: 4)\n",
+                    "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n10 / 5 = 2 (restantes: 2 2)\n2 / 2 = 1 (restantes: 1)\n"
+                ]
+            }
+        ],
+        "idx": 903,
+        "ys": [
+            "13 + 3 = 16 (restantes: 4 4 16)\n4 + 4 = 8 (restantes: 8 16)\n8 + 16 = 24 (restantes: 24)\nResposta: ((13 + 3) + 4) * 4 = 24\n",
+            "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n10 / 5 = 2 (restantes: 2 2)\n2 + 2 = 4 (restantes: 4)\n",
+            "13 + 3 = 16 (restantes: 4 4 16)\n4 / 4 = 1 (restantes: 1 16)\n10 / 5 = 2 (restantes: 2 2)\n2 / 2 = 1 (restantes: 1)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 23406,
+            "prompt_tokens": 87080,
+            "cost": 0.0220972
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "6 7 8 9",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "6 + 7 = 13 (restantes: 8 9 13)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n",
+                    "8 + 6 = 14 (restantes: 7 9 14)\n",
+                    "6 * 7 = 42 (restantes: 8 9 42)\n",
+                    "9 - 6 = 3 (restantes: 3 7 8)\n",
+                    "8 - 7 = 1 (restantes: 1 7 9)\n",
+                    "9 / 6 = 1.5 (restantes: 1 7 1.5)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n"
+                ],
+                "values": [
+                    3.0,
+                    3.0,
+                    3.0,
+                    1.0,
+                    3.0,
+                    3.0,
+                    0.0,
+                    22.0
+                ],
+                "select_new_ys": [
+                    "7 - 6 = 1 (restantes: 1 8 9)\n",
+                    "6 + 7 = 13 (restantes: 8 9 13)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "6 7 8 9",
+                "ys": [
+                    "7 - 6 = 1 (restantes: 1 8 9)\n",
+                    "6 + 7 = 13 (restantes: 8 9 13)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n"
+                ],
+                "new_ys": [
+                    "7 - 6 = 1 (restantes: 1 8 9)\n1 + 8 = 9 (restantes: 9)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n8 - 1 = 7 (restantes: 7 9)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 8 = 1 (restantes: 1 9)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n1 * 8 = 8 (restantes: 8 9)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 1 = 8 (restantes: 8 8)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n8 / 1 = 8 (restantes: 8 9)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n8 + 1 = 9 (restantes: 8 9)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n1/8 = 0.125 (restantes: 0.125 8 9)\n",
+                    "6 + 7 = 13 (restantes: 8 9 13)\n8 + 9 = 17 (restantes: 13 17)\n",
+                    "6 + 7 = 13 (restantes: 8 9 13)\n9 - 8 = 1 (restantes: 1 13)\n",
+                    "6 + 7 = 13 (restantes: 8 9 13)\n13 + 8 = 21 (restantes: 9 21)\n",
+                    "6 + 7 = 13 (restantes: 8 9 13)\n8 * 9 = 72 (restantes: 13 72)\n",
+                    "6 + 7 = 13 (restantes: 8 9 13)\n9 / 8 = 1.125 (restantes: 1.125 13)\n",
+                    "6 + 7 = 13 (restantes: 8 9 13)\n13 - 8 = 5 (restantes: 5 9)\n",
+                    "6 + 7 = 13 (restantes: 8 9 13)\n9 - 13 = -4 (restantes: -4 8)\n",
+                    "6 + 7 = 13 (restantes: 8 9 13)\n8 / 9 = 0.8888... (restantes: 0.8888... 13)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n6 + 8 = 14 (restantes: 9 14)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n8 - 6 = 2 (restantes: 2 9)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 + 6 = 15 (restantes: 8 15)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n6 * 8 = 48 (restantes: 9 48)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n8 / 6 = 1.33 (restantes: 1.33 9)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n6 / 8 = 0.75 (restantes: 0.75 9)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n8 * 9 = 72 (restantes: 6 72)\n"
+                ],
+                "values": [
+                    0,
+                    0.0,
+                    3.0,
+                    2.0,
+                    3.0,
+                    2.0,
+                    2.0,
+                    2.001,
+                    3.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    41.0,
+                    0.0,
+                    1.0
+                ],
+                "select_new_ys": [
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 8 = 1 (restantes: 1 9)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 1 = 8 (restantes: 8 8)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "6 7 8 9",
+                "ys": [
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 8 = 1 (restantes: 1 9)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 1 = 8 (restantes: 8 8)\n"
+                ],
+                "new_ys": [
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n8 / 3 = 2.666... (restante: 2 8)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 * 8 = 24 (restante: 24)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n8 - 3 = 5 (restante: 5 8)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\nNenhuma outra opera\u00e7\u00e3o \u00e9 poss\u00edvel com esses n\u00fameros.\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 8 = 1 (restantes: 1 9)\n1 + 9 = 10 (restantes: 10)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 8 = 1 (restantes: 1 9)\n9 - 1 = 8 (restantes: 8)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 8 = 1 (restantes: 1 9)\n1 * 9 = 9 (restantes: 9)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 8 = 1 (restantes: 1 9)\n9 / 1 = 9 (restantes: 9)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 8 = 1 (restantes: 1 9)\nN\u00e3o h\u00e1 mais poss\u00edveis opera\u00e7\u00f5es, pois restaria apenas um n\u00famero.\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 1 = 8 (restantes: 8 8)\n8 + 8 = 16 (restante: 16)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 1 = 8 (restantes: 8 8)\n8 / 8 = 1 (restante: 1 8)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 1 = 8 (restantes: 8 8)\n8 - 8 = 0 (restante: 0 8)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 1 = 8 (restantes: 8 8)\n8 * 8 = 64 (restante: 64)\n",
+                    "7 - 6 = 1 (restantes: 1 8 9)\n9 - 1 = 8 (restantes: 8 8)\nN\u00e3o \u00e9 poss\u00edvel realizar mais opera\u00e7\u00f5es, pois todas as combina\u00e7\u00f5es j\u00e1 foram testadas e nenhuma delas resulta em novos n\u00fameros.\n"
+                ],
+                "values": [
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.002
+                ],
+                "select_new_ys": [
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n8 / 3 = 2.666... (restante: 2 8)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 * 8 = 24 (restante: 24)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "6 7 8 9",
+                "ys": [
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n8 / 3 = 2.666... (restante: 2 8)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 * 8 = 24 (restante: 24)\n"
+                ],
+                "new_ys": [
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n11 * 2 = 22 (restante: 22)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n11 - 3 = 8 (restante: 8)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n11 / 3 = 3.67 (restante: 3.67)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n3 + 11 = 14 (restante: 14)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n11 / 2 = 5.5 (restante: 5.5)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n11 - 8 = 3 (restante: 3)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n11 * 3 = 33 (restante: 33)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n11 / 8 = 1.38 (restante: 1.38)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n8 / 3 = 2.666... (restante: 2 8)\n2 * 8 = 16 (restante: 16)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n8 / 3 = 2.666... (restante: 2 8)\n8 - 2 = 6 (restante: 6 8)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n8 / 3 = 2.666... (restante: 2 8)\n2 + 8 = 10 (restante: 10)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 * 8 = 24 (restante: 24)\nN\u00e3o h\u00e1 pr\u00f3ximos passos poss\u00edveis, pois s\u00f3 h\u00e1 um n\u00famero na entrada.\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n11 * 2 = 22 (restante: 22)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n11 - 3 = 8 (restante: 8)\n",
+                    "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n11 / 3 = 3.67 (restante: 3.67)\n"
+                ]
+            }
+        ],
+        "idx": 904,
+        "ys": [
+            "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n11 * 2 = 22 (restante: 22)\n",
+            "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n11 - 3 = 8 (restante: 8)\n",
+            "7 / 6 = 1.1667 (restantes: 6 8 9)\n9 - 6 = 3 (restantes: 3 8)\n3 + 8 = 11 (restante: 11)\n11 / 3 = 3.67 (restante: 3.67)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 27667,
+            "prompt_tokens": 107767,
+            "cost": 0.0270868
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "1 11 11 13",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "1 + 11 = 12 (restantes: 11 12 13)\n",
+                    "11 - 1 = 10 (restantes: 10 11 13)\n",
+                    "11 / 1 = 11 (restantes: 11 11 13)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n",
+                    "11 - 2 = 9 (restantes: 1 9 11)\n",
+                    "11 / 2 = 5 (restantes: 1 5 11)\n",
+                    "13 - 1 = 12 (restantes: 11 11 12)\n",
+                    "1 * 11 = 11 (restantes: 11 11 13)\n"
+                ],
+                "values": [
+                    3.0,
+                    2.001,
+                    1.002,
+                    3.0,
+                    3.0,
+                    3.0,
+                    0.003,
+                    1.002
+                ],
+                "select_new_ys": [
+                    "1 + 11 = 12 (restantes: 11 12 13)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n",
+                    "11 - 2 = 9 (restantes: 1 9 11)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "1 11 11 13",
+                "ys": [
+                    "1 + 11 = 12 (restantes: 11 12 13)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n",
+                    "11 - 2 = 9 (restantes: 1 9 11)\n"
+                ],
+                "new_ys": [
+                    "1 + 11 = 12 (restantes: 11 12 13)\n11 + 12 = 23 (restantes: 13 23)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n12 - 11 = 1 (restantes: 1 13)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n11 / 1 = 11 (restantes: 11 13)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n12 / 11 = 1 (restantes: 1 13)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n13 + 11 = 24 (restantes: 12 24)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n11 - 12 = -1 (restantes: -1 13)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n12 + 13 = 25 (restantes: 11 25)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n11 * 12 = 132 (restantes: 13 132)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n13 - 11 = 2 (restantes: 2 12)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n11 - 1 = 10 (restantes: 10 2)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n2 + 1 = 3 (restantes: 11 3)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n11 / 2 = 5.5 (n\u00e3o \u00e9 poss\u00edvel continuar com n\u00fameros inteiros)\n",
+                    "11 - 2 = 9 (restantes: 1 9 11)\n1 + 9 = 10 (restantes: 10 11)\n",
+                    "11 - 2 = 9 (restantes: 1 9 11)\n9 - 1 = 8 (restantes: 8 11)\n",
+                    "11 - 2 = 9 (restantes: 1 9 11)\n11 - 1 = 10 (restantes: 1 10)\n",
+                    "11 - 2 = 9 (restantes: 1 9 11)\n1 * 9 = 9 (restantes: 9 11)\n",
+                    "11 - 2 = 9 (restantes: 1 9 11)\n9 / 1 = 9 (restantes: 9 11)\n",
+                    "11 - 2 = 9 (restantes: 1 9 11)\n11 - 9 = 2 (restantes: 1 2)\n",
+                    "11 - 2 = 9 (restantes: 1 9 11)\n9 - 11 = -2 (restantes: -2 1)\n"
+                ],
+                "values": [
+                    2.001,
+                    3.0,
+                    0.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    20.0,
+                    20.0,
+                    0.0,
+                    0.0,
+                    0.003,
+                    0.0,
+                    0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    2.001,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "1 + 11 = 12 (restantes: 11 12 13)\n13 - 11 = 2 (restantes: 2 12)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n12 - 11 = 1 (restantes: 1 13)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "1 11 11 13",
+                "ys": [
+                    "1 + 11 = 12 (restantes: 11 12 13)\n13 - 11 = 2 (restantes: 2 12)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n12 - 11 = 1 (restantes: 1 13)\n"
+                ],
+                "new_ys": [
+                    "1 + 11 = 12 (restantes: 11 12 13)\n13 - 11 = 2 (restantes: 2 12)\n2 + 12 = 14 (restante: 14)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n13 - 11 = 2 (restantes: 2 12)\n12 / 2 = 6 (restante: 6)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n13 - 11 = 2 (restantes: 2 12)\n2 * 12 = 24 (restante: 24)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n13 - 11 = 2 (restantes: 2 12)\n12 - 2 = 10 (restante: 10)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n2 + 12 = 14 (restante: 14)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n12 / 2 = 6 (restante: 6)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n2 * 12 = 24 (restante: 24)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n12 - 2 = 10 (restante: 10)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\nEntrada: 3 5 7\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\nPoss\u00edveis pr\u00f3ximos passos:\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n5 + 7 = 12 (restantes: 3 12)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n7 - 3 = 4 (restantes: 4 5)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n7 / 3 = 2 (restantes: 2 5)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n5 - 3 = 2 (restantes: 2 7)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n5 * 7 = 35 (restante: 35)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n7 / 5 = 1 (restantes: 1 3)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n7 - 5 = 2 (restantes: 2 7)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 7 = 10 (restantes: 5 10)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 * 5 = 15 (restantes: 7 15)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n12 - 11 = 1 (restantes: 1 13)\n1 + 13 = 14 (restantes: 14)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n12 - 11 = 1 (restantes: 1 13)\n13 / 1 = 13 (restantes: 13)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n12 - 11 = 1 (restantes: 1 13)\n13 - 1 = 12 (restantes: 12)\n",
+                    "1 + 11 = 12 (restantes: 11 12 13)\n12 - 11 = 1 (restantes: 1 13)\n13 * 1 = 13 (restantes: 13)\n"
+                ],
+                "values": [
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.001,
+                    3.0,
+                    2.0,
+                    0.0,
+                    3.0,
+                    2.0,
+                    0.003,
+                    0.0,
+                    2.0,
+                    0.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    0,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n7 / 3 = 2 (restantes: 2 5)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 * 5 = 15 (restantes: 7 15)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "1 11 11 13",
+                "ys": [
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n7 / 3 = 2 (restantes: 2 5)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 * 5 = 15 (restantes: 7 15)\n"
+                ],
+                "new_ys": [
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n7 + 8 = 15 (restantes: 15)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n7 / 8 = 0.875 (restantes: 0.875 8)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n8 - 7 = 1 (restantes: 1 8)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n7 - 8 = -1 (restantes: -1 8)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n7 * 8 = 56 (restantes: 56)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n8 / 7 = 1.1428571428571428 (restantes: 1.1428571428571428)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n8 - 7 = 1 (restantes: 1 8)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n7 / 3 = 2 (restantes: 2 5)\n2 + 5 = 7 (restante: 7)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n7 / 3 = 2 (restantes: 2 5)\n5 / 2 = 2.5 (restante: 2 5)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n7 / 3 = 2 (restantes: 2 5)\n2 * 5 = 10 (restante: 10)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n7 / 3 = 2 (restantes: 2 5)\n5 - 2 = 3 (restante: 3)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n7 / 3 = 2 (restantes: 2 5)\n2 - 5 = -3 (restante: -3)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 * 5 = 15 (restantes: 7 15)\n7 + 15 = 22 (restantes: 22)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 * 5 = 15 (restantes: 7 15)\n7 - 15 = -8 (restantes: -8)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 * 5 = 15 (restantes: 7 15)\n7 * 15 = 105 (restantes: 105)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 * 5 = 15 (restantes: 7 15)\n15 / 7 = 2.14 (restantes: 2.14)\n"
+                ],
+                "values": [
+                    0.0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n7 + 8 = 15 (restantes: 15)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n7 / 8 = 0.875 (restantes: 0.875 8)\n",
+                    "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n8 - 7 = 1 (restantes: 1 8)\n"
+                ]
+            }
+        ],
+        "idx": 905,
+        "ys": [
+            "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n7 + 8 = 15 (restantes: 15)\n",
+            "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n7 / 8 = 0.875 (restantes: 0.875 8)\n",
+            "13 - 11 = 2 (restantes: 1 11 2)\n1 + 11 = 12 (restantes: 2 12)\n3 + 5 = 8 (restantes: 7 8)\n8 - 7 = 1 (restantes: 1 8)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 32321,
+            "prompt_tokens": 128072,
+            "cost": 0.0320786
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "1 8 10 11",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "1 + 8 = 9 (restantes: 9 10 11)\n",
+                    "1 * 8 = 8 (restantes: 8 10 11)\n",
+                    "10 - 8 = 2 (restantes: 1 2 11)\n",
+                    "11 - 10 = 1 (restantes: 1 8 1)\n",
+                    "1 + 10 = 11 (restantes: 1 8 11)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n",
+                    "11 - 8 = 3 (restantes: 1 3 10)\n",
+                    "10 - 1 = 9 (restantes: 1 8 9)\n"
+                ],
+                "values": [
+                    22.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    22.0,
+                    3.0,
+                    22.0
+                ],
+                "select_new_ys": [
+                    "1 + 8 = 9 (restantes: 9 10 11)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n",
+                    "10 - 1 = 9 (restantes: 1 8 9)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "1 8 10 11",
+                "ys": [
+                    "1 + 8 = 9 (restantes: 9 10 11)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n",
+                    "10 - 1 = 9 (restantes: 1 8 9)\n"
+                ],
+                "new_ys": [
+                    "1 + 8 = 9 (restantes: 9 10 11)\n9 + 10 = 19 (restantes: 11 19)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n10 - 9 = 1 (restantes: 1 11)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n9 * 10 = 90 (restantes: 11 90)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n10 / 9 = 1.11 (restantes: 1.11 11)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n11 - 9 = 2 (restantes: 2 10)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n9 - 10 = -1 (restantes: -1 11)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n11 / 10 = 1.1 (restantes: 1.1 9)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n1 + 10 = 11 (restantes: 11)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n10 - 1 = 9 (restantes: 9 11)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n1 * 10 = 10 (restantes: 10 11)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 / 1 = 11 (restantes: 10 11)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n10 + 1 = 11 (restantes: 11)\n",
+                    "10 - 1 = 9 (restantes: 1 8 9)\n1 + 8 = 9 (restantes: 9)\n",
+                    "10 - 1 = 9 (restantes: 1 8 9)\n8 / 1 = 8 (restantes: 8)\n",
+                    "10 - 1 = 9 (restantes: 1 8 9)\n9 + 1 = 10 (restantes: 8)\n",
+                    "10 - 1 = 9 (restantes: 1 8 9)\n1 * 8 = 8 (restantes: 8)\n",
+                    "10 - 1 = 9 (restantes: 1 8 9)\n8 - 1 = 7 (restantes: 7)\n",
+                    "10 - 1 = 9 (restantes: 1 8 9)\n9 - 8 = 1 (restantes: 1)\n",
+                    "10 - 1 = 9 (restantes: 1 8 9)\n9 / 1 = 9 (restantes: 8)\n",
+                    "10 - 1 = 9 (restantes: 1 8 9)\n9 - 1 = 8 (restantes: 8)\n"
+                ],
+                "values": [
+                    0.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.001,
+                    0.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "1 + 8 = 9 (restantes: 9 10 11)\n10 - 9 = 1 (restantes: 1 11)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n11 / 10 = 1.1 (restantes: 1.1 9)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "1 8 10 11",
+                "ys": [
+                    "1 + 8 = 9 (restantes: 9 10 11)\n10 - 9 = 1 (restantes: 1 11)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n11 / 10 = 1.1 (restantes: 1.1 9)\n"
+                ],
+                "new_ys": [
+                    "1 + 8 = 9 (restantes: 9 10 11)\n10 - 9 = 1 (restantes: 1 11)\n1 + 11 = 12 (restantes: 12)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n10 - 9 = 1 (restantes: 1 11)\n11 - 1 = 10 (restantes: 10)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n10 - 9 = 1 (restantes: 1 11)\n11 / 1 = 11 (restantes: 11)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n10 - 9 = 1 (restantes: 1 11)\n1 * 11 = 11 (restantes: 11)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n1 + 10 = 11 (restantes: 10 11)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 / 1 = 10 (restantes: 10 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n1 * 10 = 10 (restantes: 10 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 - 1 = 9 (restantes: 9 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 - 10 = 0 (restantes: 1 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 / 10 = 1 (restantes: 1 1)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n11 / 10 = 1.1 (restantes: 1.1 9)\n1.1 + 9 = 10.1 (restantes: nenhum)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n11 / 10 = 1.1 (restantes: 1.1 9)\n9 / 1.1 = 8.181818181818 (restantes: nenhum)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n11 / 10 = 1.1 (restantes: 1.1 9)\n1.1 * 9 = 9.9 (restantes: nenhum)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n11 / 10 = 1.1 (restantes: 1.1 9)\n9 - 1.1 = 7.9 (restantes: nenhum)\n",
+                    "1 + 8 = 9 (restantes: 9 10 11)\n11 / 10 = 1.1 (restantes: 1.1 9)\nN\u00e3o h\u00e1 mais poss\u00edveis pr\u00f3ximos passos, pois s\u00f3 h\u00e1 dois n\u00fameros na entrada.\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    2.001,
+                    2.001,
+                    0.001,
+                    3.0,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003
+                ],
+                "select_new_ys": [
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 - 10 = 0 (restantes: 1 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 / 1 = 10 (restantes: 10 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n1 * 10 = 10 (restantes: 10 10)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "1 8 10 11",
+                "ys": [
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 - 10 = 0 (restantes: 1 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 / 1 = 10 (restantes: 10 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n1 * 10 = 10 (restantes: 10 10)\n"
+                ],
+                "new_ys": [
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 - 10 = 0 (restantes: 1 10)\n1 + 10 = 11 (restante: 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 - 10 = 0 (restantes: 1 10)\n10 - 1 = 9 (restante: 9)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 - 10 = 0 (restantes: 1 10)\n1 * 10 = 10 (restante: 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 - 10 = 0 (restantes: 1 10)\n10 / 1 = 10 (restante: 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 / 1 = 10 (restantes: 10 10)\n10 + 10 = 20 (restantes: 20)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 / 1 = 10 (restantes: 10 10)\n10 / 10 = 1 (restantes: 1 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 / 1 = 10 (restantes: 10 10)\n10 - 10 = 0 (restantes: 0 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 / 1 = 10 (restantes: 10 10)\n10 * 10 = 100 (restantes: 100)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 / 1 = 10 (restantes: 10 10)\nNenhuma outra opera\u00e7\u00e3o poss\u00edvel.\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n1 * 10 = 10 (restantes: 10 10)\n10 + 10 = 20 (restante: 20)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n1 * 10 = 10 (restantes: 10 10)\n10 / 10 = 1 (restante: 1)\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    3.0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 / 1 = 10 (restantes: 10 10)\n10 / 10 = 1 (restantes: 1 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 - 10 = 0 (restantes: 1 10)\n1 + 10 = 11 (restante: 10)\n",
+                    "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 - 10 = 0 (restantes: 1 10)\n10 - 1 = 9 (restante: 9)\n"
+                ]
+            }
+        ],
+        "idx": 906,
+        "ys": [
+            "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 / 1 = 10 (restantes: 10 10)\n10 / 10 = 1 (restantes: 1 10)\n",
+            "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 - 10 = 0 (restantes: 1 10)\n1 + 10 = 11 (restante: 10)\n",
+            "1 * 10 = 10 (restantes: 1 10 11)\n11 - 10 = 1 (restantes: 1 10)\n10 - 10 = 0 (restantes: 1 10)\n10 - 1 = 9 (restante: 9)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 35039,
+            "prompt_tokens": 139897,
+            "cost": 0.0349872
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "2 3 6 9",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "2 + 3 = 5 (restantes: 5 6 9)\n",
+                    "2 * 3 = 6 (restantes: 6 6 9)\n",
+                    "6 + 3 = 9 (restantes: 2 6 9)\n",
+                    "9 / 3 = 3 (restantes: 2 6 3)\n",
+                    "6 - 2 = 4 (restantes: 4 6 9)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n",
+                    "6 / 2 = 3 (restantes: 2 3 6)\n",
+                    "9 - 6 = 3 (restantes: 2 3 6)\n"
+                ],
+                "values": [
+                    41.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    60.0,
+                    3.0,
+                    3.0
+                ],
+                "select_new_ys": [
+                    "9 - 3 = 6 (restantes: 2 6 6)\n",
+                    "2 + 3 = 5 (restantes: 5 6 9)\n",
+                    "2 * 3 = 6 (restantes: 6 6 9)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "2 3 6 9",
+                "ys": [
+                    "9 - 3 = 6 (restantes: 2 6 6)\n",
+                    "2 + 3 = 5 (restantes: 5 6 9)\n",
+                    "2 * 3 = 6 (restantes: 6 6 9)\n"
+                ],
+                "new_ys": [
+                    "9 - 3 = 6 (restantes: 2 6 6)\n2 + 6 = 8 (restantes: 6 8)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n6 / 2 = 3 (restantes: 3 6)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n6 - 2 = 4 (restantes: 4 6)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n2 * 6 = 12 (restantes: 6 12)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n6 - 6 = 0 (restantes: 2 6)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n6 / 6 = 1 (restantes: 1 6)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n6 - 6 = 0 (restantes: 2 6)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n2 * 6 = 12 (restantes: 6 12)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\nEntrada: 1 2 3 4\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\nPoss\u00edveis pr\u00f3ximos passos:\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 + 2 = 3 (restantes: 3 4)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n2 + 3 = 5 (restantes: 1 4 5)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n2 * 3 = 6 (restantes: 1 4 6)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 + 4 = 7 (restantes: 1 2 7)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n4 - 2 = 2 (restantes: 1 2 2)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n4 / 2 = 2 (restantes: 1 2 2)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n4 - 3 = 1 (restantes: 1 2 3)\n",
+                    "2 + 3 = 5 (restantes: 5 6 9)\n5 + 6 = 11 (restantes: 9 11)\n",
+                    "2 + 3 = 5 (restantes: 5 6 9)\n6 / 3 = 2 (restantes: 2 5 9)\n",
+                    "2 + 3 = 5 (restantes: 5 6 9)\n9 + 5 = 14 (restantes: 6 9)\n",
+                    "2 + 3 = 5 (restantes: 5 6 9)\n5 * 6 = 30 (restantes: 9 30)\n",
+                    "2 + 3 = 5 (restantes: 5 6 9)\n6 - 5 = 1 (restantes: 1 9)\n",
+                    "2 + 3 = 5 (restantes: 5 6 9)\n9 - 6 = 3 (restantes: 3 5)\n",
+                    "2 + 3 = 5 (restantes: 5 6 9)\n9 / 3 = 3 (restantes: 3 5)\n",
+                    "2 + 3 = 5 (restantes: 5 6 9)\n9 - 5 = 4 (restantes: 4 6)\n",
+                    "2 * 3 = 6 (restantes: 6 6 9)\n6 + 6 = 12 (restantes: 9 12)\n",
+                    "2 * 3 = 6 (restantes: 6 6 9)\n6 / 6 = 1 (restantes: 1 9)\n",
+                    "2 * 3 = 6 (restantes: 6 6 9)\n9 + 6 = 15 (restantes: 6 15)\n",
+                    "2 * 3 = 6 (restantes: 6 6 9)\n6 * 6 = 36 (restantes: 9 36)\n",
+                    "2 * 3 = 6 (restantes: 6 6 9)\n9 - 6 = 3 (restantes: 3 6)\n",
+                    "2 * 3 = 6 (restantes: 6 6 9)\n6 - 6 = 0 (restantes: 0 9)\n"
+                ],
+                "values": [
+                    3.0,
+                    2.0,
+                    0.0,
+                    0.0,
+                    22.0,
+                    3.0,
+                    0,
+                    0,
+                    0.003,
+                    0.001,
+                    3.0,
+                    60.0,
+                    3.0,
+                    22.0,
+                    3.0,
+                    41.0,
+                    1.002,
+                    1.002,
+                    3.0,
+                    0.0,
+                    3.0,
+                    3.0,
+                    1.001,
+                    3.0,
+                    1.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    2.0,
+                    3.0
+                ],
+                "select_new_ys": [
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n6 - 6 = 0 (restantes: 2 6)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "2 3 6 9",
+                "ys": [
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n6 - 6 = 0 (restantes: 2 6)\n"
+                ],
+                "new_ys": [
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n2 + 3 = 5 (restantes: 4 5)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n2 * 3 = 6 (restantes: 4 6)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n3 + 4 = 7 (restantes: 2 7)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n3 * 4 = 12 (restantes: 2 12)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n4 - 2 = 2 (restantes: 2 3)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n4 / 2 = 2 (restantes: 2 4)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n3 - 2 = 1 (restantes: 1 4)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n4 - 3 = 1 (restantes: 1 3)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n1 + 2 = 3 (restantes: 3 12)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 12 = 24 (restantes: 1 24)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n12 / 2 = 6 (restantes: 1 6)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 1 = 2 (restantes: 2 12)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n12 - 2 = 10 (restantes: 1 10)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 + 12 = 14 (restantes: 1 14)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n12 - 1 = 11 (restantes: 2 11)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n1 * 12 = 12 (restantes: 12)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n6 - 6 = 0 (restantes: 2 6)\n2 + 6 = 8 (restantes: 8)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n6 - 6 = 0 (restantes: 2 6)\n6 / 2 = 3 (restantes: 3 2)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n6 - 6 = 0 (restantes: 2 6)\n2 * 6 = 12 (restantes: 12)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n6 - 6 = 0 (restantes: 2 6)\n6 - 2 = 4 (restantes: 4 2)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n6 - 6 = 0 (restantes: 2 6)\nNenhuma outra opera\u00e7\u00e3o \u00e9 poss\u00edvel com esses n\u00fameros.\n"
+                ],
+                "values": [
+                    0.0,
+                    0.0,
+                    2.0,
+                    20.0,
+                    0.002,
+                    3.0,
+                    3.0,
+                    0.0,
+                    2.0,
+                    41.0,
+                    3.0,
+                    20.0,
+                    3.0,
+                    2.0,
+                    0,
+                    0,
+                    0,
+                    0.0,
+                    0,
+                    0.0,
+                    0.003
+                ],
+                "select_new_ys": [
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 12 = 24 (restantes: 1 24)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n3 * 4 = 12 (restantes: 2 12)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 1 = 2 (restantes: 2 12)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "2 3 6 9",
+                "ys": [
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 12 = 24 (restantes: 1 24)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n3 * 4 = 12 (restantes: 2 12)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 1 = 2 (restantes: 2 12)\n"
+                ],
+                "new_ys": [
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 12 = 24 (restantes: 1 24)\n1 + 24 = 25 (restantes: 25)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 12 = 24 (restantes: 1 24)\n24 / 2 = 12 (restantes: 12)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 12 = 24 (restantes: 1 24)\n24 - 1 = 23 (restantes: 23)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 12 = 24 (restantes: 1 24)\n1 * 24 = 24 (restantes: 24)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 12 = 24 (restantes: 1 24)\n24 - 24 = 0 (restantes: 0)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n3 * 4 = 12 (restantes: 2 12)\n2 + 12 = 14 (restantes: 14)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n3 * 4 = 12 (restantes: 2 12)\n12 / 2 = 6 (restantes: 6)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n3 * 4 = 12 (restantes: 2 12)\n2 * 12 = 24 (restantes: 24)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n3 * 4 = 12 (restantes: 2 12)\n12 - 2 = 10 (restantes: 10)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n3 * 4 = 12 (restantes: 2 12)\n12 - 12 = 0 (restantes: 0)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 1 = 2 (restantes: 2 12)\n2 + 12 = 14 (restante: 14)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 1 = 2 (restantes: 2 12)\n12 / 2 = 6 (restante: 6)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 1 = 2 (restantes: 2 12)\n2 * 12 = 24 (restante: 24)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 1 = 2 (restantes: 2 12)\n12 - 2 = 10 (restante: 10)\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0,
+                    20.0,
+                    0.0,
+                    0.0,
+                    0,
+                    20.0,
+                    0,
+                    0.0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 12 = 24 (restantes: 1 24)\n1 * 24 = 24 (restantes: 24)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n3 * 4 = 12 (restantes: 2 12)\n2 * 12 = 24 (restantes: 24)\n",
+                    "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 12 = 24 (restantes: 1 24)\n1 + 24 = 25 (restantes: 25)\n"
+                ]
+            }
+        ],
+        "idx": 907,
+        "ys": [
+            "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 12 = 24 (restantes: 1 24)\n1 * 24 = 24 (restantes: 24)\n",
+            "9 - 3 = 6 (restantes: 2 6 6)\n1 * 2 = 2 (restantes: 2 3 4)\n3 * 4 = 12 (restantes: 2 12)\n2 * 12 = 24 (restantes: 24)\n",
+            "9 - 3 = 6 (restantes: 2 6 6)\n3 * 4 = 12 (restantes: 1 2 12)\n2 * 12 = 24 (restantes: 1 24)\n1 + 24 = 25 (restantes: 25)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 38781,
+            "prompt_tokens": 154151,
+            "cost": 0.0385864
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "1 3 5 9",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "1 + 3 = 4 (restantes: 4 5 9)\n",
+                    "3 + 5 = 8 (restantes: 1 8 9)\n",
+                    "9 - 5 = 4 (restantes: 1 3 4)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n",
+                    "5 - 3 = 2 (restantes: 1 2 9)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n",
+                    "5 + 1 = 6 (restantes: 3 6 9)\n",
+                    "9 - 1 = 8 (restantes: 3 5 8)\n"
+                ],
+                "values": [
+                    3.0,
+                    22.0,
+                    3.0,
+                    60.0,
+                    3.0,
+                    41.0,
+                    2.0,
+                    3.0
+                ],
+                "select_new_ys": [
+                    "1 * 3 = 3 (restantes: 3 5 9)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n",
+                    "3 + 5 = 8 (restantes: 1 8 9)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "1 3 5 9",
+                "ys": [
+                    "1 * 3 = 3 (restantes: 3 5 9)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n",
+                    "3 + 5 = 8 (restantes: 1 8 9)\n"
+                ],
+                "new_ys": [
+                    "1 * 3 = 3 (restantes: 3 5 9)\n3 + 5 = 8 (restantes: 8 9)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n5 - 3 = 2 (restantes: 2 9)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n3 * 5 = 15 (restantes: 15 9)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n5 / 3 = 1.67 (restantes: 1.67 9)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n9 - 3 = 6 (restantes: 6 5)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n9 - 5 = 4 (restantes: 3 4)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n3 / 5 = 0.6 (restantes: 0.6 9)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n5 * 9 = 45 (restantes: 3 45)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n1 + 3 = 4 (restantes: 4 6)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 / 3 = 2 (restantes: 1 2 6)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n1 * 3 = 3 (restantes: 3 6)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n3 + 6 = 9 (restantes: 1 9)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n1 * 6 = 6 (restantes: 3 6)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 / 2 = 3 (restantes: 1 3 3)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 1 = 5 (restantes: 3 5 6)\n",
+                    "3 + 5 = 8 (restantes: 1 8 9)\n1 + 8 = 9 (restantes: 9)\n",
+                    "3 + 5 = 8 (restantes: 1 8 9)\n8 - 1 = 7 (restantes: 7 9)\n",
+                    "3 + 5 = 8 (restantes: 1 8 9)\n9 - 8 = 1 (restantes: 1 9)\n",
+                    "3 + 5 = 8 (restantes: 1 8 9)\n1 * 8 = 8 (restantes: 8 9)\n",
+                    "3 + 5 = 8 (restantes: 1 8 9)\n9 / 1 = 9 (restantes: 8 9)\n",
+                    "3 + 5 = 8 (restantes: 1 8 9)\n8 + 1 = 9 (restantes: 9)\n",
+                    "3 + 5 = 8 (restantes: 1 8 9)\n9 / 8 = 1.125 (restantes: 1 8 9)\n",
+                    "3 + 5 = 8 (restantes: 1 8 9)\n9 - 1 = 8 (restantes: 8 9)\n"
+                ],
+                "values": [
+                    2.0,
+                    3.0,
+                    40.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0.0,
+                    40.0,
+                    0.0,
+                    3.0,
+                    2.0,
+                    3.0,
+                    2.0,
+                    41.0,
+                    0.003,
+                    3.0,
+                    0,
+                    0.0,
+                    3.0,
+                    2.0,
+                    2.0,
+                    0,
+                    22.0,
+                    2.0
+                ],
+                "select_new_ys": [
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n3 * 5 = 15 (restantes: 15 9)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n5 * 9 = 45 (restantes: 3 45)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "1 3 5 9",
+                "ys": [
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n3 * 5 = 15 (restantes: 15 9)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n5 * 9 = 45 (restantes: 3 45)\n"
+                ],
+                "new_ys": [
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n1 + 3 = 4 (restantes: 4 6)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n1 * 3 = 3 (restantes: 3 6)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n3 + 6 = 9 (restantes: 1 9)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n3 * 6 = 18 (restantes: 1 18)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 / 3 = 2 (restantes: 1 2)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 - 1 = 5 (restantes: 3 5)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n3 * 1 = 3 (restantes: 3 6)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 / 1 = 6 (restantes: 1 6)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n3 * 5 = 15 (restantes: 15 9)\n15 + 9 = 24 (restantes: 24)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n3 * 5 = 15 (restantes: 15 9)\n15 - 9 = 6 (restantes: 6)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n3 * 5 = 15 (restantes: 15 9)\n15 * 9 = 135 (restantes: 135)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n3 * 5 = 15 (restantes: 15 9)\n15 / 9 = 1.67 (restantes: 1.67, arredondando para baixo: 1)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n5 * 9 = 45 (restantes: 3 45)\n3 + 45 = 48 (restantes: 48)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n5 * 9 = 45 (restantes: 3 45)\n45 / 3 = 15 (restantes: 15)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n5 * 9 = 45 (restantes: 3 45)\n3 * 45 = 135 (restantes: 135)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n5 * 9 = 45 (restantes: 3 45)\n45 - 3 = 42 (restantes: 42)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n5 * 9 = 45 (restantes: 3 45)\n45 - 45 = 0 (restantes: 0)\n",
+                    "1 * 3 = 3 (restantes: 3 5 9)\n5 * 9 = 45 (restantes: 3 45)\n3 - 45 = -42 (restantes: -42)\n"
+                ],
+                "values": [
+                    0.0,
+                    2.0,
+                    3.0,
+                    2.0,
+                    0.0,
+                    2.001,
+                    1.0,
+                    2.0,
+                    3.0,
+                    20.0,
+                    0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "select_new_ys": [
+                    "1 * 3 = 3 (restantes: 3 5 9)\n3 * 5 = 15 (restantes: 15 9)\n15 + 9 = 24 (restantes: 24)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n3 + 6 = 9 (restantes: 1 9)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 / 1 = 6 (restantes: 1 6)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "1 3 5 9",
+                "ys": [
+                    "1 * 3 = 3 (restantes: 3 5 9)\n3 * 5 = 15 (restantes: 15 9)\n15 + 9 = 24 (restantes: 24)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n3 + 6 = 9 (restantes: 1 9)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 / 1 = 6 (restantes: 1 6)\n"
+                ],
+                "new_ys": [
+                    "1 * 3 = 3 (restantes: 3 5 9)\n3 * 5 = 15 (restantes: 15 9)\n15 + 9 = 24 (restantes: 24)\nResposta: (1 * 3) * (5 + 9) = 24\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n3 + 6 = 9 (restantes: 1 9)\n1 + 9 = 10 (restantes: 10)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n3 + 6 = 9 (restantes: 1 9)\n9 - 1 = 8 (restantes: 8)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n3 + 6 = 9 (restantes: 1 9)\n1 * 9 = 9 (restantes: 9)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n3 + 6 = 9 (restantes: 1 9)\n9 / 1 = 9 (restantes: 9)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n3 + 6 = 9 (restantes: 1 9)\n9 + 1 = 10 (restantes: 9)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n3 + 6 = 9 (restantes: 1 9)\n9 - 9 = 0 (restantes: 1)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 / 1 = 6 (restantes: 1 6)\n1 + 6 = 7 (restantes: 7)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 / 1 = 6 (restantes: 1 6)\n6 / 2 = 3 (restantes: 3)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 / 1 = 6 (restantes: 1 6)\n6 - 1 = 5 (restantes: 5)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 / 1 = 6 (restantes: 1 6)\n1 * 6 = 6 (restantes: 6)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 / 1 = 6 (restantes: 1 6)\n6 - 6 = 0 (restantes: 0)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 / 1 = 6 (restantes: 1 6)\n1 / 6 = 0 (restantes: 1 6)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 / 1 = 6 (restantes: 1 6)\n6 - 1 = 5 (restantes: 5)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 / 1 = 6 (restantes: 1 6)\n6 / 1 = 6 (restantes: 6)\n"
+                ],
+                "values": [
+                    60.0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0.0,
+                    3.0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "1 * 3 = 3 (restantes: 3 5 9)\n3 * 5 = 15 (restantes: 15 9)\n15 + 9 = 24 (restantes: 24)\nResposta: (1 * 3) * (5 + 9) = 24\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 / 1 = 6 (restantes: 1 6)\n1 / 6 = 0 (restantes: 1 6)\n",
+                    "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n3 + 6 = 9 (restantes: 1 9)\n1 + 9 = 10 (restantes: 10)\n"
+                ]
+            }
+        ],
+        "idx": 908,
+        "ys": [
+            "1 * 3 = 3 (restantes: 3 5 9)\n3 * 5 = 15 (restantes: 15 9)\n15 + 9 = 24 (restantes: 24)\nResposta: (1 * 3) * (5 + 9) = 24\n",
+            "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n6 / 1 = 6 (restantes: 1 6)\n1 / 6 = 0 (restantes: 1 6)\n",
+            "9 - 3 = 6 (restantes: 1 3 6)\n6 - 3 = 3 (restantes: 1 3 6)\n3 + 6 = 9 (restantes: 1 9)\n1 + 9 = 10 (restantes: 10)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 41903,
+            "prompt_tokens": 164718,
+            "cost": 0.041324200000000005
+        }
+    },
+    {
+        "steps": [
+            {
+                "step": 0,
+                "x": "3 3 7 12",
+                "ys": [
+                    ""
+                ],
+                "new_ys": [
+                    "3 + 3 = 6 (restantes: 6 7 12)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n",
+                    "12 - 3 = 9 (restantes: 3 7 9)\n",
+                    "3 * 7 = 21 (restantes: 21 3 12)\n",
+                    "7 + 3 = 10 (restantes: 10 3 12)\n",
+                    "12 / 3 = 4 (restantes: 3 7 4)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n"
+                ],
+                "values": [
+                    3.0,
+                    3.0,
+                    21.0,
+                    3.0,
+                    2.0,
+                    3.0,
+                    3.0,
+                    0
+                ],
+                "select_new_ys": [
+                    "7 - 3 = 4 (restantes: 4 3 12)\n",
+                    "3 + 3 = 6 (restantes: 6 7 12)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n"
+                ]
+            },
+            {
+                "step": 1,
+                "x": "3 3 7 12",
+                "ys": [
+                    "7 - 3 = 4 (restantes: 4 3 12)\n",
+                    "3 + 3 = 6 (restantes: 6 7 12)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n"
+                ],
+                "new_ys": [
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 + 3 = 7 (restantes: 7 12)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 * 3 = 12 (restantes: 12 12)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n12 / 4 = 3 (restantes: 3 12)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n12 / 3 = 4 (restantes: 4 12)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n12 - 4 = 8 (restantes: 4 8)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n12 - 3 = 9 (restantes: 4 9)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 + 12 = 16 (restantes: 3 16)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 * 12 = 48 (restantes: 3 48)\n",
+                    "3 + 3 = 6 (restantes: 6 7 12)\n6 + 7 = 13 (restantes: 12 13)\n",
+                    "3 + 3 = 6 (restantes: 6 7 12)\n7 - 6 = 1 (restantes: 1 12)\n",
+                    "3 + 3 = 6 (restantes: 6 7 12)\n12 - 7 = 5 (restantes: 5 6)\n",
+                    "3 + 3 = 6 (restantes: 6 7 12)\n6 * 7 = 42 (restantes: 12 42)\n",
+                    "3 + 3 = 6 (restantes: 6 7 12)\n7 / 6 = 1.1667 (restantes: 1.1667 12)\n",
+                    "3 + 3 = 6 (restantes: 6 7 12)\n12 + 6 = 18 (restantes: 7 18)\n",
+                    "3 + 3 = 6 (restantes: 6 7 12)\n6 / 7 = 0.8571 (restantes: 0.8571 12)\n",
+                    "3 + 3 = 6 (restantes: 6 7 12)\n7 * 12 = 84 (restantes: 6 84)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n7 + 9 = 16 (restantes: 12 16)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n7 * 9 = 63 (restantes: 12 63)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n9 / 3 = 3 (restantes: 7 12 3)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n12 - 7 = 5 (restantes: 5 9 12)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n9 - 7 = 2 (restantes: 2 9 12)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n12 / 3 = 4 (restantes: 4 7 9)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n7 - 9 = -2 (restantes: -2 12)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n9 / 2 = 4.5 (restantes: 4.5 7 12)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\nEntrada: 4 6 8 10\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\nPoss\u00edveis pr\u00f3ximos passos:\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n4 + 6 = 10 (restantes: 8 10)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n4 * 6 = 24 (restantes: 8 24 10)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n6 / 2 = 3 (restantes: 3 4 8 10)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n10 - 4 = 6 (restantes: 4 6 6)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n4 * 10 = 40 (restantes: 6 8 40)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 / 4 = 2 (restantes: 2 6 10)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n10 / 2 = 5 (restantes: 4 6 5)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n6 / 6 = 1 (restantes: 4 8 1)\n"
+                ],
+                "values": [
+                    0.001,
+                    60.0,
+                    2.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    3.0,
+                    2.0,
+                    1.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0.001,
+                    2.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    2.0,
+                    3.0,
+                    3.0,
+                    0.0,
+                    3.0,
+                    0.003,
+                    0.003,
+                    1.0,
+                    3.0,
+                    3.0,
+                    22.0,
+                    3.0,
+                    2.001,
+                    3.0,
+                    3.0,
+                    3.0
+                ],
+                "select_new_ys": [
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 * 3 = 12 (restantes: 12 12)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 + 12 = 16 (restantes: 3 16)\n"
+                ]
+            },
+            {
+                "step": 2,
+                "x": "3 3 7 12",
+                "ys": [
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 * 3 = 12 (restantes: 12 12)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 + 12 = 16 (restantes: 3 16)\n"
+                ],
+                "new_ys": [
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 * 3 = 12 (restantes: 12 12)\n12 + 12 = 24 (restante: 24)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 * 3 = 12 (restantes: 12 12)\n12 / 2 = 6 (restante: 6)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 * 3 = 12 (restantes: 12 12)\n12 - 12 = 0 (restante: 0)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 * 3 = 12 (restantes: 12 12)\n12 * 12 = 144 (restante: 144)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 * 3 = 12 (restantes: 12 12)\nN\u00e3o \u00e9 poss\u00edvel realizar mais opera\u00e7\u00f5es com esses n\u00fameros.\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 + 6 = 10 (restantes: 10 10)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n6 / 4 = 1.5 (restantes: 1.5 10)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 + 4 = 14 (restantes: 6 14)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 * 6 = 24 (restantes: 24 10)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n6 - 4 = 2 (restantes: 2 10)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 / 6 = 1.67 (restantes: 4 1.67)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 6 = 4 (restantes: 4 6)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 + 12 = 16 (restantes: 3 16)\n3 + 16 = 19 (restantes: 19)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 + 12 = 16 (restantes: 3 16)\n16 / 3 = 5.33 (restantes: 5.33)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 + 12 = 16 (restantes: 3 16)\n3 * 16 = 48 (restantes: 48)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 + 12 = 16 (restantes: 3 16)\n16 - 3 = 13 (restantes: 13)\n",
+                    "7 - 3 = 4 (restantes: 4 3 12)\n4 + 12 = 16 (restantes: 3 16)\nNeste caso, \u00e9 poss\u00edvel apenas somar, dividir, multiplicar ou subtrair os dois n\u00fameros da entrada, ent\u00e3o n\u00e3o h\u00e1 muitas op\u00e7\u00f5es de pr\u00f3ximos passos.\n"
+                ],
+                "values": [
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    0.003,
+                    2.001,
+                    0.0,
+                    0.0,
+                    20.0,
+                    0.0,
+                    3.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.003
+                ],
+                "select_new_ys": [
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 * 6 = 24 (restantes: 24 10)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 + 6 = 10 (restantes: 10 10)\n"
+                ]
+            },
+            {
+                "step": 3,
+                "x": "3 3 7 12",
+                "ys": [
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 * 6 = 24 (restantes: 24 10)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 + 6 = 10 (restantes: 10 10)\n"
+                ],
+                "new_ys": [
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 * 6 = 24 (restantes: 24 10)\n24 + 10 = 34 (restante: 34)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 * 6 = 24 (restantes: 24 10)\n24 / 10 = 2 (restante: 2)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 * 6 = 24 (restantes: 24 10)\n24 - 10 = 14 (restante: 14)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 * 6 = 24 (restantes: 24 10)\n10 / 24 = 0.4166666667 (restante: 10)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n6 + 6 = 12 (restantes: 12)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n6 / 6 = 1 (restantes: 1 6)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n6 * 6 = 36 (restantes: 36)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n6 - 6 = 0 (restantes: 0 6)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\nEntrada: 1 3 5\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\nPoss\u00edveis pr\u00f3ximos passos:\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n1 + 3 = 4 (restantes: 4 5)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n3 + 5 = 8 (restantes: 1 8)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n5 - 3 = 2 (restantes: 1 2)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n5 / 3 = 1 (restantes: 1 1)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n5 - 1 = 4 (restantes: 3 4)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n3 + 1 = 4 (restantes: 4 5)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n5 - 4 = 1 (restantes: 1 3)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n3 - 1 = 2 (restantes: 2 5)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\nEntrada: 10 3 5\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\nPoss\u00edveis pr\u00f3ximos passos:\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n10 + 3 = 13 (restantes: 13 5)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n10 / 3 = 3 (restantes: 3 5)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n10 - 3 = 7 (restantes: 7 5)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n10 * 3 = 30 (restantes: 30 5)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n3 + 5 = 8 (restantes: 10 8)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n5 - 3 = 2 (restantes: 10 2)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n5 / 3 = 1 (restantes: 10 1)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n5 - 1 = 4 (restantes: 10 4)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 + 6 = 10 (restantes: 10 10)\n10 + 10 = 20 (restantes: 20)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 + 6 = 10 (restantes: 10 10)\n10 / 10 = 1 (restantes: 1 10)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 + 6 = 10 (restantes: 10 10)\n10 - 10 = 0 (restantes: 0 10)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 + 6 = 10 (restantes: 10 10)\n10 * 10 = 100 (restantes: 100)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n4 + 6 = 10 (restantes: 10 10)\nNesta situa\u00e7\u00e3o, apenas quatro poss\u00edveis pr\u00f3ximos passos s\u00e3o poss\u00edveis, j\u00e1 que a entrada possui apenas dois valores.\n"
+                ],
+                "values": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    3.0,
+                    0,
+                    0,
+                    0,
+                    0.003,
+                    0.0,
+                    0,
+                    2.001,
+                    0.003,
+                    3.0,
+                    0.0,
+                    0.0,
+                    3.0,
+                    0,
+                    0,
+                    0,
+                    1.0,
+                    0,
+                    0,
+                    0,
+                    0.0,
+                    0,
+                    0,
+                    0,
+                    3.0,
+                    0,
+                    0,
+                    0
+                ],
+                "select_new_ys": [
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n6 / 6 = 1 (restantes: 1 6)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n5 - 1 = 4 (restantes: 3 4)\n",
+                    "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n3 - 1 = 2 (restantes: 2 5)\n"
+                ]
+            }
+        ],
+        "idx": 909,
+        "ys": [
+            "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n6 / 6 = 1 (restantes: 1 6)\n",
+            "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n5 - 1 = 4 (restantes: 3 4)\n",
+            "3 * 3 = 9 (restantes: 7 9 12)\n8 - 4 = 4 (restantes: 4 6 10)\n10 - 4 = 6 (restantes: 6 6)\n3 - 1 = 2 (restantes: 2 5)\n"
+        ],
+        "infos": [
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            },
+            {
+                "r": 0
+            }
+        ],
+        "usage_so_far": {
+            "completion_tokens": 49291,
+            "prompt_tokens": 191328,
+            "cost": 0.0481238
+        }
+    }
+]
