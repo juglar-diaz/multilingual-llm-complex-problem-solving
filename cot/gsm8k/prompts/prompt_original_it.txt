@@ -1,0 +1,58 @@
+Domanda: Ci sono 15 alberi nel boschetto. Oggi i lavoratori del boschetto pianteranno alberi nel boschetto. Dopo che avranno finito, ci saranno 21 alberi. Quanti alberi hanno piantato oggi i lavoratori del boschetto?
+Pensiamo passo dopo passo
+Ci sono 15 alberi in origine.
+Poi ci sono stati 21 alberi dopo che ne sono stati piantati altri.
+Quindi ci deve essere stato 21 - 15 = 6.
+La risposta è 6.
+
+Domanda: Se ci sono 3 auto nel parcheggio e ne arrivano altre 2, quante auto ci sono nel parcheggio?
+Pensiamo passo dopo passo
+Ci sono originariamente 3 auto.
+Arrivano altre 2 auto.
+3 + 2 = 5.
+La risposta è 5.
+
+Domanda: Leah aveva 32 cioccolatini e sua sorella 42. Se ne hanno mangiati 35, quanti pezzi gli sono rimasti in totale?
+Pensiamo passo dopo passo
+In origine, Leah aveva 32 cioccolatini.
+Sua sorella ne aveva 42.
+Quindi in totale avevano 32 + 42 = 74.
+Dopo aver mangiato 35, avevano 74 - 35 = 39.
+La risposta è 39.
+
+Domanda: Jason aveva 20 lecca-lecca. Ha dato a Denny dei lecca-lecca. Ora Jason ha 12 lecca-lecca. Quanti lecca-lecca ha dato Jason a Denny?
+Pensiamo passo dopo passo
+Jason ha iniziato con 20 lecca-lecca.
+Poi ne ha avuti 12 dopo averne dati un po&#39; a Denny.
+Quindi ha dato a Denny 20 - 12 = 8.
+La risposta è 8.
+
+Domanda: Shawn ha cinque giocattoli. Per Natale ha ricevuto due giocattoli ciascuno da sua madre e suo padre. Quanti giocattoli ha adesso?
+Pensiamo passo dopo passo
+Shawn ha iniziato con 5 giocattoli.
+Se ha ricevuto 2 giocattoli ciascuno da sua madre e suo padre, allora sono altri 4 giocattoli.
+5 + 4 = 9.
+La risposta è 9.
+
+Domanda: C&#39;erano nove computer nella sala server. Altri cinque computer venivano installati ogni giorno, dal lunedì al giovedì. Quanti computer ci sono ora nella sala server?
+Pensiamo passo dopo passo
+In origine c&#39;erano 9 computer.
+Per ciascuno dei 4 giorni, sono stati aggiunti altri 5 computer.
+Quindi sono stati aggiunti 5 * 4 = 20 computer.
+9 + 20 fa 29.
+La risposta è 29.
+
+Domanda: Michael aveva 58 palline da golf. Martedì ha perso 23 palline da golf. Mercoledì ne ha perse altre 2. Quante palline da golf aveva alla fine di mercoledì?
+Pensiamo passo dopo passo
+Michael ha iniziato con 58 palline da golf.
+Dopo aver perso 23 martedì, aveva 58 - 23 = 35.
+Dopo averne perse altre 2, aveva 35 - 2 = 33 palline da golf.
+La risposta è 33.
+
+Domanda: Olivia ha $ 23. Ha comprato cinque bagel per $ 3 ciascuno. Quanti soldi le sono rimasti?
+Pensiamo passo dopo passo
+Olivia aveva 23 dollari.
+5 bagel per 3 dollari ciascuno saranno 5 x 3 = 15 dollari.
+Quindi le rimangono 23-15 dollari.
+23 - 15 fa 8.
+La risposta è 8.

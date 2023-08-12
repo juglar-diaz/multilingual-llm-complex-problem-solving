@@ -1,0 +1,58 @@
+Pregunta: Hay 15 árboles en el bosque. Los trabajadores de la arboleda plantarán árboles en la arboleda hoy. Después de que hayan terminado, habrá 21 árboles. ¿Cuántos árboles plantaron hoy los trabajadores de la arboleda?
+Pensemos paso a paso
+Hay 15 árboles originalmente.
+Luego hubo 21 árboles después de que se plantaron algunos más.
+Entonces debe haber habido 21 - 15 = 6.
+la respuesta es 6
+
+Pregunta: Si hay 3 autos en el estacionamiento y llegan 2 autos más, ¿cuántos autos hay en el estacionamiento?
+Pensemos paso a paso
+Originalmente hay 3 coches.
+Llegan 2 carros más.
+3 + 2 = 5.
+la respuesta es 5
+
+Pregunta: Leah tenía 32 chocolates y su hermana tenía 42. Si se comieron 35, ¿cuántos pedazos les quedaron en total?
+Pensemos paso a paso
+Originalmente, Leah tenía 32 chocolates.
+Su hermana tenía 42.
+Así que en total tenían 32 + 42 = 74.
+Después de comer 35, tenían 74 - 35 = 39.
+La respuesta es 39.
+
+Pregunta: Jason tenía 20 piruletas. Le dio a Denny unas piruletas. Ahora Jason tiene 12 piruletas. ¿Cuántas paletas le dio Jason a Denny?
+Pensemos paso a paso
+Jason comenzó con 20 piruletas.
+Luego tuvo 12 después de darle algunos a Denny.
+Así que le dio a Denny 20 - 12 = 8.
+la respuesta es 8
+
+Pregunta: Shawn tiene cinco juguetes. Para Navidad, recibió dos juguetes de cada uno de su mamá y papá. ¿Cuántos juguetes tiene ahora?
+Pensemos paso a paso
+Shawn comenzó con 5 juguetes.
+Si recibió 2 juguetes de cada uno de su mamá y papá, entonces son 4 juguetes más.
+5 + 4 = 9.
+la respuesta es 9
+
+Pregunta: Había nueve computadoras en la sala de servidores. Se instalaron cinco computadoras más cada día, de lunes a jueves. ¿Cuántas computadoras hay ahora en la sala de servidores?
+Pensemos paso a paso
+Originalmente había 9 computadoras.
+Para cada uno de los 4 días, se agregaron 5 computadoras más.
+Entonces se agregaron 5 * 4 = 20 computadoras.
+9 + 20 es 29.
+La respuesta es 29.
+
+Pregunta: Michael tenía 58 pelotas de golf. El martes, perdió 23 pelotas de golf. El miércoles, perdió 2 más. ¿Cuántas pelotas de golf tenía al final del miércoles?
+Pensemos paso a paso
+Michael comenzó con 58 pelotas de golf.
+Después de perder 23 el martes, tenía 58 - 23 = 35.
+Después de perder 2 más, tenía 35 - 2 = 33 pelotas de golf.
+La respuesta es 33.
+
+Pregunta: Olivia tiene $23. Compró cinco bagels a $3 cada uno. ¿Cuánto dinero le queda a ella?
+Pensemos paso a paso
+Olivia tenía 23 dólares.
+5 bagels por 3 dólares cada uno serán 5 x 3 = 15 dólares.
+Así que le quedan 23 - 15 dólares.
+23 - 15 es 8.
+la respuesta es 8

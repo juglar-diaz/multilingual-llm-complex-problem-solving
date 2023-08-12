@@ -1,0 +1,58 @@
+Question : Il y a 15 arbres dans le bosquet. Les travailleurs de Grove planteront des arbres dans le bosquet aujourd'hui. Une fois qu'ils sont terminés, il y aura 21 arbres. Combien d'arbres les ouvriers du bosquet ont-ils plantés aujourd'hui ?
+Réfléchissons étape par étape
+Il y a 15 arbres à l'origine.
+Ensuite, il y avait 21 arbres après que d'autres aient été plantés.
+Donc il devait y avoir 21 - 15 = 6.
+La réponse est 6.
+
+Question : S'il y a 3 voitures dans le parking et que 2 voitures supplémentaires arrivent, combien y a-t-il de voitures dans le parking ?
+Réfléchissons étape par étape
+Il y a à l'origine 3 voitures.
+2 autres voitures arrivent.
+3 + 2 = 5.
+La réponse est 5.
+
+Question : Léa avait 32 chocolats et sa sœur en avait 42. S'ils en ont mangé 35, combien leur reste-t-il de morceaux au total ?
+Réfléchissons étape par étape
+À l'origine, Leah avait 32 chocolats.
+Sa sœur en avait 42.
+Donc au total ils avaient 32 + 42 = 74.
+Après en avoir mangé 35, ils en avaient 74 - 35 = 39.
+La réponse est 39.
+
+Question : Jason avait 20 sucettes. Il a donné à Denny des sucettes. Jason a maintenant 12 sucettes. Combien de sucettes Jason a-t-il donné à Denny ?
+Réfléchissons étape par étape
+Jason a commencé avec 20 sucettes.
+Puis il en a eu 12 après en avoir donné à Denny.
+Il a donc donné à Denny 20 - 12 = 8.
+La réponse est 8.
+
+Question : Shawn a cinq jouets. Pour Noël, il a reçu deux jouets chacun de sa mère et de son père. Combien de jouets a-t-il maintenant ?
+Réfléchissons étape par étape
+Shawn a commencé avec 5 jouets.
+S'il a reçu 2 jouets chacun de sa mère et de son père, cela fait 4 jouets de plus.
+5 + 4 = 9.
+La réponse est 9.
+
+Question : Il y avait neuf ordinateurs dans la salle des serveurs. Cinq ordinateurs supplémentaires ont été installés chaque jour, du lundi au jeudi. Combien y a-t-il d'ordinateurs dans la salle des serveurs ?
+Réfléchissons étape par étape
+Il y avait à l'origine 9 ordinateurs.
+Pour chacun des 4 jours, 5 ordinateurs supplémentaires ont été ajoutés.
+Donc 5 * 4 = 20 ordinateurs ont été ajoutés.
+9 + 20 font 29.
+La réponse est 29.
+
+Question : Michael avait 58 balles de golf. Mardi, il a perdu 23 balles de golf. Mercredi, il en a perdu 2 de plus. Combien de balles de golf avait-il à la fin de mercredi ?
+Réfléchissons étape par étape
+Michael a commencé avec 58 balles de golf.
+Après avoir perdu 23 mardi, il avait 58 - 23 = 35.
+Après en avoir perdu 2 de plus, il avait 35 - 2 = 33 balles de golf.
+La réponse est 33.
+
+Question : Olivia a 23 $. Elle a acheté cinq bagels pour 3 $ chacun. Combien d'argent lui reste-t-il ?
+Réfléchissons étape par étape
+Olivia avait 23 dollars.
+5 bagels pour 3 dollars chacun seront 5 x 3 = 15 dollars.
+Il lui reste donc 23 à 15 dollars.
+23 - 15 font 8.
+La réponse est 8.
