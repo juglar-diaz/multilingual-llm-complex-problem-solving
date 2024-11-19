@@ -1,1 +1,4 @@
-# multilingual-llm-complex-problem-solving
+# Multilingual-llm-complex-problem-solving
+In this project, I study multilingual capacities of Large Language Models (LLMs) by reasoning, code generation, and tool use.
+Most of the research evaluating capacities of LLMs in the literature focuses on English. We evaluate LLMs capacities in four (besides English) of the mostcommonly used languages in the world: Spanish, Portuguese, French, and Italian. This work clarifies multilingual capacities for several popular LLMs: GPT-4o, GPT-3.5, Gemini-1.5, PaLM 2, and Llama-3. Native speakers of these languages can benefit from knowing how these LLMs perform on these tasks for their014
+language. To assess the multilingual capacities of LLMs we developed multilingual versions of reasoning. code generation, and tool-using works in the literature. Evaluation datasets and developed models will be made publicly available as a result of this research.
